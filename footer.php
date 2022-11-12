@@ -93,7 +93,7 @@
 </div>
 <div class="col-lg-6 col-md-8">
 <div class="copy">
-<p>© Sanu is Proudly Designed by <a href="https://hibootstrap.com/" target="_blank">PranavTeja and Team</a></p>
+<p>©  <a href="#" target="_blank">Geethika School 2022</a></p>
 </div>
 </div>
 </div>
