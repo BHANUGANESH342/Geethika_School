@@ -29,7 +29,7 @@
 
 <link rel="stylesheet" href="assets/css/responsive.css">
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
-<title>Sanu - College University HTML Template</title>
+<title>Geethika School</title>
 </head>
 <body>
 
