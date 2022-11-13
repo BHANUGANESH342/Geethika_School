@@ -80,6 +80,9 @@ include "header.php"
 </div>
 </div>
 
+<div style="width:95%"><marquee scrollamount="6" height="30" scrolldelay="1" onMouseOver="this.stop();" onMouseOut="this.start();" direction="left" ><h4>
+Affiliated to Central Board of Secondary Education, New Delhi, Govt. of India - AFFILIATION NO: 130515,   School No; 57217-- Affiliated for Secondary School, Class 1 to 10</h4></marquee>
+</div>
 
 <div class="academic-area pt-100 pb-70">
 <div class="container">
