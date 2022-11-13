@@ -65,13 +65,13 @@ include "header.php"
 </div>
 <div class="owl-thumbs" data-slider-id="1">
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-1.jpg" alt="Images">
+<img src="assets/images/banner/slider4.jpg" alt="Images">
 </button>
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-2.jpg" alt="Images">
+<img src="assets/images/banner/slider8.jpg" alt="Images">
 </button>
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-3.jpg" alt="Images">
+<img src="assets/images/banner/slider9.jpg" alt="Images">
 </button>
 </div>
 </div>
