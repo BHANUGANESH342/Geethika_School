@@ -146,7 +146,7 @@ piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
 <i class="flaticon-graduation"></i>
 <a href="academics-details.html"><h3>Library</h3></a>
 </div>
-<p>The School library containing 10000+ Books that cover a spectrum of subjects.<br></p>
+<p>The School library containing 10000+ Books that cover a spectrum of subjects.<br><br></p>
 <!-- <a href="academics-details.html" class="read-more-btn">Graduate Education<i class="flaticon-next"></i></a> -->
 </div>
 </div>
@@ -157,7 +157,7 @@ piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
 <a href="academics-details.html"><h3>Transport</h3></a>
 </div>
 <p></p>
-<a href="academics-details.html" class="read-more-btn">Lifelong learning<i class="flaticon-next"></i></a>
+<a href="academics-details.html" class="read-more-btn">Good Staff & Safe transport for students.<br><br><br></a>
 </div>
 </div>
 </div>
