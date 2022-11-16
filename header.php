@@ -1,6 +1,6 @@
 
 <div class="preloader-area">
-<div class="spinner">
+<!-- <div class="spinner"> -->
 <div class="inner">
 <div class="disc"></div>
 
@@ -14,18 +14,18 @@
 <div class="row align-items-center">
 <div class="col-lg-6 col-md-6">
 <div class="header-left-content">
-<p>Get the latest updates and Sanu's response to COVID-19</p>
+<p>Call Us on +91 9014828382</p>
 </div>
 </div>
 <div class="col-lg-6 col-md-6">
 <div class="header-right-content">
 <div class="list">
 <ul>
-<li><a href="graduate-admission.html">Students</a></li>
-<li><a href="campus-life.html">Faculty & Staff</a></li>
-<li><a href="admission.html">Visitors</a></li>
-<li><a href="academics.html">Academics</a></li>
-<li><a href="alumni.html">Alumni</a></li>
+<!-- <li><a href="graduate-admission.html">Students</a></li> -->
+<!-- <li><a href="campus-life.html">Faculty & Staff</a></li> -->
+<li><a href="admission.html">Notifications</a></li>
+<li><a href="academics.html">Careers</a></li>
+<li><a href="alumni.html">Contact Us</a></li>
 </ul>
 </div>
 </div>
@@ -57,110 +57,68 @@
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 <ul class="navbar-nav ms-auto">
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle active">
+<a href="#" class="nav-link">
 Home
 </a>
-<ul class="dropdown-menu">
-<li class="nav-item">
-<a href="index.html" class="nav-link active">Home One</a>
 </li>
-<li class="nav-item">
-<a href="index-2.html" class="nav-link">Home Two</a>
-</li>
-<li class="nav-item">
-<a href="index-3.html" class="nav-link">Home Three</a>
-</li>
-</ul>
+
+
 </li>
 <li class="nav-item">
 <a href="#" class="nav-link dropdown-toggle">
-Pages
+About Us
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="graduate-admission.html" class="nav-link">Graduate Admission</a>
+<a href="graduate-admission.html" class="nav-link">Our Visionaries</a>
 </li>
 <li class="nav-item">
-<a href="campus-life.html" class="nav-link">Campus Life</a>
+<a href="graduate-admission.html" class="nav-link">The Team Leaders</a>
 </li>
 <li class="nav-item">
-<a href="alumni.html" class="nav-link">Alumni</a>
+<a href="graduate-admission.html" class="nav-link">Our Vision & Mission</a>
 </li>
+<li class="nav-item">
+<a href="graduate-admission.html" class="nav-link">School Day Schedule</a>
+</li>
+</ul>
+</li>
+
 <li class="nav-item">
 <a href="#" class="nav-link dropdown-toggle">
-Academics
+Admissions
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="academics.html" class="nav-link">Academics</a>
+<a href="courses.html" class="nav-link">Admissions Information</a>
 </li>
 <li class="nav-item">
-<a href="academics-details.html" class="nav-link">Academics Details</a>
+<a href="courses-details.html" class="nav-link">Admission Form</a>
 </li>
 </ul>
 </li>
+
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle">
-Latest News
-</a>
+    <a href="#" class="nav-link dropdown-toggle">Academics</a>
 <ul class="dropdown-menu">
-<li class="nav-item">
-<a href="latest-news.html" class="nav-link">Our Latest News</a>
 </li>
 <li class="nav-item">
-<a href="news-details.html" class="nav-link">News Details</a>
- </li>
+<a href="courses-details.html" class="nav-link">Admission Form</a>
+</li>
+</li>
+<li class="nav-item">
+<a href="courses-details.html" class="nav-link">Admission Form</a>
+</li>
+</li>
+<li class="nav-item">
+<a href="courses-details.html" class="nav-link">Admission Form</a>
+</li>
 </ul>
 </li>
-<li class="nav-item">
-<a href="faq.html" class="nav-link">FAQ</a>
-</li>
+
 <li class="nav-item">
 <a href="#" class="nav-link dropdown-toggle">
-Users
-</a>
-<ul class="dropdown-menu">
-<li class="nav-item">
-<a href="login.html" class="nav-link">Login</a>
-</li>
-<li class="nav-item">
-<a href="register.html" class="nav-link">Register</a>
-</li>
-<li class="nav-item">
-<a href="recover-password.html" class="nav-link">Recover Password</a>
-</li>
-</ul>
-</li>
-<li class="nav-item">
-<a href="privacy-policy.html" class="nav-link">Privacy Policy</a>
-</li>
-<li class="nav-item">
-<a href="terms-conditions.html" class="nav-link">Terms And Conditions</a>
-</li>
-<li class="nav-item">
-<a href="coming-soon.html" class="nav-link">Coming Soon</a>
-</li>
-<li class="nav-item">
-<a href="404.html" class="nav-link">404 Page</a>
-</li>
-</ul>
-</li>
-<li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle">
-Courses
-</a>
-<ul class="dropdown-menu">
-<li class="nav-item">
-<a href="courses.html" class="nav-link">Courses</a>
-</li>
-<li class="nav-item">
-<a href="courses-details.html" class="nav-link">Courses Details</a>
-</li>
-</ul>
-</li>
-<li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle">
-Health Care
+Curricular Activities
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
@@ -173,20 +131,20 @@ Health Care
 </li>
 <li class="nav-item">
 <a href="#" class="nav-link dropdown-toggle">
-Events
+Gallery
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="events.html" class="nav-link">Events</a>
+<a href="events.html" class="nav-link">Gallery</a>
 </li>
 <li class="nav-item">
 <a href="events-details.html" class="nav-link">Events Details</a>
 </li>
 </ul>
 </li>
-<li class="nav-item">
+<!-- <li class="nav-item">
 <a href="contact-us.html" class="nav-link">Contact Us</a>
-</li>
+</li> -->
 </ul>
 <div class="others-options">
 <div class="icon">

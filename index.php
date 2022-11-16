@@ -28,8 +28,8 @@
 <link rel="stylesheet" href="assets/css/dark.css">
 
 <link rel="stylesheet" href="assets/css/responsive.css">
-<link rel="icon" type="image/png" href="assets/images/favicon.png">
-<title>Sanu - College University HTML Template</title>
+<!-- <link rel="icon" type="image/png" href="assets/images/favicon.png"> -->
+<title>Geethika School</title>
 </head>
 <body>
 
@@ -81,7 +81,7 @@ include "header.php"
 <div class="academic-area pt-100 pb-70">
 <div class="container">
 <div class="section-title">
-<h2>Academics</h2>
+<h2>Our Facilities</h2>
 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
 </div>
 <div class="row justify-content-center">
@@ -89,35 +89,65 @@ include "header.php"
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="flaticon-college-graduation"></i>
-<a href="academics-details.html"><h3>Undergraduate Education</h3></a>
+<a href="academics-details.html"><h3>Sports</h3></a>
 </div>
-<p>Lorem ipsum dolor sit amet consectetur ad
-piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
-<a href="academics-details.html" class="read-more-btn">Undergraduate Education<i class="flaticon-next"></i></a>
+<p>Indoor and Outdoor Games for the Students.<br><br></p>
+<!-- <a href="academics-details.html" class="read-more-btn">Undergraduate Education<i class="flaticon-next"></i></a> -->
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="flaticon-graduation"></i>
-<a href="academics-details.html"><h3>Graduate Education</h3></a>
+<a href="academics-details.html"><h3>Infrastructure</h3></a>
 </div>
-<p>Lorem ipsum dolor sit amet consectetur ad
-piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
-<a href="academics-details.html" class="read-more-btn">Graduate Education<i class="flaticon-next"></i></a>
+<p>The Ambience of the school is calm and stimulating that ignites Young minds.<br></p>
+<!-- <a href="academics-details.html" class="read-more-btn">Graduate Education<i class="flaticon-next"></i></a> -->
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="flaticon-writing-tool"></i>
-<a href="academics-details.html"><h3>Lifelong learning</h3></a>
+<a href="academics-details.html"><h3>Dining</h3></a>
+</div>
+<p>Our custom Technology makes it easy to access our online menus to see what's for lunch everyday.<br></p>
+<!-- <a href="academics-details.html" class="read-more-btn">Lifelong learning<i class="flaticon-next"></i></a> -->
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
+<div class="single-academics-card">
+<div class="academic-top-content">
+<i class="flaticon-college-graduation"></i>
+<a href="academics-details.html"><h3>Community Outreach</h3></a>
 </div>
 <p>Lorem ipsum dolor sit amet consectetur ad
 piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
+<!-- <a href="academics-details.html" class="read-more-btn">Undergraduate Education<i class="flaticon-next"></i></a> -->
+</div>
+</div>
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
+<div class="single-academics-card">
+<div class="academic-top-content">
+<i class="flaticon-graduation"></i>
+<a href="academics-details.html"><h3>Library</h3></a>
+</div>
+<p>The School library containing 10000+ Books that cover a spectrum of subjects.<br></p>
+<!-- <a href="academics-details.html" class="read-more-btn">Graduate Education<i class="flaticon-next"></i></a> -->
+</div>
+</div>
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
+<div class="single-academics-card">
+<div class="academic-top-content">
+<i class="flaticon-writing-tool"></i>
+<a href="academics-details.html"><h3>Transport</h3></a>
+</div>
+<p></p>
 <a href="academics-details.html" class="read-more-btn">Lifelong learning<i class="flaticon-next"></i></a>
-</div>
-</div>
 </div>
 </div>
 </div>
