@@ -28,7 +28,11 @@
 <link rel="stylesheet" href="assets/css/dark.css">
 
 <link rel="stylesheet" href="assets/css/responsive.css">
+<<<<<<< HEAD
 <!-- <link rel="icon" type="image/png" href="assets/images/favicon.png"> -->
+=======
+<link rel="icon" type="image/png" href="assets/images/favicon.png">
+>>>>>>> fc1a27e9c097e08fccf6adc94bd26584cb563e6c
 <title>Geethika School</title>
 </head>
 <body>
@@ -43,40 +47,46 @@ include "header.php"
 <div class="hero-slider owl-carousel owl-theme" data-slider-id="1">
 <div class="slider-item banner-bg-1">
 <div class="slider-content">
-<h1>Explore Your Potential & Talents In Sanu</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
+    <br><h2>Join the School Now</h2><br>
+<!-- <h1 style="color:aqua;">Explore Your Potential & Talents In Sanu</h1> -->
+<!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p> -->
 <a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="slider-item banner-bg-2">
 <div class="slider-content">
-<h1>Explore Your Creativity & Talent With Sanu</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
+    <br><br><br><br>
+<!-- <h1>Explore Your Creativity & Talent With Sanu</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p> -->
 <a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="slider-item banner-bg-3">
 <div class="slider-content">
-<h1>Start Your Beautiful & Bright Future From Here</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
+    <br><br><br><br>
+<!-- <h1>Start Your Beautiful & Bright Future From Here</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p> -->
 <a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 </div>
 <div class="owl-thumbs" data-slider-id="1">
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-1.jpg" alt="Images">
+<img src="assets/images/banner/slider4.jpg" alt="Images">
 </button>
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-2.jpg" alt="Images">
+<img src="assets/images/banner/slider8.jpg" alt="Images">
 </button>
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-3.jpg" alt="Images">
+<img src="assets/images/banner/slider9.jpg" alt="Images">
 </button>
 </div>
 </div>
 </div>
 
+<div style="width:95%"><marquee scrollamount="6" height="30" scrolldelay="1" onMouseOver="this.stop();" onMouseOut="this.start();" direction="left" ><h4>
+Affiliated to Central Board of Secondary Education, New Delhi, Govt. of India - AFFILIATION NO: 130515,   School No; 57217-- Affiliated for Secondary School, Class 1 to 10</h4></marquee>
+</div>
 
 <div class="academic-area pt-100 pb-70">
 <div class="container">

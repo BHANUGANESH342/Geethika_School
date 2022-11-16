@@ -3,10 +3,15 @@
 <!-- <div class="spinner"> -->
 <div class="inner">
 <div class="disc"></div>
+<div class="disc"></div>
+<div class="disc"></div>
+<div class="disc"></div>
+<div class="disc"></div>
 
 </div>
 </div>
 </div>
+
 
 
 <div class="top-header-area">
@@ -14,7 +19,11 @@
 <div class="row align-items-center">
 <div class="col-lg-6 col-md-6">
 <div class="header-left-content">
+<<<<<<< HEAD
 <p>Call Us on +91 9014828382</p>
+=======
+<p>MANDATORY PUBLIC DISCLOSURE</p>
+>>>>>>> fc1a27e9c097e08fccf6adc94bd26584cb563e6c
 </div>
 </div>
 <div class="col-lg-6 col-md-6">
