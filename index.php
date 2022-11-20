@@ -28,11 +28,11 @@
 <link rel="stylesheet" href="assets/css/dark.css">
 
 <link rel="stylesheet" href="assets/css/responsive.css">
-<<<<<<< HEAD
-<!-- <link rel="icon" type="image/png" href="assets/images/favicon.png"> -->
-=======
+<!-- <<<<<<< HEAD -->
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
->>>>>>> fc1a27e9c097e08fccf6adc94bd26584cb563e6c
+<!-- ======= -->
+<link rel="icon" type="image/png" href="assets/images/favicon.png">
+<!-- >>>>>>> fc1a27e9c097e08fccf6adc94bd26584cb563e6c -->
 <title>Geethika School</title>
 </head>
 <body>
