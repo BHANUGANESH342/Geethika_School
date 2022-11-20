@@ -29,9 +29,11 @@
 
 <link rel="stylesheet" href="assets/css/responsive.css">
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
-<title>Sanu - College University HTML Template</title>
+<title>GEETHIKA SCHOOL CBSC </title>
 </head>
 <body>
+    <?php
+    include "header.php" ?>
     <div class="sidebar-content">
 
     <div class="contact-form">
@@ -161,7 +163,8 @@
 
 
 
-
+<?php include "footer.php"
+?>
     
     
 <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
