@@ -70,7 +70,7 @@ include ("header.php");
 </tr>
     <tr>
         <td>
-<img src="school images/visionaries1.png">
+<img src="school images/visionaries2.png">
         </td>
 
         <td>
@@ -78,13 +78,11 @@ include ("header.php");
             <ul>
                 <li>We at Geethika truly believe that each child entrusted to us will receive education in its finest form. We are aware that learning is a lifelong process and, therefore, students are motivated tochallenge their hidden potential.</li>
 
-                <li></li>
+                <li>I believe that Education is a holistic experience that synergises the growth of body, mind and spirit. Our Chairman Sree TallaPalli Padmasree Balagangadhara</li>
 
-                <li>Furthermore, it has always been one of my quests in life to make high quality education available and accessible through the latest educational technology without inequality.</li>
+                <li>Reddy have always desired to nurture and prepare generations of individuals as the-torch-bearers of tomorrow, who, believe in the strength of their convictions and take pride in being Indian.</li>
 
-                <li>My effort has been to build an extraordinary and ever evolving education system that maximizes the individual capabilities to meet the challenges of higher education, work and life.</li>
-
-                <li>I am delighted that you are considering Geethika School for your child’s education and a great place for great future. I wish you and your child, the very best.</li>
+                <li>The courses at Geethika are dynamic and futuristic; therefore, we have realized the need to implement technology in all areas of the functioning of the school</li>
 
             </ul>
         </td>
