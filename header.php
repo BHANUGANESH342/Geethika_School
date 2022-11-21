@@ -80,10 +80,10 @@ About Us
 <a href="graduate-admission.html" class="nav-link">The Team Leaders</a>
 </li>
 <li class="nav-item">
-<a href="graduate-admission.html" class="nav-link">Our Vision & Mission</a>
+<a href="mission.php" class="nav-link">Our Vision & Mission</a>
 </li>
 <li class="nav-item">
-<a href="graduate-admission.html" class="nav-link">School Day Schedule</a>
+<a href="schedule.php" class="nav-link">School Day Schedule</a>
 </li>
 </ul>
 </li>
