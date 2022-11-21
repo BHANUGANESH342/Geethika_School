@@ -77,9 +77,6 @@ About Us
 <a href="visionary.php" class="nav-link">Our Visionaries</a>
 </li>
 <li class="nav-item">
-<a href="graduate-admission.html" class="nav-link">The Team Leaders</a>
-</li>
-<li class="nav-item">
 <a href="mission.php" class="nav-link">Our Vision & Mission</a>
 </li>
 <li class="nav-item">
