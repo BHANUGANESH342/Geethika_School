@@ -44,7 +44,7 @@
 <div class="container">
 <div class="mobile-responsive-menu">
 <div class="logo">
-<a href="index.html">
+<a href="index.php">
 <img src="assets/images/logo.png" class="main-logo" alt="logo">
 <img src="assets/images/white-logo.png" class="white-logo" alt="logo">
 </a>
@@ -55,13 +55,13 @@
 <div class="desktop-nav">
 <div class="container-fluid">
 <nav class="navbar navbar-expand-md navbar-light">
-<a class="navbar-brand" href="index.html">
+<a class="navbar-brand" href="index.php">
 <img src="assets/images/white-logo.png" alt="logo">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 <ul class="navbar-nav ms-auto">
 <li class="nav-item">
-<a href="#" class="nav-link">
+<a href="index.php" class="nav-link">
 Home
 </a>
 </li>
@@ -74,7 +74,7 @@ About Us
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="graduate-admission.html" class="nav-link">Our Visionaries</a>
+<a href="visionary.php" class="nav-link">Our Visionaries</a>
 </li>
 <li class="nav-item">
 <a href="graduate-admission.html" class="nav-link">The Team Leaders</a>

@@ -29,14 +29,11 @@
 
 <link rel="stylesheet" href="assets/css/responsive.css">
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
-
-<title>Geethika CBSE School</title>
-
+<title>Geethik CBDSE School</title>
 </head>
-
 <body>
 <?php
-include ("header.php");
+include("header.php");
 ?>
 
 <div class="banner-area pb-100">
@@ -82,7 +79,7 @@ include ("header.php");
 <div class="academic-area pt-100 pb-70">
 <div class="container">
 <div class="section-title">
-<h2>Academics</h2>
+<h2>OUR FACILITIES</h2>
 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
 </div>
 <div class="row justify-content-center">
@@ -90,35 +87,221 @@ include ("header.php");
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="flaticon-college-graduation"></i>
-<a href="academics-details.html"><h3>Undergraduate Education</h3></a>
+<a href="academics-details.html"><h3>Sports</h3></a>
 </div>
-<p>Lorem ipsum dolor sit amet consectetur ad
-piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
-<a href="academics-details.html" class="read-more-btn">Undergraduate Education<i class="flaticon-next"></i></a>
+<p>Indoor and Outdoor games for the students.<br><br><br></p>
+<a href="academics-details.html" class="read-more-btn">Sports<i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="flaticon-graduation"></i>
-<a href="academics-details.html"><h3>Graduate Education</h3></a>
+<a href="academics-details.html"><h3>Infrastructure</h3></a>
 </div>
-<p>Lorem ipsum dolor sit amet consectetur ad
-piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
-<a href="academics-details.html" class="read-more-btn">Graduate Education<i class="flaticon-next"></i></a>
+<p>The ambience of the school is calm and stimulating that ignites young minds.<br><br></p>
+<a href="academics-details.html" class="read-more-btn">Infrastructure<i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="flaticon-writing-tool"></i>
-<a href="academics-details.html"><h3>Lifelong learning</h3></a>
+<a href="academics-details.html"><h3>Dining</h3></a>
 </div>
-<p>Lorem ipsum dolor sit amet consectetur ad
-piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
-<a href="academics-details.html" class="read-more-btn">Lifelong learning<i class="flaticon-next"></i></a>
+<p>Our custom technology makes it easy to access our online menus to see what's for lunch everyday.<br><br></p>
+<a href="academics-details.html" class="read-more-btn">Dining<i class="flaticon-next"></i></a>
 </div>
 </div>
+</div>
+
+<div class="row justify-content-center">
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
+<div class="single-academics-card">
+<div class="academic-top-content">
+<i class="flaticon-college-graduation"></i>
+<a href="academics-details.html"><h3>Community Outreach</h3></a>
+</div>
+<p>community outreach like vanamahotsavam...<br><br></p>
+<a href="academics-details.html" class="read-more-btn">Community Outreach<i class="flaticon-next"></i></a>
+</div>
+</div>
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
+<div class="single-academics-card">
+<div class="academic-top-content">
+<i class="flaticon-graduation"></i>
+<a href="academics-details.html"><h3>Library</h3></a>
+</div>
+<p>The school library contains 10000+ books that covers a spectrum of subjects.</p>
+<a href="academics-details.html" class="read-more-btn">Library<i class="flaticon-next"></i></a>
+</div>
+</div>
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
+<div class="single-academics-card">
+<div class="academic-top-content">
+<i class="flaticon-writing-tool"></i>
+<a href="academics-details.html"><h3>Transport</h3></a>
+</div>
+<p>Good staff & safe transport for students.<br><br></p>
+<a href="academics-details.html" class="read-more-btn">Transport<i class="flaticon-next"></i></a>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+
+
+<div class="lates-news-area ptb-100">
+<div class="container">
+<div class="section-title">
+<h2>LATEST NEWS & EVENTS</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis</p>
+</div>
+<div class="row justify-content-center">
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
+<div class="single-news-card">
+<div class="news-img">
+<a href="news-details.html"><img src="school images/e1.png" alt="Image"></a>
+</div>
+<div class="news-content">
+<div class="list">
+<ul>
+<li><i class="flaticon-user"></i>By <a href="news-details.html">Admin</a></li>
+<li><i class="flaticon-tag"></i>Festivals.</li>
+</ul>
+</div>
+<a href="news-details.html"><h3>Krishna Janmashtami.</h3></a>
+<a href="news-details.html" class="read-more-btn">22 Aug,2019<i class="flaticon-next"></i></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
+<div class="single-news-card">
+<div class="news-img">
+<a href="news-details.html"><img src="school images/e2.png" alt="Image"></a>
+</div>
+<div class="news-content">
+<div class="list">
+<ul>
+<li><i class="flaticon-user"></i>By <a href="news-details.html">Admin</a></li>
+<li><i class="flaticon-tag"></i>Nature</li>
+</ul>
+</div>
+<a href="news-details.html"><h3>Vanamahotsavam</h3></a>
+<a href="news-details.html" class="read-more-btn">Sep 28<i class="flaticon-next"></i></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
+<div class="single-news-card">
+<div class="news-img">
+<a href="news-details.html"><img src="school images/e3.png" alt="Image"></a>
+</div>
+<div class="news-content">
+<div class="list">
+<ul>
+<li><i class="flaticon-user"></i>By <a href="news-details.html">Admin</a></li>
+<li><i class="flaticon-tag"></i>National Festival</li>
+</ul>
+</div>
+<a href="news-details.html"><h3>Children's Day celebrations</h3></a>
+<a href="news-details.html" class="read-more-btn">Nov 14<i class="flaticon-next"></i></a>
+</div>
+</div>
+</div>
+</div>
+<div class="more-latest-news text-center">
+<p><a href="latest-news.html" class="read-more-btn active"> More on News & Events<i class="flaticon-next"></i></a></p>
+</div>
+</div>
+</div>
+
+
+<div class="campus-life-area ptb-100">
+<div class="container">
+<div class="section-title">
+<h2>OUR GALLERY</h2>
+<!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p> -->
+</div>
+<div class="row justify-content-center">
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
+<div class="single-campus-card">
+<div class="img">
+<a href="campus-life.html"><img src="school images/1.png" alt="Image"></a>
+</div>
+<!-- <div class="campus-content">
+<span>Art & Culture</span>
+<a href="campus-life.html"><h3>Art, Exercise And Escapism In Nature</h3></a>
+</div> -->
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
+<div class="single-campus-card">
+<div class="img">
+<a href="campus-life.html"><img src="school images/2.png" alt="Image"></a>
+</div>
+<!-- <div class="campus-content">
+<span>Athletics & Fitness</span>
+<a href="campus-life.html"><h3>Improve Athletic Performance Tips From Sanu</h3></a>
+</div> -->
+</div>
+</div>
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
+<div class="single-campus-card">
+<div class="img">
+<a href="campus-life.html"><img src="school images/3.png" alt="Image"></a>
+</div>
+<!-- <div class="campus-content">
+<span>Student Life</span>
+<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
+</div> -->
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
+<div class="single-campus-card">
+<div class="img">
+<a href="campus-life.html"><img src="school images/4.png" alt="Image"></a>
+</div>
+<!-- <div class="campus-content">
+<span>Student Life</span>
+<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
+</div> -->
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
+<div class="single-campus-card">
+<div class="img">
+<a href="campus-life.html"><img src="school images/5.png" alt="Image"></a>
+</div>
+<!-- <div class="campus-content">
+<span>Student Life</span>
+<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
+</div> -->
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
+<div class="single-campus-card">
+<div class="img">
+<a href="campus-life.html"><img src="school images/6.png" alt="Image"></a>
+</div>
+<!-- <div class="campus-content">
+<span>Student Life</span>
+<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
+</div> -->
+</div>
+</div>
+
+
+</div>
+
+
+<div class="more-campus text-center">
+<p><a href="campus-life.html" class="read-more-btn active">More on Gallery <i class="flaticon-next"></i></a></p>
 </div>
 </div>
 </div>
@@ -130,7 +313,7 @@ piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
 <div class="col-lg-6" data-aos="fade-right" data-aos-easing="ease-in-sine" data-aos-duration="1300" data-aos-once="true">
 <div class="campus-content pr-20">
 <div class="campus-title">
-<h2>Campus Information</h2>
+<h2>Admissions Open</h2>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incid idunt ut labore et dolore magna aliqua. Ut enim ad minim ven iam quis nostrud xerci tation ulla mco laboris nisi ut </p>
 </div>
 <div class="list">
@@ -139,7 +322,7 @@ piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
 <ul>
 <li>
 <i class="ri-check-fill"></i>
-<p>Graduate Programs</p>
+<p>Facilities</p>
 </li>
 <li>
 <i class="ri-check-fill"></i>
@@ -147,11 +330,11 @@ piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
 </li>
 <li>
 <i class="ri-check-fill"></i>
-<p>Doctoral Degrees</p>
+<p>Exper Staff</p>
 </li>
 <li>
 <i class="ri-check-fill"></i>
-<p>Alumni & Giving</p>
+<p>Huge Library</p>
 </li>
 </ul>
 </div>
@@ -159,11 +342,11 @@ piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
 <ul>
 <li>
 <i class="ri-check-fill"></i>
-<p>Undergraduate</p>
+<p>Sports</p>
 </li>
 <li>
 <i class="ri-check-fill"></i>
-<p>International Hubs</p>
+<p>PlayGround</p>
 </li>
 <li>
 <i class="ri-check-fill"></i>
@@ -171,7 +354,7 @@ piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
 </li>
 <li>
 <i class="ri-check-fill"></i>
-<p>Global Students</p>
+<p>Safe & Secure Transport</p>
  </li>
 </ul>
 </div>
@@ -208,12 +391,12 @@ piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
 </div>
 </div>
 </div>
-<a href="campus-life.html" class="default-btn btn">Start your application<i class="flaticon-next"></i></a>
+<a href="campus-life.html" class="default-btn btn">Go to Admissions<i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="col-lg-6" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="1300" data-aos-once="true">
 <div class="campus-image pl-20">
-<img src="assets/images/campus-information/campus-1.jpg" alt="Image">
+<img src="school images/admission.png" alt="Image">
 </div>
 </div>
 </div>
@@ -221,419 +404,16 @@ piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
 </div>
 
 
-<div class="courses-area ptb-100 bg-f4f6f9">
-<div class="container">
-<div class="section-title">
-<h2>Free Courses</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis</p>
-</div>
-<div class="row justify-content-center">
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
-<div class="single-courses-card">
-<div class="courses-img">
-<a href="courses-details.html"><img src="assets/images/courses/courses-1.jpg" alt="Image"></a>
-</div>
-<div class="courses-content">
-<div class="admin-profile">
-<img src="assets/images/courses/admin-1.jpg" alt="Image">
-<p>With <a href="courses-details.html">Jessica Hamson</a></p>
-</div>
-<a href="courses-details.html"><h3>Python Programming For Data Science</h3></a>
-<div class="bottom-content">
-<ul class="d-flex justify-content-between">
-<li>
-<ul>
-<li><i class="flaticon-graduation"></i>321</li>
-<li><i class="flaticon-bubble-chat"></i>1.2k</li>
-</ul>
-</li>
-<li><a href="#">Free</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
-<div class="single-courses-card">
-<div class="courses-img">
-<a href="courses-details.html"><img src="assets/images/courses/courses-2.jpg" alt="Image"></a>
-</div>
-<div class="courses-content">
-<div class="admin-profile">
-<img src="assets/images/courses/admin-2.jpg" alt="Image">
-<p>With <a href="courses-details.html">Christoph Baldwin</a></p>
-</div>
-<a href="courses-details.html"><h3>Databases: Advanced Topics In SQL And Athers</h3></a>
-<div class="bottom-content">
-<ul class="d-flex justify-content-between">
-<li>
-<ul>
-<li><i class="flaticon-graduation"></i>321</li>
-<li><i class="flaticon-bubble-chat"></i>1.2k</li>
-</ul>
-</li>
-<li><a href="#">Free</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
-<div class="single-courses-card">
-<div class="courses-img">
-<a href="courses-details.html"><img src="assets/images/courses/courses-3.jpg" alt="Image"></a>
-</div>
-<div class="courses-content">
-<div class="admin-profile">
-<img src="assets/images/courses/admin-3.jpg" alt="Image">
-<p>With <a href="courses-details.html">Morgen Matthias</a></p>
-</div>
-<a href="courses-details.html"><h3>Analyzing Data With MS Excel & Excel</h3></a>
-<div class="bottom-content">
-<ul class="d-flex justify-content-between">
-<li>
-<ul>
-<li><i class="flaticon-graduation"></i>321</li>
-<li><i class="flaticon-bubble-chat"></i>1.2k</li>
-</ul>
-</li>
-<li><a href="#">Free</a></li>
-</ul>
-</div>
- </div>
-</div>
-</div>
-</div>
-<div class="more-courses text-center">
-<p>Select From Hundreds of Options <a href="courses.html" class="read-more-btn active">More on Courses <i class="flaticon-next"></i></a></p>
-</div>
-</div>
-</div>
 
-
-<div class="campus-life-area ptb-100">
-<div class="container">
-<div class="section-title">
-<h2>Campus Life</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
-</div>
-<div class="row justify-content-center">
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
-<div class="single-campus-card">
-<div class="img">
-<a href="campus-life.html"><img src="assets/images/campus-life/campus-life-1.jpg" alt="Image"></a>
-</div>
-<div class="campus-content">
-<span>Art & Culture</span>
-<a href="campus-life.html"><h3>Art, Exercise And Escapism In Nature</h3></a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
-<div class="single-campus-card">
-<div class="img">
-<a href="campus-life.html"><img src="assets/images/campus-life/campus-life-2.jpg" alt="Image"></a>
-</div>
-<div class="campus-content">
-<span>Athletics & Fitness</span>
-<a href="campus-life.html"><h3>Improve Athletic Performance Tips From Sanu</h3></a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
-<div class="single-campus-card">
-<div class="img">
-<a href="campus-life.html"><img src="assets/images/campus-life/campus-life-3.jpg" alt="Image"></a>
-</div>
-<div class="campus-content">
-<span>Student Life</span>
-<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
-</div>
-</div>
-</div>
-</div>
-<div class="more-campus text-center">
-<p>Select From Hundreds of Options. <a href="campus-life.html" class="read-more-btn active">More on Campus Life <i class="flaticon-next"></i></a></p>
-</div>
-</div>
-</div>
-
-
-<div class="admisssion-area bg-f4f6f9 ptb-100">
-<div class="container">
-<div class="admission-content">
-<div class="section-title">
-<h2>Sanu Admission</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
-</div>
-<div class="admission-image">
-<img src="assets/images/admission/admission-1.jpg" alt="Image">
-<div class="icon">
-<a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=6WQCJx_vEX4"><i class="ri-play-fill"></i></a>
-</div>
-</div>
-<div class="query text-center">
-<p>If You Have Any Query or Facing any Problem Please Contact Us Via Email</p>
-<a href="admission.html" class="default-btn btn">More on admission<i class="flaticon-next"></i></a>
-</div>
-</div>
-</div>
-</div>
-
-
-<div class="health-care-area ptb-100">
-<div class="container">
-<div class="section-title">
-<h2>Health Care</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
-</div>
-<div class="row justify-content-center">
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
-<div class="single-health-care-card">
-<div class="img">
-<a href="health-care-details.html"><img src="assets/images/health-care/health-care-1.jpg" alt="Image"></a>
-</div>
-<div class="health-care-content">
-<a href="health-care-details.html"><h3>Happiness Begins With Good Health</h3></a>
-<p>Lorem ipsum dolor sit amet con sec teturo adip iscing elit sed do eiusmod tempor insi didunt ut labore et dolore</p>
-<a href="health-care.html" class="read-more-btn">Read More on healthcare<i class="flaticon-next"></i></a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
-<div class="single-health-care-card">
-<div class="img">
-<a href="health-care-details.html"><img src="assets/images/health-care/health-care-2.jpg" alt="Image"></a>
-</div>
-<div class="health-care-content">
-<a href="health-care-details.html"><h3>When Life Depends on Medical Technology</h3></a>
-<p>Lorem ipsum dolor sit amet con sec teturo adip iscing elit sed do eiusmod tempor insi didunt ut labore et dolore</p>
-<a href="health-care.html" class="read-more-btn">Read More on healthcare<i class="flaticon-next"></i></a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
-<div class="single-health-care-card">
-<div class="img">
-<a href="health-care-details.html"><img src="assets/images/health-care/health-care-3.jpg" alt="Image"></a>
-</div>
-<div class="health-care-content">
-<a href="health-care-details.html"><h3> Making A Meaningful Difference In Patients’ lives.</h3></a>
-<p>Lorem ipsum dolor sit amet con sec teturo adip iscing elit sed do eiusmod tempor insi didunt ut labore et dolore</p>
-<a href="health-care.html" class="read-more-btn">Read More on healthcare<i class="flaticon-next"></i></a>
-</div>
-</div>
-</div>
-</div>
-<div class="more-health-care text-center">
-<p>Select From Hundreds of Options. <a href="health-care.html" class="read-more-btn active">More on healthcare<i class="flaticon-next"></i></a></p>
-</div>
-</div>
-</div>
-
-
-
-
-<div class="podcasts-area pt-100 pb-70">
-<div class="container">
-<div class="row">
-<div class="col-lg-8">
-<div class="section-title style2">
-<h2>Our Podcasts</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
-</div>
-<div class="single-podcasts-card" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="podcasts-image">
-<img src="assets/images/podcasts/podcasts-1.jpg" alt="Image">
-</div>
-</div>
-<div class="col-lg-7 col-md-7">
-<div class="podcast-content">
-<span>Episode:1</span>
-<h3>How To Build Websites That Resonate</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis</p>
-<div class="play-icon">
-<a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=6WQCJx_vEX4"><i class="ri-play-fill"></i><span>play Episode</span></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="single-podcasts-card" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="podcasts-image">
-<img src="assets/images/podcasts/podcasts-2.jpg" alt="Image">
-</div>
-</div>
-<div class="col-lg-7 col-md-7">
-<div class="podcast-content">
-<span>Episode:199</span>
-<h3>How To Create A Nice Wesite</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis</p>
-<div class="play-icon">
-<a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=6WQCJx_vEX4"><i class="ri-play-fill"></i><span>play Episode</span></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="single-podcasts-card" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="podcasts-image">
-<img src="assets/images/podcasts/podcasts-3.jpg" alt="Image">
-</div>
-</div>
-<div class="col-lg-7 col-md-7">
-<div class="podcast-content">
-<span>Episode:1</span>
-<h3>How To Use Technology To Adapt</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis</p>
-<div class="play-icon">
-<a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=6WQCJx_vEX4"><i class="ri-play-fill"></i><span>play Episode</span></a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="col-lg-4">
-<div class="categories">
-<h3>Categories</h3>
-<ul>
-<li><a href="#"><i class="flaticon-briefcase"></i>Business</a></li>
-<li><a href="#"><i class="flaticon-fashion"></i>Fashion</a></li>
-<li><a href="#"><i class="flaticon-writing-tool"></i>writing</a></li>
-<li><a href="#"><i class="flaticon-web-development"></i>Development</a></li>
-<li><a href="#"><i class="flaticon-audio-speaker"></i>Marketing</a></li>
-</ul>
-</div>
-<div class="subscribe-area">
-<div class="top-content">
-<i class="flaticon-email"></i>
-<h3>Subscribe To Newsletter</h3>
-<p>Get updates to news & events</p>
-</div>
-<form class="newsletter-form" data-toggle="validator">
-<input type="email" class="form-control" placeholder="Your Email" name="EMAIL" required="" autocomplete="off">
-<button class="default-btn" type="submit">
-Subscribe
-</button>
-<div id="validator-newsletter" class="form-result"></div>
-</form>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-
-<div class="students-stories-area bg-f4f6f9 pt-100 pb-70">
-<div class="container">
-<div class="section-title">
-<h2>Check Student Stories</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
-</div>
-<div class="row justify-content-center">
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
-<div class="single-stories-card">
-<div class="stories-content">
-<h3>Why I choose Sanu_Freshman Student</h3>
-</div>
-<iframe src="https://www.youtube.com/embed/dT9uXvsH6EU" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
-<div class="single-stories-card">
-<div class="stories-content">
-<h3>Why I choose Sanu University And Teachers</h3>
-</div>
-<iframe src="https://www.youtube.com/embed/TM9gjl-8X-E" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
-<div class="single-stories-card">
-<div class="stories-content">
-<h3>Why I choose Sanu Campus And Environment</h3>
-</div>
-<iframe src="https://www.youtube.com/embed/yeZpJ6lJC54" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-
-<div class="lates-news-area ptb-100">
-<div class="container">
-<div class="section-title">
-<h2>Latest News</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis</p>
-</div>
-<div class="row justify-content-center">
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
-<div class="single-news-card">
-<div class="news-img">
-<a href="news-details.html"><img src="assets/images/news/news-1.jpg" alt="Image"></a>
-</div>
-<div class="news-content">
-<div class="list">
-<ul>
-<li><i class="flaticon-user"></i>By <a href="news-details.html">Admin</a></li>
-<li><i class="flaticon-tag"></i>Social Sciences</li>
-</ul>
-</div>
-<a href="news-details.html"><h3>Professor Tom Comments On The Volunteer B. Snack Brand</h3></a>
-<a href="news-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
-<div class="single-news-card">
-<div class="news-img">
-<a href="news-details.html"><img src="assets/images/news/news-2.jpg" alt="Image"></a>
-</div>
-<div class="news-content">
-<div class="list">
-<ul>
-<li><i class="flaticon-user"></i>By <a href="news-details.html">Admin</a></li>
-<li><i class="flaticon-tag"></i>Social Sciences</li>
-</ul>
-</div>
-<a href="news-details.html"><h3>How To Use Technology To Adapt Your Talent To The World</h3></a>
-<a href="news-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
-<div class="single-news-card">
-<div class="news-img">
-<a href="news-details.html"><img src="assets/images/news/news-3.jpg" alt="Image"></a>
-</div>
-<div class="news-content">
-<div class="list">
-<ul>
-<li><i class="flaticon-user"></i>By <a href="news-details.html">Admin</a></li>
-<li><i class="flaticon-tag"></i>Social Sciences</li>
-</ul>
-</div>
-<a href="news-details.html"><h3>Here Are The Things To Look For When Selecting An Online Course</h3></a>
-<a href="news-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
-</div>
-</div>
-</div>
-</div>
-<div class="more-latest-news text-center">
-<p>Select From Hundreds of Options.<a href="latest-news.html" class="read-more-btn active"> More on News<i class="flaticon-next"></i></a></p>
-</div>
-</div>
-</div>
 <?php
 include("footer.php");
 ?>
+
+<div class="go-top">
+<i class="ri-arrow-up-s-line"></i>
+<i class="ri-arrow-up-s-line"></i>
+</div>
+
 
 <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
 
