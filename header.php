@@ -91,10 +91,10 @@ Admissions
 </a>
 <ul class="dropdown-menu">
 <li class="nav-item">
-<a href="courses.html" class="nav-link">Admissions Information</a>
+<a href="adm_guideline.php" class="nav-link">Admissions Information</a>
 </li>
 <li class="nav-item">
-<a href="courses-details.html" class="nav-link">Admission Form</a>
+<a href="adm_form.php" class="nav-link">Admission Form</a>
 </li>
 </ul>
 </li>
@@ -103,7 +103,7 @@ Admissions
     <a href="#" class="nav-link dropdown-toggle">Academics</a>
 <ul class="dropdown-menu">
 </li>
-<li class="nav-item">
+<!-- <li class="nav-item">
 <a href="courses-details.html" class="nav-link">Admission Form</a>
 </li>
 </li>
@@ -113,7 +113,7 @@ Admissions
 </li>
 <li class="nav-item">
 <a href="courses-details.html" class="nav-link">Admission Form</a>
-</li>
+</li> -->
 </ul>
 </li>
 

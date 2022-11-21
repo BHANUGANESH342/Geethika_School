@@ -32,7 +32,7 @@
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
 
 
-    <title>School Schedule</title>
+<title>School Schedule</title>
 </head>
 <body>
 
