@@ -229,6 +229,102 @@ include ("header.php");
 
 
 
+<div class="alumni-area pt-100 pb-70">
+    <H2 align="center"> THE TEAM LEADERS<br><br></H2>
+<div class="container">
+<div class="row">
+<div class="col-lg-6">
+<div class="alumni-left-content">
+
+<div class="single-alumoni-updates-card">
+<div class="row align-items-center">
+<div class="col-lg-5 col-md-5">
+<div class="update-image">
+<img src="school images/team leaders/4.png" alt="Image">
+</div>
+</div>
+<div class="col-lg-7 col-md-7">
+<div class="updates-content">
+<div class="date">
+<!-- <p>Apr 12, 2022 / Blog</p> -->
+<h3>SRI PERAM NARASA REDDY</h3>
+<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="single-alumoni-updates-card">
+<div class="row align-items-center">
+<div class="col-lg-5 col-md-5">
+<div class="update-image">
+<img src="school images/team leaders/3.png" alt="Image">
+</div>
+</div>
+<div class="col-lg-7 col-md-7">
+<div class="updates-content">
+<div class="date">
+<!-- <p>Apr 12, 2022 / Blog</p> -->
+<h3>SRI PERAM NARAPA REDDY</h3>
+<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+</div>
+</div>
+
+<div class="col-lg-6">
+<div class="alumni-right-content">
+
+<div class="single-alumoni-updates-card">
+<div class="row align-items-center">
+<div class="col-lg-5 col-md-5">
+<div class="update-image">
+<img src="school images/team leaders/2.png" alt="Image">
+</div>
+</div>
+<div class="col-lg-7 col-md-7">
+<div class="updates-content">
+<div class="date">
+<!-- <p>Apr 12, 2022 / Blog</p> -->
+<h3>SMT. PERAM NALINI</h3>
+<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="single-alumoni-updates-card">
+<div class="row align-items-center">
+<div class="col-lg-5 col-md-5">
+<div class="update-image">
+<img src="school images/team leaders/1.png" alt="Image">
+</div>
+</div>
+<div class="col-lg-7 col-md-7">
+<div class="updates-content">
+<div class="date">
+<!-- <p>Apr 12, 2022 / Blog</p> -->
+<h3>SMT. PERAM KALESWARI</h3>
+<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
 
 
 <?php
