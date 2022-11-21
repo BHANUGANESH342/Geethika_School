@@ -139,6 +139,7 @@ textarea {
 }
 .buy-now-btn {
   right: 20px;
+  align-items: center;
   z-index: 99;
   top: 50%;
   position: fixed;
@@ -147,12 +148,13 @@ textarea {
   border-radius: 30px;
   display: inline-block;
   color: #fff;
-  background-color: #82b440;
+  background-color: #90ea1c;
   padding: 10px 20px 10px 42px;
-  -webkit-box-shadow: 0 1px 20px 1px #82b440;
-  box-shadow: 0 1px 20px 1px #82b440;
+  /* -webkit-box-shadow: 0 1px 20px 1px #82b440; */
+  /* box-shadow: 0 1px 20px 1px #82b440; */
   font-size: 13px;
   font-weight: 600;
+  text-transform: uppercase;
 }
 .buy-now-btn img {
   top: 50%;

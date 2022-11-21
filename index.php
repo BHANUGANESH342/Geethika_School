@@ -28,70 +28,61 @@
 <link rel="stylesheet" href="assets/css/dark.css">
 
 <link rel="stylesheet" href="assets/css/responsive.css">
-<<<<<<< HEAD
-<!-- <link rel="icon" type="image/png" href="assets/images/favicon.png"> -->
-=======
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
->>>>>>> fc1a27e9c097e08fccf6adc94bd26584cb563e6c
-<title>Geethika School</title>
+
+<title>Geethika CBSE School</title>
+
 </head>
+
 <body>
-
 <?php
-include "header.php"
+include ("header.php");
 ?>
-
 
 <div class="banner-area pb-100">
 <div class="container-fluid">
 <div class="hero-slider owl-carousel owl-theme" data-slider-id="1">
 <div class="slider-item banner-bg-1">
 <div class="slider-content">
-    <br><h2>Join the School Now</h2><br>
-<!-- <h1 style="color:aqua;">Explore Your Potential & Talents In Sanu</h1> -->
-<!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p> -->
+<h1>Explore Your Potential & Talents In Sanu</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
 <a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="slider-item banner-bg-2">
 <div class="slider-content">
-    <br><br><br><br>
-<!-- <h1>Explore Your Creativity & Talent With Sanu</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p> -->
+<h1>Explore Your Creativity & Talent With Sanu</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
 <a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="slider-item banner-bg-3">
 <div class="slider-content">
-    <br><br><br><br>
-<!-- <h1>Start Your Beautiful & Bright Future From Here</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p> -->
+<h1>Start Your Beautiful & Bright Future From Here</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
 <a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 </div>
 <div class="owl-thumbs" data-slider-id="1">
 <button class="owl-thumb-item">
-<img src="assets/images/banner/slider4.jpg" alt="Images">
+<img src="assets/images/banner/thumb-1.jpg" alt="Images">
 </button>
 <button class="owl-thumb-item">
-<img src="assets/images/banner/slider8.jpg" alt="Images">
+<img src="assets/images/banner/thumb-2.jpg" alt="Images">
 </button>
 <button class="owl-thumb-item">
-<img src="assets/images/banner/slider9.jpg" alt="Images">
+<img src="assets/images/banner/thumb-3.jpg" alt="Images">
 </button>
 </div>
 </div>
 </div>
 
-<div style="width:95%"><marquee scrollamount="6" height="30" scrolldelay="1" onMouseOver="this.stop();" onMouseOut="this.start();" direction="left" ><h4>
-Affiliated to Central Board of Secondary Education, New Delhi, Govt. of India - AFFILIATION NO: 130515,   School No; 57217-- Affiliated for Secondary School, Class 1 to 10</h4></marquee>
-</div>
 
 <div class="academic-area pt-100 pb-70">
 <div class="container">
 <div class="section-title">
-<h2>Our Facilities</h2>
+<h2>Academics</h2>
 <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
 </div>
 <div class="row justify-content-center">
@@ -99,65 +90,35 @@ Affiliated to Central Board of Secondary Education, New Delhi, Govt. of India - 
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="flaticon-college-graduation"></i>
-<a href="academics-details.html"><h3>Sports</h3></a>
-</div>
-<p>Indoor and Outdoor Games for the Students.<br><br></p>
-<!-- <a href="academics-details.html" class="read-more-btn">Undergraduate Education<i class="flaticon-next"></i></a> -->
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
-<div class="single-academics-card">
-<div class="academic-top-content">
-<i class="flaticon-graduation"></i>
-<a href="academics-details.html"><h3>Infrastructure</h3></a>
-</div>
-<p>The Ambience of the school is calm and stimulating that ignites Young minds.<br></p>
-<!-- <a href="academics-details.html" class="read-more-btn">Graduate Education<i class="flaticon-next"></i></a> -->
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
-<div class="single-academics-card">
-<div class="academic-top-content">
-<i class="flaticon-writing-tool"></i>
-<a href="academics-details.html"><h3>Dining</h3></a>
-</div>
-<p>Our custom Technology makes it easy to access our online menus to see what's for lunch everyday.<br></p>
-<!-- <a href="academics-details.html" class="read-more-btn">Lifelong learning<i class="flaticon-next"></i></a> -->
-</div>
-</div>
-</div>
-</div>
-<div class="container">
-<div class="row justify-content-center">
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
-<div class="single-academics-card">
-<div class="academic-top-content">
-<i class="flaticon-college-graduation"></i>
-<a href="academics-details.html"><h3>Community Outreach</h3></a>
+<a href="academics-details.html"><h3>Undergraduate Education</h3></a>
 </div>
 <p>Lorem ipsum dolor sit amet consectetur ad
 piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
-<!-- <a href="academics-details.html" class="read-more-btn">Undergraduate Education<i class="flaticon-next"></i></a> -->
+<a href="academics-details.html" class="read-more-btn">Undergraduate Education<i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="flaticon-graduation"></i>
-<a href="academics-details.html"><h3>Library</h3></a>
+<a href="academics-details.html"><h3>Graduate Education</h3></a>
 </div>
-<p>The School library containing 10000+ Books that cover a spectrum of subjects.<br><br></p>
-<!-- <a href="academics-details.html" class="read-more-btn">Graduate Education<i class="flaticon-next"></i></a> -->
+<p>Lorem ipsum dolor sit amet consectetur ad
+piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
+<a href="academics-details.html" class="read-more-btn">Graduate Education<i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="flaticon-writing-tool"></i>
-<a href="academics-details.html"><h3>Transport</h3></a>
+<a href="academics-details.html"><h3>Lifelong learning</h3></a>
 </div>
-<p></p>
-<a href="academics-details.html" class="read-more-btn">Good Staff & Safe transport for students.<br><br><br></a>
+<p>Lorem ipsum dolor sit amet consectetur ad
+piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
+<a href="academics-details.html" class="read-more-btn">Lifelong learning<i class="flaticon-next"></i></a>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -471,70 +432,6 @@ piscing elit ut elit tellus luctus nec dolor sit amet consec teturul</p>
 </div>
 
 
-<div class="events-area bg-f4f6f9 ptb-100">
-<div class="container">
-<div class="section-title">
-<h2>Events</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
-</div>
-<div class="row justify-content-center">
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
-<div class="single-events-card">
-<div class="events-image">
-<a href="events-details.html"><img src="assets/images/events/events-1.jpg" alt="Image"></a>
-<div class="date">
-<span>28</span>
-<p>Mar</p>
-</div>
-</div>
-<div class="events-content">
-<div class="admin">
-<p><a href="events-details.html"><i class="flaticon-student-with-graduation-cap"></i>Raymond Salazar</a></p>
-</div>
-<a href="events-details.html"><h3>Planning And Facilitating Effective Meetings</h3></a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
-<div class="single-events-card">
-<div class="events-image">
-<a href="events-details.html"><img src="assets/images/events/events-2.jpg" alt="Image"></a>
-<div class="date">
-<span>29</span>
-<p>Mar</p>
-</div>
-</div>
-<div class="events-content">
-<div class="admin">
-<p><a href="events-details.html"><i class="flaticon-student-with-graduation-cap"></i>Raymond Salazar</a></p>
-</div>
-<a href="events-details.html"><h3>Regular WordPress Meetup In New Jersey, USA</h3></a>
-</div>
-</div>
-</div>
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
-<div class="single-events-card">
-<div class="events-image">
-<a href="events-details.html"><img src="assets/images/events/events-3.jpg" alt="Image"></a>
-<div class="date">
-<span>30</span>
-<p>Mar</p>
-</div>
-</div>
-<div class="events-content">
-<div class="admin">
-<p><a href="events-details.html"><i class="flaticon-student-with-graduation-cap"></i>Raymond Salazar</a></p>
-</div>
-<a href="events-details.html"><h3>Monday Night Concert In Lake View,Mountain City</h3></a>
-</div>
-</div>
-</div>
-</div>
-<div class="more-health-care text-center">
-<p>Select From Hundreds of Options. <a href="health-care.html" class="read-more-btn active">More on Events<i class="flaticon-next"></i></a></p>
-</div>
-</div>
-</div>
 
 
 <div class="podcasts-area pt-100 pb-70">
@@ -734,13 +631,9 @@ Subscribe
 </div>
 </div>
 </div>
-
-
 <?php
-include "footer.php"
+include("footer.php");
 ?>
-
-
 
 <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
 
@@ -755,7 +648,7 @@ include "footer.php"
 <script src="assets/js/jquery.magnific-popup.js"></script>
 
 <script src="assets/js/aos.js"></script>
- 
+
 <script src="assets/js/odometer.min.js"></script>
 
 <script src="assets/js/appear.min.js"></script>
