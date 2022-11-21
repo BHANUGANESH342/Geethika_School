@@ -28,8 +28,17 @@
 <link rel="stylesheet" href="assets/css/dark.css">
 
 <link rel="stylesheet" href="assets/css/responsive.css">
+<<<<<<< HEAD
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
 <title>Geethik CBDSE School</title>
+=======
+<!-- <<<<<<< HEAD -->
+<link rel="icon" type="image/png" href="assets/images/favicon.png">
+<!-- ======= -->
+<link rel="icon" type="image/png" href="assets/images/favicon.png">
+<!-- >>>>>>> fc1a27e9c097e08fccf6adc94bd26584cb563e6c -->
+<title>Geethika School</title>
+>>>>>>> eba1682cce87f40d84685ced7253866eb0065727
 </head>
 <body>
 <?php
