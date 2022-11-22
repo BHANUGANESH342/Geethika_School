@@ -118,17 +118,9 @@ Admissions
 </li>
 
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle">
+<a href="activities.php" class="nav-link">
 Curricular Activities
 </a>
-<ul class="dropdown-menu">
-<li class="nav-item">
-<a href="health-care.html" class="nav-link">Health Care</a>
-</li>
-<li class="nav-item">
-<a href="health-care-details.html" class="nav-link">Health Care Details</a>
-</li>
-</ul>
 </li>
 <li class="nav-item">
 <a href="#" class="nav-link dropdown-toggle">
