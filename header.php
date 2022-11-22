@@ -123,17 +123,9 @@ Curricular Activities
 </a>
 </li>
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle">
+<a href="gallery.html" class="nav-link">
 Gallery
 </a>
-<ul class="dropdown-menu">
-<li class="nav-item">
-<a href="events.html" class="nav-link">Gallery</a>
-</li>
-<li class="nav-item">
-<a href="events-details.html" class="nav-link">Events Details</a>
-</li>
-</ul>
 </li>
 <!-- <li class="nav-item">
 <a href="contact-us.html" class="nav-link">Contact Us</a>
