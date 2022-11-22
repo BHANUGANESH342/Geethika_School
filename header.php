@@ -103,17 +103,17 @@ Admissions
     <a href="#" class="nav-link dropdown-toggle">Academics</a>
 <ul class="dropdown-menu">
 </li>
-<!-- <li class="nav-item">
-<a href="courses-details.html" class="nav-link">Admission Form</a>
+<li class="nav-item">
+<a href="academics.php" class="nav-link">The Team</a>
 </li>
 </li>
 <li class="nav-item">
-<a href="courses-details.html" class="nav-link">Admission Form</a>
+<a href="courses-details.html" class="nav-link">Assessments</a>
 </li>
 </li>
 <li class="nav-item">
-<a href="courses-details.html" class="nav-link">Admission Form</a>
-</li> -->
+<a href="courses-details.html" class="nav-link">Achievements</a>
+</li>
 </ul>
 </li>
 
