@@ -4,7 +4,7 @@
 <div class="row">
 <div class="col-lg-4 col-sm-6">
 <div class="footer-logo-area">
-<a href="index.html"><img src="assets/images/white-logo.png" alt="Image"></a>
+<a href="index.html"><img src="assets/images/main white.png" alt="Image"></a>
 <p>Sanu University was established by J.H Merthon in 1810 for the public benefit. Afterwards, it is recognized globally</p>
 <div class="contact-list">
 <ul>

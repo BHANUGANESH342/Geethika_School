@@ -239,10 +239,6 @@ include("header.php");
 <div class="img">
 <a href="campus-life.html"><img src="school images/1.png" alt="Image"></a>
 </div>
-<!-- <div class="campus-content">
-<span>Art & Culture</span>
-<a href="campus-life.html"><h3>Art, Exercise And Escapism In Nature</h3></a>
-</div> -->
 </div>
 </div>
 

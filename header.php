@@ -45,8 +45,8 @@
 <div class="mobile-responsive-menu">
 <div class="logo">
 <a href="index.php">
-<img src="assets/images/logo.png" class="main-logo" alt="logo">
-<img src="assets/images/white-logo.png" class="white-logo" alt="logo">
+<img src="assets/images/main logo.png" class="main-logo" alt="logo">
+<img src="assets/images/main white.png" class="white-logo" alt="logo">
 </a>
 </div>
 </div>
@@ -56,7 +56,7 @@
 <div class="container-fluid">
 <nav class="navbar navbar-expand-md navbar-light">
 <a class="navbar-brand" href="index.php">
-<img src="assets/images/white-logo.png" alt="logo">
+<img src="assets/images/main white.png" alt="logo">
 </a>
 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
 <ul class="navbar-nav ms-auto">
@@ -123,7 +123,7 @@ Curricular Activities
 </a>
 </li>
 <li class="nav-item">
-<a href="gallery.html" class="nav-link">
+<a href="gallery.php" class="nav-link">
 Gallery
 </a>
 </li>
