@@ -86,17 +86,9 @@ About Us
 </li>
 
 <li class="nav-item">
-<a href="#" class="nav-link dropdown-toggle">
+<a href="adm_guideline.php" class="nav-link">
 Admissions
 </a>
-<ul class="dropdown-menu">
-<li class="nav-item">
-<a href="adm_guideline.php" class="nav-link">Admissions Information</a>
-</li>
-<li class="nav-item">
-<a href="adm_form.php" class="nav-link">Admission Form</a>
-</li>
-</ul>
 </li>
 
 <li class="nav-item">
