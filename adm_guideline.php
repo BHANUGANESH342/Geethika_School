@@ -200,7 +200,7 @@ Admissions to Grades 2 to 9 are finalised based on performance in the written ad
 
 <tr>
     <td>
-<button type="submit" class="default-btn btn active" align="center">Register</button>
+<button type="submit" class="default-btn btn active" align="center">Apply for Admission</button>
 </td>
 </tr>
 </table>

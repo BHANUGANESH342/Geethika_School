@@ -99,13 +99,13 @@ Admissions
 <a href="academics.php" class="nav-link">The Team</a>
 </li>
 </li>
-<li class="nav-item">
+<!-- <li class="nav-item">
 <a href="courses-details.html" class="nav-link">Assessments</a>
 </li>
 </li>
 <li class="nav-item">
 <a href="courses-details.html" class="nav-link">Achievements</a>
-</li>
+</li> -->
 </ul>
 </li>
 
