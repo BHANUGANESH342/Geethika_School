@@ -160,8 +160,8 @@ Gallery
 <button type="button" class="close" data-bs-dismiss="modal"><i class="ri-close-line"></i></button>
 <div class="modal-body">
 <a href="index.html">
-<img src="assets/images/logo.png" class="main-logo" alt="logo">
-<img src="assets/images/white-logo.png" class="white-logo" alt="logo">
+<img src="school images/main logo.png" class="main-logo" alt="logo">
+<img src="school images/main white.png" class="white-logo" alt="logo">
 </a>
 <div class="sidebar-content">
 <h3>About Us</h3>
