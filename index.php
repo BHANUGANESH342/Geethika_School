@@ -51,7 +51,7 @@ include("header.php");
 <div class="slider-item banner-bg-1">
 <div class="slider-content">
 <h1 style="color:#111D5E; text-shadow: 2px 2px 1px white;">Geethika CBSE School</h1>
-<!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p> -->
+<p>To be recognized as an accomplished, comprehensive academic foundation that helps budding geniuses conform to the demands of a vigorous world.</p>
 <a href="courses.html" class="default-btn btn">Start Your Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
