@@ -78,8 +78,8 @@ include("header.php");
 <td align="left"><label>Gender :</label></td>
 <td>
 <div class="form-group">
-    <input type="radio" name="gender" id="male" value="male"><label for="male">_MALE</label>
-    <input type="radio" name="gender" id="female" Value="female"><label for="female">_FEMALE</label>
+    <input type="radio" name="gender" id="male" value="male"><label for="male">&#160;&#160;MALE</label>&#160;&#160;&#160;&#160;&#160;&#160;
+    <input type="radio" name="gender" id="female" Value="female"><label for="female">&#160;&#160;FEMALE</label>
 
 </div>
 </td>

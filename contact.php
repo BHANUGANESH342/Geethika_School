@@ -104,7 +104,7 @@ I agree to the <a href="terms-conditions.html">terms</a> and <a href="privacy-po
 <div class="col-lg-6">
 <div class="contact-and-address">
 <h2>Let's Contact Us</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tem incididunt ut labore et dolore magna aliquat enim minim veniam quis nostr exercitation labore et dolore magna aliquat </p>
+<p>Education is a comprehensive term that prepares students for life Learning is the focus of all activities undertaken Global understanding through an international approach is essential Every individual is important irrespective of his circumstances.</p>
 <div class="contact-and-address-content">
 <div class="row">
 <div class="col-lg-6 col-md-6">
@@ -113,7 +113,7 @@ I agree to the <a href="terms-conditions.html">terms</a> and <a href="privacy-po
 <i class="ri-phone-line"></i>
 </div>
 <h4>Contact</h4>
-<p>Mobile: <a href="tel:+8819906886">(+88)-1990-6886</a></p>
+<p>Mobile: <a href="tel:+8819906886">+91 90148 28382</a></p>
 <p>Mail: <a href="/cdn-cgi/l/email-protection#cba8a4a5bfaaa8bf8baeafbea6aaa7a7e5a8a4a6"><span class="__cf_email__" data-cfemail="6e1d0f001b2e0b0a1b030f0702400d0103">[email&#160;protected]</span></a></p>
 </div>
 </div>
