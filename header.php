@@ -7,9 +7,9 @@
 <div class="disc"></div>
 <div class="disc"></div>
 <div class="disc"></div> -->
-<?php
-  $con=new mysqli("localhost","root","","central");
-?>
+<!-- <?php
+  // $con=new mysqli("localhost","root","","central");
+?> -->
 </div>
 </div>
 </div>
