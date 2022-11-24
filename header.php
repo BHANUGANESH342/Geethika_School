@@ -80,6 +80,9 @@ About Us
 <a href="mission.php" class="nav-link">Our Vision & Mission</a>
 </li>
 <li class="nav-item">
+<a href="leaders.php" class="nav-link">The Leaders</a>
+</li>
+<li class="nav-item">
 <a href="schedule.php" class="nav-link">School Day Schedule</a>
 </li>
 </ul>

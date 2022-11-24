@@ -30,7 +30,7 @@
 <link rel="stylesheet" href="assets/css/responsive.css">
 
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
-<title>Geethik CBDSE School</title>
+<title>Geethik CBSE School</title>
 
 <!-- <<<<<<< HEAD -->
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
@@ -50,35 +50,33 @@ include("header.php");
 <div class="hero-slider owl-carousel owl-theme" data-slider-id="1">
 <div class="slider-item banner-bg-1">
 <div class="slider-content">
-<h1>Explore Your Potential & Talents In Sanu</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
-<a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
+<h1 style="color:#111D5E; text-shadow: 2px 2px 1px white;">Geethika CBSE School</h1>
+<!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p> -->
+<a href="courses.html" class="default-btn btn">Start Your Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="slider-item banner-bg-2">
 <div class="slider-content">
-<h1>Explore Your Creativity & Talent With Sanu</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
-<a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
+<h1 style="color:#111D5E;text-shadow: 2px 2px 1px white;">Explore Your Creativity & Talent With Geethika</h1>
+<a href="courses.html" class="default-btn btn">Start Your Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="slider-item banner-bg-3">
 <div class="slider-content">
-<h1>Start Your Beautiful & Bright Future From Here</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
-<a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
+<h1 style="color:#111D5E;text-shadow: 2px 2px 1px white;">Start Your Beautiful & Bright Future From Here</h1>
+<a href="courses.html" class="default-btn btn">Start Your Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 </div>
 <div class="owl-thumbs" data-slider-id="1">
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-1.jpg" alt="Images">
+<img src="school images/admission.png" alt="Images">
 </button>
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-2.jpg" alt="Images">
+<img src="school images/gallery/3.png" alt="Images">
 </button>
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-3.jpg" alt="Images">
+<img src="school images/3.png" alt="Images">
 </button>
 </div>
 </div>
