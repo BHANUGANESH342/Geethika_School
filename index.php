@@ -93,7 +93,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-college-graduation"></i>
+<i class="ri-basketball-line"></i>
 <a href="academics-details.html"><h3>Sports</h3></a>
 </div>
 <p>Indoor and Outdoor games for the students.<br><br><br></p>
@@ -103,7 +103,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-graduation"></i>
+<i class="ri-building-2-line"></i>
 <a href="academics-details.html"><h3>Infrastructure</h3></a>
 </div>
 <p>The ambience of the school is calm and stimulating that ignites young minds.<br><br></p>
@@ -113,7 +113,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-writing-tool"></i>
+<i class="ri-cake-3-fill"></i>
 <a href="academics-details.html"><h3>Dining</h3></a>
 </div>
 <p>Our custom technology makes it easy to access our online menus to see what's for lunch everyday.<br><br></p>
@@ -126,7 +126,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-college-graduation"></i>
+<i class="ri-parent-line"></i>
 <a href="academics-details.html"><h3>Community Outreach</h3></a>
 </div>
 <p>community outreach like vanamahotsavam...<br><br></p>
@@ -136,7 +136,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-graduation"></i>
+<i class="ri-book-mark-line"></i>
 <a href="academics-details.html"><h3>Library</h3></a>
 </div>
 <p>The school library contains 10000+ books that covers a spectrum of subjects.</p>
@@ -146,7 +146,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-writing-tool"></i>
+<i class="ri-bus-fill"></i>
 <a href="academics-details.html"><h3>Transport</h3></a>
 </div>
 <p>Good staff & safe transport for students.<br><br></p>

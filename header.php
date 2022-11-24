@@ -130,9 +130,9 @@ Curricular Activities
 Gallery
 </a>
 </li>
-<!-- <li class="nav-item">
-<a href="contact-us.html" class="nav-link">Contact Us</a>
-</li> -->
+<li class="nav-item">
+<a href="contact.php" class="nav-link">Contact Us</a>
+</li>
 </ul>
 <div class="others-options">
 <div class="icon">
