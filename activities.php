@@ -1,11 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zxx">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        
 <link rel="stylesheet" href="assets/css/bootstrap.min.css">
 
 <link rel="stylesheet" href="assets/css/meanmenu.css">
@@ -30,106 +29,137 @@
 
 <link rel="stylesheet" href="assets/css/responsive.css">
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
-
-    <title>Cirricular Activities</title>
+<title>Cirricular Activities</title>
 </head>
 <body>
-    <?php
-    include("header.php");
-    ?> 
-<br><br><br>
-    <div class="campus-information-area pb-70">
+<?php
+include("header.php");
+?>
+
+<div class="campus-life-area pt-100 pb-70">
 <div class="container">
-    <div class="campus-content">
-        <div class="campus-title"><h2 align="center">CURRICULAR ACTIVITIES</h2>
-        </div>
-
-<p>
-<h3>Language Arts</h3>
-<ul style="color: #111D5E;">
-<li><i>LM I – a introductory programme to improve arrotive skills.</i></li>
-
-<li><i>Spell bee – word spellings competition for classes I to V
-.</i></li>
-
-<li><i>SOF – English Olympiad.</i></li>
-
-<li><i>YLE – English Olympiad.</i></li>
-
-<li><i>Now the government priorities admission for minorities from different states of India to promote national integration..</i></li>
-
-<li><i>Literary Club.</i></li>
-
-<li><i>Newspaper in Education.</i></li>
-</ul>
-
-<h3>Science & Maths</h3>
-<ul style="color: #111D5E;">
-<li><i>Science Olympiad.</i></li>
-<li><i>Cyber Olympiad.</i></li>
-<li><i>Science Club.</i></li>
-<li><i>Math Olympiad.</i></li>
-</ul>
-
-<h3>Performig Arts</h3>
-<ul style="color: #111D5E;">
-<li><i>Dance – Classical / folk / fusion.</i></li>
-<li><i>Vocals - Semi Classical & Western and instrumental music.</i></li>
-<li><i>Theatre – club activity.</i></li>
-</ul>
-
-<h3>Sports</h3>
-<ul style="color: #111D5E;">
-<li><i>Athletics.</i></li>
-<li><i>Basketball.</i></li>
-<li><i>Football.</i></li>
-<li><i>Tennis.</i></li>
-<li><i>Table Tennis.</i></li>
-<li><i>Badminton.</i></li>
-<li><i>Martial Arts.</i></li>
-<li><i>Horse riding ( paid activity ).</i></li>
-</ul>
-</p><br><br>
-<p>
-<h2>Community Service</h2>
-
-<h4><i>SANKALP:<i></h4>
-<B>Shramdaan</B> – a Clean Community Initiative : In order to teach its students good civic values, Geethika has a community cleaning drive – Shramdaan . Students take turns section-wise to go around the School premises and clear it of litter. The senior grades also engage in cleaning of public places like parks and open grounds.
-</p>
-
-    </div>
+    <h2 align="center">Language & Arts</h2> <br>
+<div class="row justify-content-center">
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>Art & Culture</span>
+<a href="campus-life.html"><h3>Art, exercise and escapism in nature</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>Athletics & Fitness</span>
+<a href="campus-life.html"><h3>Improve Athletic Performance
+Tips From Sanu</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>Student Life</span>
+<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>Dining On Campus</span>
+<a href="campus-life.html"><h3>Art, exercise and escapism in nature</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>Health & Wellness</span>
+<a href="campus-life.html"><h3>Improve Athletic Performance
+Tips From Sanu</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>Safety and Security</span>
+<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 
-    </div>
 
-    <?php
-    include("footer.php");
-        ?>
-        
-        <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
-        
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
-        
-        <script src="assets/js/jquery.meanmenu.js"></script>
-        
-        <script src="assets/js/owl.carousel.min.js"></script>
-        
-        <script src="assets/js/carousel-thumbs.min.js"></script>
-        
-        <script src="assets/js/jquery.magnific-popup.js"></script>
-        
-        <script src="assets/js/aos.js"></script>
-        
-        <script src="assets/js/odometer.min.js"></script>
-        
-        <script src="assets/js/appear.min.js"></script>
-        
-        <script src="assets/js/form-validator.min.js"></script>
-        
-        <script src="assets/js/contact-form-script.js"></script>
-        
-        <script src="assets/js/ajaxchimp.min.js"></script>
-        
-        <script src="assets/js/custom.js"></script>
+<div class="student-life-area pt-100 pb-70">
+<div class="container">
+<div class="section-title">
+<h2>Student Life</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
+</div>
+<div class="row">
+<div class="col-lg-6">
+<div class="student-life-card">
+<img src="assets/images/stundent-life/student-life-1.jpg" alt="Image">
+<div class="tags">
+<p>Athletics</p>
+</div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="student-life-card">
+<img src="assets/images/stundent-life/student-life-2.jpg" alt="Image">
+<div class="tags">
+<p>Fitness Center</p>
+</div>
+</div>
+<div class="student-life-card">
+<img src="assets/images/stundent-life/student-life-3.jpg" alt="Image">
+<div class="tags">
+<p>Health and Wellness</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="go-top">
+<i class="ri-arrow-up-s-line"></i>
+<i class="ri-arrow-up-s-line"></i>
+</div>
+
+<?php
+include("footer.php");
+?>
+<script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
+
+<script src="assets/js/bootstrap.bundle.min.js"></script>
+
+<script src="assets/js/jquery.meanmenu.js"></script>
+
+<script src="assets/js/owl.carousel.min.js"></script>
+
+<script src="assets/js/carousel-thumbs.min.js"></script>
+
+<script src="assets/js/jquery.magnific-popup.js"></script>
+
+<script src="assets/js/aos.js"></script>
+
+<script src="assets/js/odometer.min.js"></script>
+
+<script src="assets/js/appear.min.js"></script>
+
+<script src="assets/js/form-validator.min.js"></script>
+
+<script src="assets/js/contact-form-script.js"></script>
+
+<script src="assets/js/ajaxchimp.min.js"></script>
+
+<script src="assets/js/custom.js"></script>
 </body>
 </html>
