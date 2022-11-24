@@ -30,7 +30,7 @@
 <link rel="stylesheet" href="assets/css/responsive.css">
 
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
-<title>Geethik CBDSE School</title>
+<title>Geethik CBSE School</title>
 
 <!-- <<<<<<< HEAD -->
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
@@ -50,35 +50,33 @@ include("header.php");
 <div class="hero-slider owl-carousel owl-theme" data-slider-id="1">
 <div class="slider-item banner-bg-1">
 <div class="slider-content">
-<h1>Explore Your Potential & Talents In Sanu</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
-<a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
+<h1 style="color:#111D5E; text-shadow: 2px 2px 1px white;">Geethika CBSE School</h1>
+<p>To be recognized as an accomplished, comprehensive academic foundation that helps budding geniuses conform to the demands of a vigorous world.</p>
+<a href="courses.html" class="default-btn btn">Start Your Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="slider-item banner-bg-2">
 <div class="slider-content">
-<h1>Explore Your Creativity & Talent With Sanu</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
-<a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
+<h1 style="color:#111D5E;text-shadow: 2px 2px 1px white;">Explore Your Creativity & Talent With Geethika</h1>
+<a href="courses.html" class="default-btn btn">Start Your Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="slider-item banner-bg-3">
 <div class="slider-content">
-<h1>Start Your Beautiful & Bright Future From Here</h1>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit. Ut elit tellus luctus nec ullamcorper mattis pulvinar dapibus dolor sit amet consec</p>
-<a href="courses.html" class="default-btn btn">Start a Journey <i class="flaticon-next"></i></a>
+<h1 style="color:#111D5E;text-shadow: 2px 2px 1px white;">Start Your Beautiful & Bright Future From Here</h1>
+<a href="courses.html" class="default-btn btn">Start Your Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 </div>
 <div class="owl-thumbs" data-slider-id="1">
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-1.jpg" alt="Images">
+<img src="school images/admission.png" alt="Images">
 </button>
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-2.jpg" alt="Images">
+<img src="school images/gallery/3.png" alt="Images">
 </button>
 <button class="owl-thumb-item">
-<img src="assets/images/banner/thumb-3.jpg" alt="Images">
+<img src="school images/3.png" alt="Images">
 </button>
 </div>
 </div>
@@ -95,7 +93,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-college-graduation"></i>
+<i class="ri-basketball-line"></i>
 <a href="academics-details.html"><h3>Sports</h3></a>
 </div>
 <p>Indoor and Outdoor games for the students.<br><br><br></p>
@@ -105,7 +103,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-graduation"></i>
+<i class="ri-building-2-line"></i>
 <a href="academics-details.html"><h3>Infrastructure</h3></a>
 </div>
 <p>The ambience of the school is calm and stimulating that ignites young minds.<br><br></p>
@@ -115,7 +113,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-writing-tool"></i>
+<i class="ri-cake-3-fill"></i>
 <a href="academics-details.html"><h3>Dining</h3></a>
 </div>
 <p>Our custom technology makes it easy to access our online menus to see what's for lunch everyday.<br><br></p>
@@ -128,7 +126,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-college-graduation"></i>
+<i class="ri-parent-line"></i>
 <a href="academics-details.html"><h3>Community Outreach</h3></a>
 </div>
 <p>community outreach like vanamahotsavam...<br><br></p>
@@ -138,7 +136,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-graduation"></i>
+<i class="ri-book-mark-line"></i>
 <a href="academics-details.html"><h3>Library</h3></a>
 </div>
 <p>The school library contains 10000+ books that covers a spectrum of subjects.</p>
@@ -148,7 +146,7 @@ include("header.php");
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
-<i class="flaticon-writing-tool"></i>
+<i class="ri-bus-fill"></i>
 <a href="academics-details.html"><h3>Transport</h3></a>
 </div>
 <p>Good staff & safe transport for students.<br><br></p>
@@ -319,7 +317,7 @@ include("header.php");
 <div class="campus-content pr-20">
 <div class="campus-title">
 <h2>Admissions Open</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incid idunt ut labore et dolore magna aliqua. Ut enim ad minim ven iam quis nostrud xerci tation ulla mco laboris nisi ut </p>
+<p>The school has a broad interest in the field of quality education and excellence committed to enabling academic development of young minds. The school empowers the students to raise their academic and personal potential in a dynamic environment that values analysis, dedication and observation. </p>
 </div>
 <div class="list">
 <div class="row">
@@ -370,7 +368,7 @@ include("header.php");
 <div class="col-lg-4 col-4">
 <div class="counter-card">
 <h1>
-<span class="odometer" data-count="65">00</span>
+<span class="odometer" data-count="20">00</span>
 <span class="target">+</span>
 </h1>
 <p>Years Of Experience</p>
@@ -379,19 +377,19 @@ include("header.php");
 <div class="col-lg-4 col-4">
 <div class="counter-card">
 <h1>
-<span class="odometer" data-count="30">00</span>
+<span class="odometer" data-count="5">00</span>
 <span class="target heading-color">k</span><span class="target">+</span>
 </h1>
-<p>Global Students</p>
+<p>Happy Students</p>
 </div>
 </div>
 <div class="col-lg-4 col-4">
 <div class="counter-card">
 <h1>
-<span class="odometer" data-count="52">00</span>
+<span class="odometer" data-count="50">00</span>
 <span class="target">+</span>
 </h1>
-<p>Student Nationalities</p>
+<p>Experienced Staff</p>
 </div>
 </div>
 </div>

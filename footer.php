@@ -5,27 +5,27 @@
 <div class="col-lg-4 col-sm-6">
 <div class="footer-logo-area">
 <a href="index.html"><img src="school images/main white.png" alt="Image"></a>
-<p>Sanu University was established by J.H Merthon in 1810 for the public benefit. Afterwards, it is recognized globally</p>
+<p>Geethika School aims to be recognized as an accomplished, comprehensive academic foundation that helps budding geniuses conform to the demands of a vigorous world.</p>
 <div class="contact-list">
 <ul>
-<li><a href="tel:+01987655567685">+01-9876-5556-7685
+<li><a href="tel:+01987655567685">+91 90148 28382
 </a></li>
-<li><a href="/cdn-cgi/l/email-protection#d3b2b7bebabd93a0b2bda6fdb6b7a6"><span class="__cf_email__" data-cfemail="7617121b1f18360517180358131203">[email&#160;protected]</span></a></li>
+<li><a href="/cdn-cgi/l/email-protection#d3b2b7bebabd93a0b2bda6fdb6b7a6"><span class="__cf_email__" data-cfemail="7617121b1f18360517180358131203"></span></a></li>
 </ul>
 </div>
 </div>
 </div>
 <div class="col-lg-3 col-sm-6">
 <div class="footer-widjet">
-<h3>Campus Life</h3>
+<h3>WHAT WE ARE...</h3>
 <div class="list">
 <ul>
-<li><a href="campus-life.html">Accessibility</a></li>
-<li><a href="campus-life.html">Financial Aid</a></li>
-<li><a href="campus-life.html">Food Services</a></li>
-<li><a href="campus-life.html">Housing</a></li>
+<li><a href="campus-life.html">Our Visionaries</a></li>
+<li><a href="campus-life.html">Our Vission & Mission</a></li>
+<li><a href="campus-life.html">The Leaders</a></li>
+<!-- <li><a href="campus-life.html">Housing</a></li>
 <li><a href="campus-life.html">Information Technologies</a></li>
-<li><a href="campus-life.html">Student Life</a></li>
+<li><a href="campus-life.html">Student Life</a></li> -->
 </ul>
 </div>
 </div>
@@ -35,27 +35,27 @@
 <h3>Our Campus</h3>
 <div class="list">
 <ul>
-<li><a href="campus-life.html">Acedemic</a></li>
-<li><a href="campus-life.html">Planning & Administration</a></li>
-<li><a href="campus-life.html">Campus Safety</a></li>
-<li><a href="campus-life.html">Office of the Chancellor</a></li>
-<li><a href="campus-life.html">Facility Services</a></li>
-<li><a href="campus-life.html">Human Resources</a></li>
+<li><a href="campus-life.html">Acedemics</a></li>
+<li><a href="campus-life.html">Cirricular Activities</a></li>
+<li><a href="campus-life.html">Gallery</a></li>
+<li><a href="campus-life.html">Guidelines</a></li>
+<li><a href="campus-life.html">Admission Form</a></li>
+<!-- <li><a href="campus-life.html">Human Resources</a></li> -->
 </ul>
 </div>
 </div>
 </div>
 <div class="col-lg-2 col-sm-6">
 <div class="footer-widjet">
-<h3>Academics</h3>
+<h3>CONTACT US</h3>
 <div class="list">
 <ul>
-<li><a href="academics.html">Canvas</a></li>
-<li><a href="academics.html">Catalyst</a></li>
-<li><a href="academics.html">Library</a></li>
-<li><a href="academics.html">Time Schedule</a></li>
-<li><a href="academics.html">Apply For Admissions</a></li>
-<li><a href="academics.html">Pay My Tuition</a></li>
+<li><a href="academics.html">Geethika School</a></li>
+<li><a href="academics.html">HYD Highway</a></li>
+<li><a href="academics.html">Brahmanapalli-522437</a></li>
+<li><a href="academics.html">Piduguralla Mandal</a></li>
+<li><a href="academics.html">Guntur</a></li>
+<li><a href="academics.html">Andhra Pradesh</a></li>
 </ul>
 </div>
 </div>

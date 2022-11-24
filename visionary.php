@@ -38,289 +38,128 @@
 include ("header.php");
 ?>
 
-
-<div class="academic-area pt-100 pb-70">
-
-<div class="container-fluid">
-
-<table>
-    <tr>
-        <td>
-<img src="school images/visionaries1.png">
-        </td>
-
-        <td>
-            <h3>SRI. TALLAPALLI BALAGANGADHARA REDDY - CHAIRMAN</h3>
-            <ul>
-                <li>Geethika School is established at palanadu a region witch was Historical back ground and committed to inculcate strong ethical values of integrity, respect and discipline as well as clarity in thought and decision-making ability, as a life-long process in our students. To accomplish the same, our School follows a rigorous developmental programme which is based upon the best educational practices, highly progressive and recognized worldwide.</li>
-
-                <li>The developmental programme is extlusively designed for students to maximize their potential at an internationally competitive level, supported by our state of the-art infrastructure, coupled with highly qualified and well trained teachers.</li>
-
-                <li>Furthermore, it has always been one of my quests in life to make high quality education available and accessible through the latest educational technology without inequality.</li>
-
-                <li>My effort has been to build an extraordinary and ever evolving education system that maximizes the individual capabilities to meet the challenges of higher education, work and life.</li>
-
-                <li>I am delighted that you are considering Geethika School for your child’s education and a great place for great future. I wish you and your child, the very best.</li>
-
-            </ul>
-        </td>
-    </tr>
-<tr>
-    <td><br><br></td>
-</tr>
-    <tr>
-        <td>
-<img src="school images/visionaries2.png">
-        </td>
-
-        <td>
-            <h3>SRI. POLISETTY SRINIVASA RAO M.SC,. .M.ED - PRINCIPAL</h3>
-            <ul>
-                <li>We at Geethika truly believe that each child entrusted to us will receive education in its finest form. We are aware that learning is a lifelong process and, therefore, students are motivated tochallenge their hidden potential.</li>
-
-                <li>I believe that Education is a holistic experience that synergises the growth of body, mind and spirit. Our Chairman Sree TallaPalli Padmasree Balagangadhara</li>
-
-                <li>Reddy have always desired to nurture and prepare generations of individuals as the-torch-bearers of tomorrow, who, believe in the strength of their convictions and take pride in being Indian.</li>
-
-                <li>The courses at Geethika are dynamic and futuristic; therefore, we have realized the need to implement technology in all areas of the functioning of the school</li>
-
-            </ul>
-        </td>
-    </tr>
-
-</table>
-</div>
-</div>
-
-
-
-<div class="alumni-area pt-100 pb-70">
-    <H2 align="center"> BOARD OF DIRECTORS<br><br></H2>
+<div class="faq-area ptb-100">
 <div class="container">
-<div class="row">
+<div class="row align-items-center">
+<h2>SRI. TALLAPALLI BALAGANGADHARA REDDY - CHAIRMAN</h2>
 <div class="col-lg-6">
-<div class="alumni-left-content">
+<div class="faq-image pr-20">
 
-<div class="single-alumoni-updates-card">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="update-image">
-<img src="school images/b1.png" alt="Image">
+<img src="school images/vimages/v1.png" alt="Image">
 </div>
 </div>
-<div class="col-lg-7 col-md-7">
-<div class="updates-content">
-<div class="date">
-<!-- <p>Apr 12, 2022 / Blog</p> -->
-<h3>SRI PERAM VENKATESWARA REDDY</h3>
-<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="single-alumoni-updates-card">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="update-image">
-<img src="school images/b2.png" alt="Image">
-</div>
-</div>
-<div class="col-lg-7 col-md-7">
-<div class="updates-content">
-<div class="date">
-<!-- <p>Apr 12, 2022 / Blog</p> -->
-<h3>SRI. TALLAPALLI VENKATA RAMI REDDY</h3>
-<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="single-alumoni-updates-card">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="update-image">
-<img src="school images/b4.png" alt="Image">
-</div>
-</div>
-<div class="col-lg-7 col-md-7">
-<div class="updates-content">
-<div class="date">
-<!-- <p>Apr 12, 2022 / Blog</p> -->
-<h3>SMT. TALLAPALLI RAJANI</h3>
-<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-
 <div class="col-lg-6">
-<div class="alumni-right-content">
-
-<div class="single-alumoni-updates-card">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="update-image">
-<img src="school images/b5.png" alt="Image">
+<div class="faq-left-content pl-20">
+<div class="faq-title"><br><br>
+<p>Geethika School is established at palanadu a region witch was Historical back ground and committed to inculcate strong ethical values of integrity, respect and discipline as well as clarity in thought and decision-making ability, as a life-long process in our students. To accomplish the same, our School follows a rigorous developmental programme which is based upon the best educational practices, highly progressive and recognized worldwide.</p>
 </div>
-</div>
-<div class="col-lg-7 col-md-7">
-<div class="updates-content">
-<div class="date">
-<!-- <p>Apr 12, 2022 / Blog</p> -->
-<h3>SMT. PERAM SAMRAJAM</h3>
-<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
-</div>
-</div>
-</div>
-</div>
+<div class="accordion" id="accordionExample">
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingOne">
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+The developmental programme is extlusively designed for students to maximize their potential at an internationally competitive level, supported by our state of the-art infrastructure, coupled with highly qualified and well trained teachers.
+</button>
+</h2>
 </div>
 
-<div class="single-alumoni-updates-card">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="update-image">
-<img src="school images/b3.png" alt="Image">
-</div>
-</div>
-<div class="col-lg-7 col-md-7">
-<div class="updates-content">
-<div class="date">
-<!-- <p>Apr 12, 2022 / Blog</p> -->
-<h3>SMT. TALLAPALLI PADMASREE</h3>
-<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
-</div>
-</div>
-</div>
-</div>
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingTwo">
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+Furthermore, it has always been one of my quests in life to make high quality education available and accessible through the latest educational technology without inequality.
+</button>
+</h2>
 </div>
 
-<div class="single-alumoni-updates-card">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="update-image">
-<img src="assets/images/alumni/alumni-6.jpg" alt="Image">
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingThree">
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+There are many variations of passages of Lorem Ipsum available, the
+many variations of passages of Lorem Ipsum available, majority have
+injected humour, randomised words don't look believable.
+</button>
+</h2>
 </div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingTwo">
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+My effort has been to build an extraordinary and ever evolving education system that maximizes the individual capabilities to meet the challenges of higher education, work and life.
+</button>
+</h2>
 </div>
-<div class="col-lg-7 col-md-7">
-<div class="updates-content">
-<div class="date">
-<!-- <p>Apr 12, 2022 / Blog</p> -->
-<h3>KUM. TALLAPALLI BHAVANA</h3>
-<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingTwo">
+<button class="accordion-button" type="button">
+I am delighted that you are considering Geethika School for your child’s education and a great place for great future. I wish you and your child, the very best.
+</button>
+</h2>
 </div>
-</div>
-</div>
-</div>
+
 </div>
 
 </div>
 </div>
+</div>
+</div>    
 </div>
 </div>
 </div>
 
 
 
-<div class="alumni-area pt-100 pb-70">
-    <H2 align="center"> THE TEAM LEADERS<br><br></H2>
+<div class="faq-area ptb-100">
 <div class="container">
-<div class="row">
+<div class="row align-items-center">
+<h2>SRI. POLISETTY SRINIVASA RAO M.SC,. .M.ED - PRINCIPAL</h2><BR><BR><BR><BR><BR><BR><BR>
 <div class="col-lg-6">
-<div class="alumni-left-content">
-
-<div class="single-alumoni-updates-card">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="update-image">
-<img src="school images/team leaders/4.png" alt="Image">
+<div class="faq-image pr-20">
+<img src="school images/vimages/v2.png" alt="Image">
 </div>
 </div>
-<div class="col-lg-7 col-md-7">
-<div class="updates-content">
-<div class="date">
-<!-- <p>Apr 12, 2022 / Blog</p> -->
-<h3>SRI PERAM NARASA REDDY</h3>
-<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<div class="single-alumoni-updates-card">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="update-image">
-<img src="school images/team leaders/3.png" alt="Image">
-</div>
-</div>
-<div class="col-lg-7 col-md-7">
-<div class="updates-content">
-<div class="date">
-<!-- <p>Apr 12, 2022 / Blog</p> -->
-<h3>SRI PERAM NARAPA REDDY</h3>
-<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
-</div>
-</div>
-</div>
-</div>
-</div>
-
-
-</div>
-</div>
-
 <div class="col-lg-6">
-<div class="alumni-right-content">
-
-<div class="single-alumoni-updates-card">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="update-image">
-<img src="school images/team leaders/2.png" alt="Image">
+<div class="faq-left-content pl-20">
+<div class="faq-title">
 </div>
-</div>
-<div class="col-lg-7 col-md-7">
-<div class="updates-content">
-<div class="date">
-<!-- <p>Apr 12, 2022 / Blog</p> -->
-<h3>SMT. PERAM NALINI</h3>
-<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
-</div>
-</div>
-</div>
-</div>
+<div class="accordion" id="accordionExample">
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingOne">
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+We at Geethika truly believe that each child entrusted to us will receive education in its finest form. We are aware that learning is a lifelong process and, therefore, students are motivated tochallenge their hidden potential.
+</button>
+</h2>
 </div>
 
-<div class="single-alumoni-updates-card">
-<div class="row align-items-center">
-<div class="col-lg-5 col-md-5">
-<div class="update-image">
-<img src="school images/team leaders/1.png" alt="Image">
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingTwo">
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+I believe that Education is a holistic experience that synergises the growth of body, mind and spirit. Our Chairman Sree TallaPalli Padmasree Balagangadhara
+</button>
+</h2>
 </div>
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingThree">
+<button class="accordion-button " type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+Reddy have always desired to nurture and prepare generations of individuals as the-torch-bearers of tomorrow, who, believe in the strength of their convictions and take pride in being Indian.
+</button>
+</h2>
 </div>
-<div class="col-lg-7 col-md-7">
-<div class="updates-content">
-<div class="date">
-<!-- <p>Apr 12, 2022 / Blog</p> -->
-<h3>SMT. PERAM KALESWARI</h3>
-<!-- <a href="#" class="default-btn btn">Read More<i class="flaticon-next"></i></a> -->
+
+<div class="accordion-item">
+<h2 class="accordion-header" id="headingTwo">
+<button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+The courses at Geethika are dynamic and futuristic; therefore, we have realized the need to implement technology in all areas of the functioning of the school.
+</button>
+</h2>
 </div>
-</div>
-</div>
-</div>
+
 </div>
 
 </div>
 </div>
+</div>
+</div>    
 </div>
 </div>
 </div>

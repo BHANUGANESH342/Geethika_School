@@ -82,6 +82,9 @@ About Us
 <a href="mission.php" class="nav-link">Our Vision & Mission</a>
 </li>
 <li class="nav-item">
+<a href="leaders.php" class="nav-link">The Leaders</a>
+</li>
+<li class="nav-item">
 <a href="schedule.php" class="nav-link">School Day Schedule</a>
 </li>
 </ul>
@@ -129,9 +132,9 @@ Curricular Activities
 Gallery
 </a>
 </li>
-<!-- <li class="nav-item">
-<a href="contact-us.html" class="nav-link">Contact Us</a>
-</li> -->
+<li class="nav-item">
+<a href="contact.php" class="nav-link">Contact Us</a>
+</li>
 </ul>
 <div class="others-options">
 <div class="icon">
@@ -167,7 +170,7 @@ Gallery
 </a>
 <div class="sidebar-content">
 <h3>About Us</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p>To be recognized as an accomplished, comprehensive academic foundation that helps budding geniuses conform to the demands of a vigorous world.</p>
 <div class="sidebar-btn">
 <a href="contact.html" class="default-btn">Let’s Talk</a>
 </div>
@@ -195,7 +198,7 @@ Gallery
 </li>
 </ul>
 <div class="contact-form">
-<h3>Ready to Get Started?</h3>
+<h3>Write Us From Here!</h3>
 <form id="contactForm">
 <div class="row">
 <div class="col-lg-12 col-md-6">
