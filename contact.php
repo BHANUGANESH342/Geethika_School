@@ -29,24 +29,13 @@
 
 <link rel="stylesheet" href="assets/css/responsive.css">
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
-<title>Sanu - College University HTML Template</title>
+<title>Contact Us</title>
 </head>
 <body>
 <?php
 include("header.php");
 ?>
 
-<div class="page-banner-area bg-2">
-<div class="container">
-<div class="page-banner-content">
-<h1>Contact Us</h1>
-<ul>
-<li><a href="index.html">Home</a></li>
-<li>Contact Us</li>
-</ul>
-</div>
-</div>
-</div>
 
 
 <div class="contact-us-area pt-100 pb-70">
