@@ -168,7 +168,7 @@ Gallery
 </a>
 <div class="sidebar-content">
 <h3>About Us</h3>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p>To be recognized as an accomplished, comprehensive academic foundation that helps budding geniuses conform to the demands of a vigorous world.</p>
 <div class="sidebar-btn">
 <a href="contact.html" class="default-btn">Let’s Talk</a>
 </div>
@@ -196,7 +196,7 @@ Gallery
 </li>
 </ul>
 <div class="contact-form">
-<h3>Ready to Get Started?</h3>
+<h3>Write Us From Here!</h3>
 <form id="contactForm">
 <div class="row">
 <div class="col-lg-12 col-md-6">

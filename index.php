@@ -317,7 +317,7 @@ include("header.php");
 <div class="campus-content pr-20">
 <div class="campus-title">
 <h2>Admissions Open</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incid idunt ut labore et dolore magna aliqua. Ut enim ad minim ven iam quis nostrud xerci tation ulla mco laboris nisi ut </p>
+<p>The school has a broad interest in the field of quality education and excellence committed to enabling academic development of young minds. The school empowers the students to raise their academic and personal potential in a dynamic environment that values analysis, dedication and observation. </p>
 </div>
 <div class="list">
 <div class="row">
@@ -368,7 +368,7 @@ include("header.php");
 <div class="col-lg-4 col-4">
 <div class="counter-card">
 <h1>
-<span class="odometer" data-count="65">00</span>
+<span class="odometer" data-count="20">00</span>
 <span class="target">+</span>
 </h1>
 <p>Years Of Experience</p>
@@ -377,19 +377,19 @@ include("header.php");
 <div class="col-lg-4 col-4">
 <div class="counter-card">
 <h1>
-<span class="odometer" data-count="30">00</span>
+<span class="odometer" data-count="5">00</span>
 <span class="target heading-color">k</span><span class="target">+</span>
 </h1>
-<p>Global Students</p>
+<p>Happy Students</p>
 </div>
 </div>
 <div class="col-lg-4 col-4">
 <div class="counter-card">
 <h1>
-<span class="odometer" data-count="52">00</span>
+<span class="odometer" data-count="50">00</span>
 <span class="target">+</span>
 </h1>
-<p>Student Nationalities</p>
+<p>Experienced Staff</p>
 </div>
 </div>
 </div>
