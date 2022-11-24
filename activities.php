@@ -43,56 +43,203 @@ include("header.php");
 <div class="col-lg-4 col-md-6">
 <div class="single-campus-card">
 <div class="campus-content">
-<span>Art & Culture</span>
-<a href="campus-life.html"><h3>Art, exercise and escapism in nature</h3></a>
+<span>LMI </span>
+<a href="campus-life.html"><h3>A indroductory programme to improve arrotive skills.</h3></a>
 </div>
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
 <div class="single-campus-card">
 <div class="campus-content">
-<span>Athletics & Fitness</span>
-<a href="campus-life.html"><h3>Improve Athletic Performance
-Tips From Sanu</h3></a>
+<span>SPELL BEE</span>
+<a href="campus-life.html"><h3>Word spellings competition for classes  I to V</h3></a>
 </div>
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
 <div class="single-campus-card">
 <div class="campus-content">
-<span>Student Life</span>
-<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
+<span>SOF</span>
+<a href="campus-life.html"><h3>English Olyimpiad<br><br></h3></a>
 </div>
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
 <div class="single-campus-card">
 <div class="campus-content">
-<span>Dining On Campus</span>
-<a href="campus-life.html"><h3>Art, exercise and escapism in nature</h3></a>
+<span>YLE</span>
+<a href="campus-life.html"><h3>English Olyimpiad</h3></a>
 </div>
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
 <div class="single-campus-card">
 <div class="campus-content">
-<span>Health & Wellness</span>
-<a href="campus-life.html"><h3>Improve Athletic Performance
-Tips From Sanu</h3></a>
+<span>CLUBS</span>
+<a href="campus-life.html"><h3>Literary Club</h3></a>
 </div>
 </div>
 </div>
 <div class="col-lg-4 col-md-6">
 <div class="single-campus-card">
 <div class="campus-content">
-<span>Safety and Security</span>
-<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
+<span>CLUBS</span>
+<a href="campus-life.html"><h3>Newspaper in Education</h3></a>
 </div>
 </div>
 </div>
 </div>
 </div>
 </div>
+
+
+<div class="campus-life-area pt-100 pb-70">
+<div class="container">
+    <h2 align="center">Performing Arts</h2> <br>
+<div class="row justify-content-center">
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>DANCE</span>
+<a href="campus-life.html"><h3>Classical/Folk/Fusion<br><br></h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>VOCALS</span>
+<a href="campus-life.html"><h3>Semi Classical & Western and Instrumental Music</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>THEATRE</span>
+<a href="campus-life.html"><h3>Club Activity<br><br></h3></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="campus-life-area pt-100 pb-70">
+<div class="container">
+    <h2 align="center">Science & Maths</h2> <br>
+<div class="row justify-content-center">
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>OLYMPIADS</span>
+<a href="campus-life.html"><h3>Science Olympiads</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>OLYMPIADS</span>
+<a href="campus-life.html"><h3>Cyber Olympiadss</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>OLYMPIADS</span>
+<a href="campus-life.html"><h3>Math Olyimpiad</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<span>CLUBS</span>
+<a href="campus-life.html"><h3>Science Club</h3></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+<div class="campus-life-area pt-100 pb-70">
+<div class="container">
+    <h2 align="center">Sports</h2> <br>
+<div class="row justify-content-center">
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<a href="campus-life.html"><h3>Athletics</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<a href="campus-life.html"><h3>Basketball</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<a href="campus-life.html"><h3>Football</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<a href="campus-life.html"><h3>Tennis</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<a href="campus-life.html"><h3>Table Tennis</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<a href="campus-life.html"><h3>Badminton</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<a href="campus-life.html"><h3>Martial Arts</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<a href="campus-life.html"><h3>Horse Riding(Paid Activity)</h3></a>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-6">
+<div class="single-campus-card">
+<div class="campus-content">
+<a href="campus-life.html"><h3>Community Activities</h3></a>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+
+
 
 
 <div class="student-life-area pt-100 pb-70">

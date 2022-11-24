@@ -116,11 +116,38 @@
 </div>
 </div>
 
+</div>
+</div>
+</div>
 
+<div class="admisssion-area bg-f4f6f9 ptb-100">
+<div class="container">
+<div class="admission-content">
+<div class="section-title">
+<h2>Geethika CBSE School</h2>
+<p>Know more about our school's Activities and cultural events through the following youtube video.</p>
+</div>
+<div class="admission-image">
+<img src="assets/images/admission/admission-1.jpg" alt="Image">
+<div class="icon">
+<a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=pCx-EIPS57U"><i class="ri-play-fill"></i></a>
+</div>
+</div>
+<div class="query text-center">
+<p>If You Have Any Query...Please Contact Us Via Email</p>
+<a href="admission.html" class="default-btn btn">More on admission<i class="flaticon-next"></i></a>
+</div>
+</div>
+</div>
+</div>
 
-</div>
-</div>
-</div>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
 
 
     <?php
