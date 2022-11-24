@@ -37,14 +37,34 @@
 <?php
 include("header.php");
 ?>
-
-
+<?php
+if (isset($_POST["submit"]))
+{
+    $cname=$_POST["cname"];
+    $admClass=$_POST["adm_class"];
+    $gender=$_POST["gender"];
+    $s_aadhar=$_POST["s_aadhar"];
+    $fname=$_POST["fname"];
+    $fjob=$_POST["fjob"];
+    $f_aadhar=$_POST["f_aadhar"];
+    $fmobile=$_POST["fmobile"];
+    $mname=$_POST["mname"];
+    $mjob=$_POST["mjob"];
+    $m_aadhar=$_POST["m_aadhar"];
+    $mphone=$_POST["mphone"];
+    $prev_school=$_POST["prev_school"];
+    $email=$_POST["email"];
+    $query="insert into `registration` (S_NO,stdNam,admClas,gender,stdAdhr,fname,foccup,fadhr,fmob,mname,moccup,madhr,mmob,email,preschool) values ('','$cname','$admClass','$gender','$s_aadhar','$fname','$fjob','$f_aadhar','$fmobile','$mname','$mjob','$m_aadhar','$mphone','$prev_school','$email');";
+    $pass=mysqli_query($con,$query);
+}
+?>
+    
 <div class="register-area pt-100 pb-70">
 <div class="container">
     <div class="register">
         <h3>Online Admission Form</h3>
         <div class="row">
-<form>
+<form method="POST">
 
 <table align="center">
 <tr>
@@ -58,7 +78,7 @@ include("header.php");
 <tr>
 <td align="left"><label>Admission To Class:</label></td>
 <td>
-<div class="form-group"><select name="adm_Class" id="adm_Class" class="form-control">
+<div class="form-group"><select name="adm_class" id="adm_Class" class="form-control">
             <option></option>
             <option value="pp1">PP1</option>
             <option value="pp2">PP2</option>
@@ -174,7 +194,7 @@ include("header.php");
 
 <tr>
     <td>
-<button type="submit" class="default-btn btn active" align="center">Apply for Admission</button>
+<button type="submit" name="submit" class="default-btn btn active" align="center">Apply for Admission</button>
 </td>
 </tr>
 </table>
