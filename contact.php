@@ -95,7 +95,7 @@ I agree to the <a href="terms-conditions.html">terms</a> and <a href="privacy-po
 <span>Send message</span>
 </button>
 <div id="msgSubmit" class="h3 text-center hidden"></div>
- <div class="clearfix"></div>
+<div class="clearfix"></div>
 </div>
 </div>
 </form>
@@ -114,7 +114,7 @@ I agree to the <a href="terms-conditions.html">terms</a> and <a href="privacy-po
 </div>
 <h4>Contact</h4>
 <p>Mobile: <a href="tel:+8819906886">+91 90148 28382</a></p>
-<p>Mail: <a href="/cdn-cgi/l/email-protection#cba8a4a5bfaaa8bf8baeafbea6aaa7a7e5a8a4a6"><span class="__cf_email__" data-cfemail="6e1d0f001b2e0b0a1b030f0702400d0103">[email&#160;protected]</span></a></p>
+<p><a href="/cdn-cgi/l/email-protection#cba8a4a5bfaaa8bf8baeafbea6aaa7a7e5a8a4a6"><span class="__cf_email__" data-cfemail="6e1d0f001b2e0b0a1b030f0702400d0103">Geethikacbseschool@gmail.com</span></a></p>
 </div>
 </div>
 <div class="col-lg-6 col-md-6">
@@ -123,27 +123,15 @@ I agree to the <a href="terms-conditions.html">terms</a> and <a href="privacy-po
 <i class="ri-map-pin-line"></i>
 </div>
 <h4>Address</h4>
-<p>1800 Abbot Kinney Blvd.</p>
-<p>Unit D & E Venice</p>
+<p>Brahmanapalli</p>
+<p>Piduguralla Mandal - HYD</p>
 </div>
 </div>
 </div>
 </div>
 <div class="social-media">
-<h3>Social Media</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tem incididunt ut labore et dolore magna aliquat enim</p>
 <ul>
 <li>
-<a href="https://www.facebook.com" target="_blank"><i class="flaticon-facebook"></i></a>
-</li>
-<li>
-<a href="https://www.twitter.com" target="_blank"><i class="flaticon-twitter"></i></a>
-</li>
-<li>
-<a href="https://instagram.com/?lang=en" target="_blank"><i class="flaticon-instagram"></i></a>
-</li>
-<li>
-<a href="https://linkedin.com/?lang=en" target="_blank"><i class="flaticon-linkedin"></i></a>
 </li>
 </ul>
 </div>
