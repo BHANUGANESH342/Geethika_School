@@ -18,8 +18,8 @@
 <div class="row align-items-center">
 <div class="col-lg-6 col-md-6">
 <div class="header-left-content">
-<p>Call Us on +91 9014828382</p>
-<p>MANDATORY PUBLIC DISCLOSURE</p>
+<h style=" color: #fff; font-size: 14px;">MANDATORY PUBLIC DISCLOSURE</h>
+<h style=" color: #fff; font-size: 14px;" >Call Us on +91 9014828382</h>
 <!-- fc1a27e9c097e08fccf6adc94bd26584cb563e6c -->
 </div>
 </div>
