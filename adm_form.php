@@ -58,7 +58,7 @@ if (isset($_POST["submit"]))
     $pass=mysqli_query($con,$query);
 }
 ?>
-    
+
 <div class="register-area pt-100 pb-70">
 <div class="container">
     <div class="register">
