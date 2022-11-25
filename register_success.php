@@ -41,9 +41,7 @@ include("header.php");
 <h1 align="center">You Have Registered Succuessfully!</h1>
 
 
-<?php
-include("footer.php");
-?>
+
 
 <div class="go-top">
 <i class="ri-arrow-up-s-line"></i>

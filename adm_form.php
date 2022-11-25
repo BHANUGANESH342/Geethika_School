@@ -56,6 +56,9 @@ if (isset($_POST["submit"]))
     $email=$_POST["email"];
     $query="insert into `registration` (S_NO,stdNam,admClas,gender,stdAdhr,fname,foccup,fadhr,fmob,mname,moccup,madhr,mmob,email,preschool) values ('','$cname','$admClass','$gender','$s_aadhar','$fname','$fjob','$f_aadhar','$fmobile','$mname','$mjob','$m_aadhar','$mphone','$prev_school','$email');";
     $pass=mysqli_query($con,$query);
+    if($pass){
+        echo "<script>window.location = 'register_success.php';</script>";
+    }
 }
 ?>
 
@@ -211,7 +214,7 @@ if (isset($_POST["submit"]))
     include("footer.php");
         ?>
         
-        <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery.min.js"></script>
+        <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></><script src="assets/js/jquery.min.js"></script>
         
         <script src="assets/js/bootstrap.bundle.min.js"></script>
         
