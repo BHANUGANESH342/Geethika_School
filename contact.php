@@ -34,6 +34,18 @@
 <body>
 <?php
 include("header.php");
+if (isset($_POST["submit"]))
+{
+    $name=$_POST["name"];
+    $email=$_POST["email"];
+    $mobile=$_POST["phone_number"];
+    $subject=$_POST["msg_subject"];
+    $message=$_POST["message"];
+    $gridCheck=$_POST["gridCheck"];
+    $pass="insert into `contact`  values ('','$name','$email','$mobile','$subject','$message','$gridCheck');";
+    $run=mysqli_query($con,$pass);
+    if($run) echo "Data entered Sucess fully";
+}
 ?>
 
 
@@ -44,7 +56,7 @@ include("header.php");
 <div class="col-lg-6">
 <div class="contacts-form">
 <h3>Leave a message</h3>
-<form id="contactForm">
+<form id="contactForm" method="POST">
 <div class="row">
 <div class="col-lg-6 col-sm-6">
 <div class="form-group">
@@ -91,7 +103,7 @@ I agree to the <a href="terms-conditions.html">terms</a> and <a href="privacy-po
 </div>
 </div>
 <div class="col-lg-12 col-md-12">
-<button type="submit" class="default-btn">
+<button type="submit" name="submit" class="default-btn">
 <span>Send message</span>
 </button>
 <div id="msgSubmit" class="h3 text-center hidden"></div>
