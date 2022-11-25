@@ -57,13 +57,15 @@ include("header.php");
 </div>
 <div class="slider-item banner-bg-2">
 <div class="slider-content">
-<h1 style="color:#111D5E;text-shadow: 2px 2px 1px white;">Explore Your Creativity & Talent With Geethika</h1>
+<!-- <h1 style="color:#111D5E;text-shadow: 2px 2px 1px white;">Explore Your Creativity & Talent With Geethika</h1> -->
+<br><br><br><br><br><br><br><br>
 <a href="courses.html" class="default-btn btn">Start Your Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="slider-item banner-bg-3">
 <div class="slider-content">
-<h1 style="color:#111D5E;text-shadow: 2px 2px 1px white;">Start Your Beautiful & Bright Future From Here</h1>
+<!-- <h1 style="color:#111D5E;text-shadow: 2px 2px 1px white;">Start Your Beautiful & Bright Future From Here</h1> -->
+<br><br><br><br><br><br><br><br>
 <a href="courses.html" class="default-btn btn">Start Your Journey <i class="flaticon-next"></i></a>
 </div>
 </div>
