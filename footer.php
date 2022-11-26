@@ -17,7 +17,7 @@
 </div>
 <div class="col-lg-3 col-sm-6">
 <div class="footer-widjet">
-<h3>WHAT WE ARE...</h3>
+<h3 >What we are...</h3>
 <div class="list">
 <ul>
 <li><a href="campus-life.html">Our Visionaries</a></li>

@@ -30,7 +30,7 @@
 <link rel="stylesheet" href="assets/css/responsive.css">
 
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
-<title>Geethik CBSE School</title>
+<title>Geethika School</title>
 
 <!-- <<<<<<< HEAD -->
 <link rel="icon" type="image/png" href="assets/images/favicon.png">
