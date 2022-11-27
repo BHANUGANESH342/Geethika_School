@@ -20,9 +20,9 @@
 <h3 >What we are...</h3>
 <div class="list">
 <ul>
-<li><a href="campus-life.html">Our Visionaries</a></li>
-<li><a href="campus-life.html">Our Vission & Mission</a></li>
-<li><a href="campus-life.html">The Leaders</a></li>
+<li><a href="visionary.php">Our Visionaries</a></li>
+<li><a href="mission.php">Our Vission & Mission</a></li>
+<li><a href="leaders.php">The Leaders</a></li>
 <!-- <li><a href="campus-life.html">Housing</a></li>
 <li><a href="campus-life.html">Information Technologies</a></li>
 <li><a href="campus-life.html">Student Life</a></li> -->
@@ -35,11 +35,11 @@
 <h3>Our Campus</h3>
 <div class="list">
 <ul>
-<li><a href="campus-life.html">Acedemics</a></li>
-<li><a href="campus-life.html">Cirricular Activities</a></li>
-<li><a href="campus-life.html">Gallery</a></li>
-<li><a href="campus-life.html">Guidelines</a></li>
-<li><a href="campus-life.html">Admission Form</a></li>
+<li><a href="academics.php">Acedemics</a></li>
+<li><a href="activities.php">Cirricular Activities</a></li>
+<li><a href="gallery.php">Gallery</a></li>
+<li><a href="adm_guideline.php">Guidelines</a></li>
+<li><a href="adm_form.php">Admission Form</a></li>
 <!-- <li><a href="campus-life.html">Human Resources</a></li> -->
 </ul>
 </div>
@@ -50,12 +50,12 @@
 <h3>CONTACT US</h3>
 <div class="list">
 <ul>
-<li><a href="academics.html">Geethika School</a></li>
-<li><a href="academics.html">HYD Highway</a></li>
-<li><a href="academics.html">Brahmanapalli-522437</a></li>
-<li><a href="academics.html">Piduguralla Mandal</a></li>
-<li><a href="academics.html">Guntur</a></li>
-<li><a href="academics.html">Andhra Pradesh</a></li>
+<li><a>Geethika School</a></li>
+<li><a>HYD Highway</a></li>
+<li><a>Brahmanapalli-522437</a></li>
+<li><a>Piduguralla Mandal</a></li>
+<li><a>Guntur</a></li>
+<li><a>Andhra Pradesh</a></li>
 </ul>
 </div>
 </div>

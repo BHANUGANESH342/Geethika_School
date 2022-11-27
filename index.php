@@ -89,37 +89,37 @@ include("header.php");
 <div class="container">
 <div class="section-title">
 <h2>OUR FACILITIES</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
+<p>With a Wonderfull Environment and Support Wonderfull things will Happen <b>Come and Join Geethika</b></p>
 </div>
 <div class="row justify-content-center">
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="ri-basketball-line"></i>
-<a href="academics-details.html"><h3>Sports</h3></a>
+<a ><h3>Sports</h3></a>
 </div>
 <p>Indoor and Outdoor games for the students.<br><br><br></p>
-<a href="academics-details.html" class="read-more-btn">Sports<i class="flaticon-next"></i></a>
+<a  class="read-more-btn">Sports<i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="ri-building-2-line"></i>
-<a href="academics-details.html"><h3>Infrastructure</h3></a>
+<a ><h3>Infrastructure</h3></a>
 </div>
 <p>The ambience of the school is calm and stimulating that ignites young minds.<br><br></p>
-<a href="academics-details.html" class="read-more-btn">Infrastructure<i class="flaticon-next"></i></a>
+<a  class="read-more-btn">Infrastructure<i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="ri-cake-3-fill"></i>
-<a href="academics-details.html"><h3>Dining</h3></a>
+<a ><h3>Dining</h3></a>
 </div>
-<p>Our custom technology makes it easy to access our online menus to see what's for lunch everyday.<br><br></p>
-<a href="academics-details.html" class="read-more-btn">Dining<i class="flaticon-next"></i></a>
+<p>Our custom technology makes it easy to access our online menus to see what's for lunch everyday.<br></p>
+<a >Dining<i class="flaticon-next"></i></a>
 </div>
 </div>
 </div>
@@ -129,30 +129,30 @@ include("header.php");
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="ri-parent-line"></i>
-<a href="academics-details.html"><h3>Community Outreach</h3></a>
+<a ><h3>Community Outreach</h3></a>
 </div>
-<p>community outreach like vanamahotsavam...<br><br></p>
-<a href="academics-details.html" class="read-more-btn">Community Outreach<i class="flaticon-next"></i></a>
+<p>community outreach like vanamahotsavam...ōl̥ō<br></p>
+<a >Community Outreach<i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="ri-book-mark-line"></i>
-<a href="academics-details.html"><h3>Library</h3></a>
+<a><h3>Library</h3></a>
 </div>
 <p>The school library contains 10000+ books that covers a spectrum of subjects.</p>
-<a href="academics-details.html" class="read-more-btn">Library<i class="flaticon-next"></i></a>
+<a  class="read-more-btn">Library<i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-academics-card">
 <div class="academic-top-content">
 <i class="ri-bus-fill"></i>
-<a href="academics-details.html"><h3>Transport</h3></a>
+<a ><h3>Transport</h3></a>
 </div>
 <p>Good staff & safe transport for students.<br><br></p>
-<a href="academics-details.html" class="read-more-btn">Transport<i class="flaticon-next"></i></a>
+<a class="read-more-btn">Transport<i class="flaticon-next"></i></a>
 </div>
 </div>
 </div>
@@ -165,47 +165,47 @@ include("header.php");
 <div class="container">
 <div class="section-title">
 <h2>LATEST NEWS & EVENTS</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis</p>
+<p>With a Wonderfull Environment and Support Wonderfull things will Happen<b> Come and Join Geethika</b></p>
 </div>
 <div class="row justify-content-center">
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-news-card">
 <div class="news-img">
-<a href="news-details.html"><img src="school images/e1.png" alt="Image"></a>
+<a ><img src="school images/e1.png" alt="Image"></a>
 </div>
 <div class="news-content">
 <div class="list">
 <ul>
-<li><i class="flaticon-user"></i>By <a href="news-details.html">Admin</a></li>
+<li><i class="flaticon-user"></i>By <a>Admin</a></li>
 <li><i class="flaticon-tag"></i>Festivals.</li>
 </ul>
 </div>
-<a href="news-details.html"><h3>Krishna Janmashtami.</h3></a>
-<a href="news-details.html" class="read-more-btn">22 Aug,2019<i class="flaticon-next"></i></a>
+<a><h3>Krishna Janmashtami.</h3></a>
+<a class="read-more-btn">22 Aug,2019<i class="flaticon-next"></i></a>
 </div>
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
 <div class="single-news-card">
 <div class="news-img">
-<a href="news-details.html"><img src="school images/e2.png" alt="Image"></a>
+<a><img src="school images/e2.png" alt="Image"></a>
 </div>
 <div class="news-content">
 <div class="list">
 <ul>
-<li><i class="flaticon-user"></i>By <a href="news-details.html">Admin</a></li>
+<li><i class="flaticon-user"></i>By <a>Admin</a></li>
 <li><i class="flaticon-tag"></i>Nature</li>
 </ul>
 </div>
-<a href="news-details.html"><h3>Vanamahotsavam</h3></a>
-<a href="news-details.html" class="read-more-btn">Sep 28<i class="flaticon-next"></i></a>
+<a><h3>Vanamahotsavam</h3></a>
+<a  class="read-more-btn">Sep 28<i class="flaticon-next"></i></a>
 </div>
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-news-card">
 <div class="news-img">
-<a href="news-details.html"><img src="school images/e3.png" alt="Image"></a>
+<a><img src="school images/e3.png" alt="Image"></a>
 </div>
 <div class="news-content">
 <div class="list">
@@ -214,8 +214,8 @@ include("header.php");
 <li><i class="flaticon-tag"></i>National Festival</li>
 </ul>
 </div>
-<a href="news-details.html"><h3>Children's Day celebrations</h3></a>
-<a href="news-details.html" class="read-more-btn">Nov 14<i class="flaticon-next"></i></a>
+<a><h3>Children's Day celebrations</h3></a>
+<a class="read-more-btn">Nov 14<i class="flaticon-next"></i></a>
 </div>
 </div>
 </div>
@@ -231,7 +231,7 @@ include("header.php");
 <div class="container">
 <div class="section-title">
 <h2>OUR GALLERY</h2>
-<!-- <p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p> -->
+<p>With a Wonderfull Environment and support Wonderfull things will Happen <b> Come and Join Geethika </b></p>
 </div>
 <div class="row justify-content-center">
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
@@ -306,7 +306,7 @@ include("header.php");
 
 
 <div class="more-campus text-center">
-<p><a href="campus-life.html" class="read-more-btn active">More on Gallery <i class="flaticon-next"></i></a></p>
+<p><a href="gallery.php" class="read-more-btn active">More on Gallery <i class="flaticon-next"></i></a></p>
 </div>
 </div>
 </div>
@@ -319,7 +319,7 @@ include("header.php");
 <div class="campus-content pr-20">
 <div class="campus-title">
 <h2>Admissions Open</h2>
-<p>The school has a broad interest in the field of quality education and excellence committed to enabling academic development of young minds. The school empowers the students to raise their academic and personal potential in a dynamic environment that values analysis, dedication and observation. </p>
+<p>The school has a broad interest in the field of quality education and excellence committed to enabling academic development of young minds. The school empowers the students to raise their academic and personal potential in a dynamic Environment that values analysis, dedication and observation. </p>
 </div>
 <div class="list">
 <div class="row">
