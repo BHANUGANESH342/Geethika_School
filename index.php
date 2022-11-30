@@ -42,7 +42,7 @@
 </head>
 <body>
 <?php
-include("header.php");
+include'header.php';
 ?>
 
 <div class="banner-area pb-100">
@@ -118,7 +118,7 @@ include("header.php");
 <i class="ri-cake-3-fill"></i>
 <a ><h3>Dining</h3></a>
 </div>
-<p>Our custom technology makes it easy to access our online menus to see what's for lunch everyday.<br></p>
+<p>Our custom technology makes it easy to access our online menus to see what's for lunch everyday.<br><br></p>
 <a >Dining<i class="flaticon-next"></i></a>
 </div>
 </div>
@@ -131,7 +131,7 @@ include("header.php");
 <i class="ri-parent-line"></i>
 <a ><h3>Community Outreach</h3></a>
 </div>
-<p>community outreach like vanamahotsavam...ōl̥ō<br></p>
+<p>community outreach like vanamahotsavam...<br><br></p>
 <a >Community Outreach<i class="flaticon-next"></i></a>
 </div>
 </div>
@@ -411,7 +411,7 @@ include("header.php");
 
 
 <?php
-include("footer.php");
+include 'footer.php';
 ?>
 
 <div class="go-top">

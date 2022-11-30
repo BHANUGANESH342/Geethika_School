@@ -239,6 +239,6 @@ if (isset($_POST["submit"]))
         
         <script src="assets/js/ajaxchimp.min.js"></script>
         
-        <script src="assets/js/custom.js"></script>
+        <!-- <script src="assets/js/custom.js"></script> -->
 </body>
 </html>

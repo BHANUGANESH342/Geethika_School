@@ -7,9 +7,7 @@
 <div class="disc"></div>
 <div class="disc"></div>
 <div class="disc"></div> -->
-<!-- <?php
-  $con=new mysqli("localhost","root","","central");
-?> -->
+
 </div>
 </div>
 </div>
@@ -18,7 +16,7 @@
 <div class="row align-items-center">
 <div class="col-lg-6 col-md-6">
 <div class="header-left-content">
-<h style=" color: #fff; font-size: 14px;">MANDATORY PUBLIC DISCLOSURE</h>
+<a href="disclosure.html"><h style=" color: #fff; font-size: 14px;">MANDATORY PUBLIC DISCLOSURE</h></a><br>
 <h style=" color: #fff; font-size: 14px;" >Call Us on +91 9014828382</h>
 <!-- fc1a27e9c097e08fccf6adc94bd26584cb563e6c -->
 </div>

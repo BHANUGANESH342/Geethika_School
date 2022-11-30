@@ -128,7 +128,7 @@
 <p>Know more about our school's Activities and cultural events through the following youtube video.</p>
 </div>
 <div class="admission-image">
-<img src="assets/images/admission/admission-1.jpg" alt="Image">
+<img src="school images/thumnail.png" alt="Image">
 <div class="icon">
 <a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=pCx-EIPS57U"><i class="ri-play-fill"></i></a>
 </div>
