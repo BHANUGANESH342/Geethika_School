@@ -16,8 +16,8 @@
 <div class="row align-items-center">
 <div class="col-lg-6 col-md-6">
 <div class="header-left-content">
-<a href="disclosure.html"><h style=" color: #fff; font-size: 14px;">MANDATORY PUBLIC DISCLOSURE</h></a><br>
-<h style=" color: #fff; font-size: 14px;" >Call Us on +91 9014828382</h>
+<a href="pubdisc.php"><h style=" color: #fff; font-size: 14px;">MANDATORY PUBLIC DISCLOSURE</h></a><br>
+<a href="tel:9014828382" style=" color: #fff; font-size: 14px;" >Call Us on +91 9014828382</a>
 <!-- fc1a27e9c097e08fccf6adc94bd26584cb563e6c -->
 </div>
 </div>

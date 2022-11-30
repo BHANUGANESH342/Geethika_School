@@ -238,7 +238,122 @@ M.Sc,.M.Ed,.</td>
       </tr>
     </tbody>
   </table>
-
+<br><br><br>
+<table>
+    <!-- <caption>MANDATORY PUBLIC DISCLOSURE</caption> -->
+    <thead>
+      <tr>
+        <th scope="col">SI.No</th>
+        <th scope="col">INFORMATION</th>
+        <th scope="col">DETAILS</th>
+      </tr>
+    </thead>
+    <!-- <tfoot>
+      <tr>
+        <td colspan="3">This is MANDATORY PUBLIC DISCLOSURE</td>
+      </tr>
+    </tfoot> -->
+    <tbody>
+      <tr>
+        <th scope="row">1</th>
+        <td>PRINCIPAL</td>
+        <td>01L</td>
+      </tr>
+      <tr>
+        <th scope="row">2</th>
+        <td>TOTAL NUMBER OF TEACHERS</td>
+        <td>28</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>PGT</td>
+        <td>04</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>TGT</td>
+        <td>07</td>
+      </tr>
+      <tr>
+        <th scope="row"></th>
+        <td>PRT</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <th scope="row">3</th>
+        <td>EACHER SECTION RATIO</td>
+        <td>1:15</td>
+      </tr>
+      <tr>
+        <th scope="row">4</th>
+        <td>DETAILS OF SPECIAL EDUCATION</td>
+        <td> Music, Art Teacher, Special Educator</td>
+      </tr>
+      <tr>
+        <th scope="row">5</th>
+        <td>DETAILS OF COUNSELOR AND WELLNESS TEACHER</td>
+        <td>S Kruparkar</td>
+      </tr>
+    </tbody>
+  </table>
+  <br><br><br>
+  <table>
+    <!-- <caption>MANDATORY PUBLIC DISCLOSURE</caption> -->
+    <thead>
+      <tr>
+        <th scope="col">SI.No</th>
+        <th scope="col">INFORMATION</th>
+        <th scope="col">DETAILS</th>
+      </tr>
+    </thead>
+    <!-- <tfoot>
+      <tr>
+        <td colspan="3">This is MANDATORY PUBLIC DISCLOSURE</td>
+      </tr>
+    </tfoot> -->
+    <tbody>
+      <tr>
+        <th scope="row">1</th>
+        <td>TOTAL CAMPUS AREA OF THE SCHOOL IN SQ MTS</td>
+        <td><b>12260.55 Sq.Mts</b></td>
+      </tr>
+      <tr>
+        <th scope="row">2</th>
+        <td>NUMBER OF THE CLASSROOMS IN SQ MTR</td>
+        <td><b>20 Rooms, Each 2.13 X 2.19 Sq,Mtr</b></td>
+      </tr>
+      <tr>
+        <th scope="row">3</th>
+        <td>NUMBER AND SIZE OF LABORATORY INCLUDING COMPUTER LABS IN SQ MTR</td>
+        <td><b>04 Each Room  2.74 X 2.0  Sq.Mtts</b></td>
+      </tr>
+      <tr>
+        <th scope="row">4</th>
+        <td>INTERNET FACILITY</td>
+        <td><b>Yes</b></td>
+      </tr>
+      <tr>
+        <th scope="row">5</th>
+        <td>NUMBER OF GIRLS TOILET</td>
+        <td><b>20</b></td>
+      </tr>
+      <tr>
+        <th scope="row">6</th>
+        <td>NUMBER OF BOYS TOILET</td>
+        <td><b>20</b></td>
+      </tr>
+      <tr>
+        <th scope="row">7</th>
+        <td>LINK OF YOUTUBE VIDEO OF THE INSPECTION OF THE SCHOOL IN THE INFRASTRUCTURE OF THE SCHOOL</td>
+        <td><a href="https://youtu.be/DdU7g054LP8">You Tube Viedo</a></td>
+      </tr>
+      <tr>
+        <th scope="row">5</th>
+        <td>DETAILS OF COUNSELOR AND WELLNESS TEACHER</td>
+        <td>S Kruparkar</td>
+      </tr>
+    </tbody>
+  </table> <br><br><br>
   <!-- This is the Start content in the page -->
 
   <?php
