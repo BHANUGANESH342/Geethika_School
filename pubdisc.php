@@ -345,7 +345,7 @@ M.Sc,.M.Ed,.</td>
       <tr>
         <th scope="row">7</th>
         <td>LINK OF YOUTUBE VIDEO OF THE INSPECTION OF THE SCHOOL IN THE INFRASTRUCTURE OF THE SCHOOL</td>
-        <td><a href="https://youtu.be/DdU7g054LP8">You Tube Viedo</a></td>
+        <td><a href="https://youtu.be/DdU7g054LP8">You Tube Video</a></td>
       </tr>
       <tr>
         <th scope="row">5</th>
