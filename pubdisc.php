@@ -127,17 +127,17 @@ M.Sc,.M.Ed,.</td>
       <tr>
         <th scope="row">1</th>
         <td>COPY AFFILIATION/UP GRADATION LETTER AND RECENT EXTENSION OF AFFILIATION IF ANY</td>
-        <td><a href="#">Click Here</a></td>
+        <td><a target="_blank" href="#">Click Here</a></td>
       </tr>
       <tr>
         <th scope="row">2</th>
         <td>COPY OF SOCIETY/TRUST/COMPANY REGISTRATION/RENEWAL CERTIFICATE IF APPLICABLE</td>
-        <td><a href="../Geethika_School/assets/images/pdfs/SOCIETYCERTIFICATE.pdf">SOCIETY CERTIFICATE</a></td>
+        <td><a target="_blank" href="../Geethika_School/assets/images/pdfs/SOCIETYCERTIFICATE.pdf">SOCIETY CERTIFICATE</a></td>
       </tr>
       <tr>
         <th scope="row">3</th>
         <td>COPY OF NO OBJECTION CERTIFICATE ISSUED IF APPLICATION BY THE STATE GOVERNMENT/UT</td>
-        <td><a href="../Geethika_School/assets/images/pdfs/NOC.pdf">NOC</a></td>
+        <td><a target="_blank" href="../Geethika_School/assets/images/pdfs/NOC.pdf">NOC</a></td>
       </tr>
       <tr>
         <th scope="row">4</th>
@@ -185,22 +185,22 @@ M.Sc,.M.Ed,.</td>
       <tr>
         <th scope="row">1</th>
         <td>FEE STRUCTURE OF THE SCHOOL</td>
-        <td><a href="../Geethika_School/assets/images/pdfs/FEESTRUCTURE.pdf">FEE STRUCTURE</a></td>
+        <td><a target="_blank" href="../Geethika_School/assets/images/pdfs/FEESTRUCTURE.pdf">FEE STRUCTURE</a></td>
       </tr>
       <tr>
         <th scope="row">2</th>
         <td>ANNUAL ACADEMIC CALENDAR</td>
-        <td><a href="../Geethika_School/assets/images/pdfs/ACAMIDICCALENDER.pdf">ACAMIDIC CALENDER</a></td>
+        <td><a target="_blank" href="../Geethika_School/assets/images/pdfs/ACAMIDICCALENDER.pdf">ACAMIDIC CALENDER</a></td>
       </tr>
       <tr>
         <th scope="row">3</th>
         <td>LIST OF SCHOOL MANAGEMENT COMMITTEE</td>
-        <td><a href="../Geethika_School/assets/images/pdfs/LIST_OF_SMC.pdf">SMC</a></td>
+        <td><a target="_blank" href="../Geethika_School/assets/images/pdfs/LIST_OF_SMC.pdf">SMC</a></td>
       </tr>
       <tr>
         <th scope="row">4</th>
         <td>LIST OF PARENTS TEACHERS ASSOCIATION PTA MEMBERS</td>
-        <td><a href="../Geethika_School/assets/images/pdfs/LINK_OF_PTA.pdf">PTA</a></td>
+        <td><a target="_blank" href="../Geethika_School/assets/images/pdfs/LINK_OF_PTA.pdf">PTA</a></td>
       </tr>
       <tr>
         <th scope="row">5</th>
@@ -345,7 +345,7 @@ M.Sc,.M.Ed,.</td>
       <tr>
         <th scope="row">7</th>
         <td>LINK OF YOUTUBE VIDEO OF THE INSPECTION OF THE SCHOOL IN THE INFRASTRUCTURE OF THE SCHOOL</td>
-        <td><a href="https://youtu.be/DdU7g054LP8">You Tube Video</a></td>
+        <td><a target="_blank" href="https://youtu.be/DdU7g054LP8">You Tube Video</a></td>
       </tr>
       <tr>
         <th scope="row">5</th>
