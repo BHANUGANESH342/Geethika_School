@@ -42,7 +42,7 @@
 </head>
 <body>
 <?php
-include("header.php");
+include'header.php';
 ?>
 
 <div class="banner-area pb-100">
@@ -411,7 +411,7 @@ include("header.php");
 
 
 <?php
-include("footer.php");
+include 'footer.php';
 ?>
 
 <div class="go-top">
