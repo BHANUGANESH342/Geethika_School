@@ -39,7 +39,7 @@
     <?php
 include("header.php");
     ?>
-    <br>br><br>
+    <br><br>
     <div class="campus-information-area pb-70">
 <div class="container">
     <div class="campus-content">
