@@ -237,7 +237,7 @@ include'header.php';
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/1.png" alt="Image"></a>
+<a href="gallery.php"><img src="school images/1.png" alt="Image"></a>
 </div>
 </div>
 </div>
@@ -245,34 +245,22 @@ include'header.php';
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="400" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/2.png" alt="Image"></a>
+<a href="gallery.php"><img src="school images/2.png" alt="Image"></a>
 </div>
 <!-- <div class="campus-content">
 <span>Athletics & Fitness</span>
-<a href="campus-life.html"><h3>Improve Athletic Performance Tips From Sanu</h3></a>
+<a href="gallery.php"><h3>Improve Athletic Performance Tips From Sanu</h3></a>
 </div> -->
 </div>
 </div>
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/3.png" alt="Image"></a>
+<a href="gallery.php"><img src="school images/3.png" alt="Image"></a>
 </div>
 <!-- <div class="campus-content">
 <span>Student Life</span>
-<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
-</div> -->
-</div>
-</div>
-
-<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
-<div class="single-campus-card">
-<div class="img">
-<a href="campus-life.html"><img src="school images/4.png" alt="Image"></a>
-</div>
-<!-- <div class="campus-content">
-<span>Student Life</span>
-<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
+<a href="gallery.php"><h3>Why I Changed My Mind About Career Connections</h3></a>
 </div> -->
 </div>
 </div>
@@ -280,11 +268,11 @@ include'header.php';
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/5.png" alt="Image"></a>
+<a href="gallery.php"><img src="school images/4.png" alt="Image"></a>
 </div>
 <!-- <div class="campus-content">
 <span>Student Life</span>
-<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
+<a href="gallery.php"><h3>Why I Changed My Mind About Career Connections</h3></a>
 </div> -->
 </div>
 </div>
@@ -292,11 +280,23 @@ include'header.php';
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/6.png" alt="Image"></a>
+<a href="gallery.php"><img src="school images/5.png" alt="Image"></a>
 </div>
 <!-- <div class="campus-content">
 <span>Student Life</span>
-<a href="campus-life.html"><h3>Why I Changed My Mind About Career Connections</h3></a>
+<a href="gallery.php"><h3>Why I Changed My Mind About Career Connections</h3></a>
+</div> -->
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="600" data-aos-once="true">
+<div class="single-campus-card">
+<div class="img">
+<a href="gallery.php"><img src="school images/6.png" alt="Image"></a>
+</div>
+<!-- <div class="campus-content">
+<span>Student Life</span>
+<a href="gallery.php"><h3>Why I Changed My Mind About Career Connections</h3></a>
 </div> -->
 </div>
 </div>
@@ -306,7 +306,7 @@ include'header.php';
 
 
 <div class="more-campus text-center">
-<p><a href="gallery.php" class="read-more-btn active">More on Gallery <i class="flaticon-next"></i></a></p>
+<!-- <p><a href="gallery.php" class="read-more-btn active">More on Gallery <i class="flaticon-next"></i></a></p> -->
 </div>
 </div>
 </div>
@@ -396,7 +396,7 @@ include'header.php';
 </div>
 </div>
 </div>
-<a href="campus-life.html" class="default-btn btn">Go to Admissions<i class="flaticon-next"></i></a>
+<a href="adm_guideline.php" class="default-btn btn">Go to Admissions<i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="col-lg-6" data-aos="fade-up" data-aos-easing="ease-in-sine" data-aos-duration="1300" data-aos-once="true">
