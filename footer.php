@@ -47,7 +47,7 @@
 </div>
 <div class="col-lg-2 col-sm-6">
 <div class="footer-widjet">
-<h3>CONTACT US</h3>
+<h3>Contact Us</h3>
 <div class="list">
 <ul>
 <li><a>Geethika School</a></li>
