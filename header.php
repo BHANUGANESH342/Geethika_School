@@ -28,8 +28,8 @@
 <!-- <li><a href="graduate-admission.html">Students</a></li> -->
 <!-- <li><a href="campus-life.html">Faculty & Staff</a></li> -->
 <li><a href="admission.html">Notifications</a></li>
-<li><a href="academics.html">Careers</a></li>
-<li><a href="alumni.html">Contact Us</a></li>
+<li><a href="careers.php">Careers</a></li>
+<li><a href="contact.php">Contact Us</a></li>
 </ul>
 </div>
 </div>
