@@ -176,16 +176,16 @@ Gallery
 <div class="sidebar-contact-info">
 <h3>Contact Information</h3>
 <ul class="info-list">
-<li><i class="ri-phone-fill"></i> <a href="tel:9901234567">+990-123-4567</a></li>
-<li><i class="ri-mail-line"></i><a href="/cdn-cgi/l/email-protection#731b161f1f1c3300121d065d101c1e"><span class="__cf_email__" data-cfemail="b7dfd2dbdbd8f7c4d6d9c299d4d8da">[email&#160;protected]</span></a></li>
-<li><i class="ri-map-pin-line"></i> 413 North Las Vegas, NV 89032</li>
+<li><i class="ri-phone-fill"></i> <a href="tel:9901234567">+91 90148 28382</a></li>
+<li><i class="ri-mail-line"></i><a href="mailto:Geethikacbseschool@gmail.com"><span class="__cf_email__" data-cfemail="b7dfd2dbdbd8f7c4d6d9c299d4d8da"> Geethikacbseschool@gmail.com</span></a></li>
+<li><i class="ri-map-pin-line"></i>Brahmanapalli,Piduguralla Mandal,Guntur</li>
 </ul>
 </div>
 <ul class="sidebar-social-list">
 <li>
 <a href="https://www.facebook.com" target="_blank"><i class="flaticon-facebook"></i></a>
 </li>
- <li>
+<li>
 <a href="https://www.twitter.com" target="_blank"><i class="flaticon-twitter"></i></a>
 </li>
 <li>
