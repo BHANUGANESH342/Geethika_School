@@ -21,19 +21,19 @@
 <!-- fc1a27e9c097e08fccf6adc94bd26584cb563e6c -->
 </div>
 </div>
-<div class="col-lg-6 col-md-6">
+<!-- <div class="col-lg-6 col-md-6">
 <div class="header-right-content">
-<div class="list">
-<ul>
+<div class="list"> -->
+<!-- <ul> -->
 <!-- <li><a href="graduate-admission.html">Students</a></li> -->
 <!-- <li><a href="campus-life.html">Faculty & Staff</a></li> -->
-<li><a href="admission.html">Notifications</a></li>
+<!-- <li><a href="admission.html">Notifications</a></li>
 <li><a href="academics.html">Careers</a></li>
 <li><a href="alumni.html">Contact Us</a></li>
-</ul>
+</ul> 
 </div>
 </div>
-</div>
+</div>-->
 </div>
 </div>
 </div>
