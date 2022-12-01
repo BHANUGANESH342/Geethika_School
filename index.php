@@ -98,7 +98,7 @@ include'header.php';
 <i class="ri-basketball-line"></i>
 <a ><h3>Sports</h3></a>
 </div>
-<p>Indoor and Outdoor games for the students.<br><br><br></p>
+<p>Indoor and Outdoor games for the students.<br><br><br><br></p>
 <a  class="read-more-btn">Sports<i class="flaticon-next"></i></a>
 </div>
 </div>
@@ -108,7 +108,7 @@ include'header.php';
 <i class="ri-building-2-line"></i>
 <a ><h3>Infrastructure</h3></a>
 </div>
-<p>The ambience of the school is calm and stimulating that ignites young minds.<br><br></p>
+<p>The ambience of the school is calm and stimulating that ignites young minds.<br><br><br></p>
 <a  class="read-more-btn">Infrastructure<i class="flaticon-next"></i></a>
 </div>
 </div>
@@ -141,7 +141,7 @@ include'header.php';
 <i class="ri-book-mark-line"></i>
 <a><h3>Library</h3></a>
 </div>
-<p>The school library contains 10000+ books that covers a spectrum of subjects.</p>
+<p>The school library contains 10000+ books that covers a spectrum of subjects.</p><br>
 <a  class="read-more-btn">Library<i class="flaticon-next"></i></a>
 </div>
 </div>
@@ -151,7 +151,7 @@ include'header.php';
 <i class="ri-bus-fill"></i>
 <a ><h3>Transport</h3></a>
 </div>
-<p>Good staff & safe transport for students.<br><br></p>
+<p>Good staff & safe transport for students.<br><br></p><br>
 <a class="read-more-btn">Transport<i class="flaticon-next"></i></a>
 </div>
 </div>
@@ -221,7 +221,7 @@ include'header.php';
 </div>
 </div>
 <div class="more-latest-news text-center">
-<p><a href="latest-news.html" class="read-more-btn active"> More on News & Events<i class="flaticon-next"></i></a></p>
+<p><a href="gallery.php" class="read-more-btn active"> More on News & Events<i class="flaticon-next"></i></a></p>
 </div>
 </div>
 </div>
