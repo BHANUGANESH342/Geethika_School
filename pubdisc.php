@@ -127,7 +127,7 @@ M.Sc,.M.Ed,.</td>
       <tr>
         <th scope="row">1</th>
         <td>COPY AFFILIATION/UP GRADATION LETTER AND RECENT EXTENSION OF AFFILIATION IF ANY</td>
-        <td><a target="_blank" href="#">Click Here</a></td>
+        <td><a  href="#">Click Here</a></td>
       </tr>
       <tr>
         <th scope="row">2</th>
@@ -147,22 +147,22 @@ M.Sc,.M.Ed,.</td>
       <tr>
         <th scope="row">5</th>
         <td>COPY OF VALID BUILDING SAFETY CERTIFICATE AS PER THE NATIONAL BUILDING CODE</td>
-        <td><a href="../Geethika_School/assets/images/pdfs/BUILDINGCERTIFICATE.pdf">BUILDING CERTIFICATE</a></td>
+        <td><a target="_blank" href="../Geethika_School/assets/images/pdfs/BUILDINGCERTIFICATE.pdf">BUILDING CERTIFICATE</a></td>
       </tr>
       <tr>
         <th scope="row">6</th>
         <td>COPY OF VALID FIRE SAFETY CERTIFICATE ISSUED BY THE COMPETENT AUTHORITY</td>
-        <td><a href="../Geethika_School/assets/images/pdfs/FIRECERTIFICATE.pdf">FTRE CERTIFICATE</a></td>
+        <td><a target="_blank" href="../Geethika_School/assets/images/pdfs/FIRECERTIFICATE.pdf">FTRE CERTIFICATE</a></td>
       </tr>
       <tr>
         <th scope="row">7</th>
         <td>COPY OF THE DEO CERTIFICATE SUBMITTED BY THE SCHOOL FOR AFFILIATION/UP GRADATION/EXTENSION OF AFFILIATION SELF-CERTIFICATION BY SCHOOL</td>
-        <td><a href="../Geethika_School/assets/images/pdfs/DEOCERTIFICATE.pdf">DEO CERTIFICATE</a></td>
+        <td><a target="_blank" href="../Geethika_School/assets/images/pdfs/DEOCERTIFICATE.pdf">DEO CERTIFICATE</a></td>
       </tr>
       <tr>
         <th scope="row">8</th>
         <td>COPY OF VALID WATER HEALTH AND SANITARY CERTIFICATES</td>
-        <td><a href="../Geethika_School/assets/images/pdfs/WATERHEALTHCERTIFICATE.pdf">WATER HEALTH CERTIFICATE</a></td>
+        <td><a target="_blank" href="../Geethika_School/assets/images/pdfs/WATERHEALTHCERTIFICATE.pdf">WATER HEALTH CERTIFICATE</a></td>
       </tr>
     </tbody>
   </table>
