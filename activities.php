@@ -253,7 +253,7 @@ include("header.php");
 <div class="student-life-card">
 <img src="assets/images/stundent-life/student-life-1.png" alt="Image">
 <div class="tags">
-<p>Athletics</p>
+<p>Sports</p>
 </div>
 </div>
 </div>
@@ -261,13 +261,13 @@ include("header.php");
 <div class="student-life-card">
 <img src="assets/images/stundent-life/1.png" alt="Image">
 <div class="tags">
-<p>Fitness Center</p>
+<p>Playgournds</p>
 </div>
 </div>
 <div class="student-life-card">
 <img src="assets/images/stundent-life/2.png" alt="Image">
 <div class="tags">
-<p>Health and Wellness</p>
+<p>Indoor Games</p>
 </div>
 </div>
 </div>
