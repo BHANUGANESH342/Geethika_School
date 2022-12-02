@@ -72,7 +72,7 @@ include'header.php';
 </div>
 <div class="owl-thumbs" data-slider-id="1">
 <button class="owl-thumb-item">
-<img src="school images/admission.png" alt="Images">
+<img src="school images/gallery/7.png" alt="Images">
 </button>
 <button class="owl-thumb-item">
 <img src="school images/gallery/3.png" alt="Images">
