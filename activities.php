@@ -251,7 +251,7 @@ include("header.php");
 <div class="row">
 <div class="col-lg-6">
 <div class="student-life-card">
-<img src="assets/images/stundent-life/student-life-1.jpg" alt="Image">
+<img src="assets/images/stundent-life/student-life-1.png" alt="Image">
 <div class="tags">
 <p>Athletics</p>
 </div>
@@ -259,13 +259,13 @@ include("header.php");
 </div>
 <div class="col-lg-6">
 <div class="student-life-card">
-<img src="assets/images/stundent-life/student-life-2.jpg" alt="Image">
+<img src="assets/images/stundent-life/1.png" alt="Image">
 <div class="tags">
 <p>Fitness Center</p>
 </div>
 </div>
 <div class="student-life-card">
-<img src="assets/images/stundent-life/student-life-3.jpg" alt="Image">
+<img src="assets/images/stundent-life/2.png" alt="Image">
 <div class="tags">
 <p>Health and Wellness</p>
 </div>
