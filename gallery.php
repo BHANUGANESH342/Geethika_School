@@ -47,7 +47,7 @@
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/1.png" alt="Image"></a>
+<a ><img src="school images/1.png" alt="Image"></a>
 </div>
 </div>
 </div>
@@ -55,7 +55,7 @@
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/gallery/1.png" alt="Image"></a>
+<a ><img src="school images/gallery/1.png" alt="Image"></a>
 </div>
 </div>
 </div>
@@ -63,7 +63,7 @@
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/gallery/2.png" alt="Image"></a>
+<a ><img src="school images/gallery/2.png" alt="Image"></a>
 </div>
 </div>
 </div>
@@ -71,7 +71,7 @@
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/gallery/3.png" alt="Image"></a>
+<a ><img src="school images/gallery/3.png" alt="Image"></a>
 </div>
 </div>
 </div>
@@ -79,7 +79,7 @@
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/gallery/4.png" alt="Image"></a>
+<a ><img src="school images/gallery/4.png" alt="Image"></a>
 </div>
 </div>
 </div>
@@ -87,7 +87,7 @@
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/gallery/5.png" alt="Image"></a>
+<a ><img src="school images/gallery/5.png" alt="Image"></a>
 </div>
 </div>
 </div>
@@ -95,7 +95,7 @@
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/gallery/6.png" alt="Image"></a>
+<a ><img src="school images/gallery/6.png" alt="Image"></a>
 </div>
 </div>
 </div>
@@ -103,7 +103,7 @@
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/5.png" alt="Image"></a>
+<a ><img src="school images/5.png" alt="Image"></a>
 </div>
 </div>
 </div>
@@ -111,7 +111,7 @@
 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1200" data-aos-delay="200" data-aos-once="true">
 <div class="single-campus-card">
 <div class="img">
-<a href="campus-life.html"><img src="school images/3.png" alt="Image"></a>
+<a ><img src="school images/3.png" alt="Image"></a>
 </div>
 </div>
 </div>
@@ -135,7 +135,7 @@
 </div>
 <div class="query text-center">
 <p>If You Have Any Query...Please Contact Us Via Email</p>
-<a href="admission.html" class="default-btn btn">More on admission<i class="flaticon-next"></i></a>
+<a href="adm_guideline.php" class="default-btn btn">More on admission<i class="flaticon-next"></i></a>
 </div>
 </div>
 </div>
