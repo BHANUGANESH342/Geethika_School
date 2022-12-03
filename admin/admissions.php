@@ -91,15 +91,16 @@ while($row = mysqli_fetch_array($result))
     </li>
     <li><a href="#">Gender : '.$gender.'</a></li>
     </ul>
-    </div>';
+    </div>
+    </div>
+</div>
+</div>';
 }
 
 ?>
 
 
-</div>
-</div>
-</div>
+
 </div>
 </div>
 </div>
