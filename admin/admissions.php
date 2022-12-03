@@ -79,7 +79,7 @@ while($row = mysqli_fetch_array($result))
     <div class="courses-content">
     <div class="admin-profile">
     <img src="../assets/images/courses/admin-1.jpg" alt="Image">
-    <p>by >'.$father_name.'</a></p>
+    <p>by '.$father_name.'</p>
     </div>
     <a href="stdprofile.php?id='.$id.'"><h3>'.$student_name.'</h3></a>
     <div class="bottom-content">
