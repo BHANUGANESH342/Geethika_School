@@ -64,7 +64,7 @@
 
 <?php
 include'connect.php';
-$querry="select s_no,stdNam,admClas,fname,mmob,gender from registrations";
+$querry="select s_no,stdNam,admClas,fname,mmob,gender from registration";
 $result=mysqli_query($con,$querry);
 while($row = mysqli_fetch_array($result))
 {
