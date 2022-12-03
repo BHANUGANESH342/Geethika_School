@@ -58,23 +58,26 @@
 <div class="col-lg-6 col-md-6">
 <div class="single-courses-card style4">
 <div class="courses-img">
-<a href="courses-details.html"><img src="../assets/images/courses/courses-1.jpg" alt="Image"></a>
+
+<!-- <a href="courses-details.html"><img src="../assets/images/courses/courses-1.jpg" alt="Image"></a> -->
 </div>
+
+<?php
 <div class="courses-content">
 <div class="admin-profile">
 <img src="../assets/images/courses/admin-1.jpg" alt="Image">
-<p>With <a href="courses-details.html">Jessica Hamson</a></p>
+<p>by <a href="courses-details.html">Parent</a></p>
 </div>
-<a href="courses-details.html"><h3>Python Programming For Data Science</h3></a>
+<a href="courses-details.html"><h3>Student Name</h3></a>
 <div class="bottom-content">
 <ul class="d-flex justify-content-between">
 <li>
 <ul>
-<li><i class="flaticon-graduation"></i>321</li>
-<li><i class="flaticon-bubble-chat"></i>1.2k</li>
+<li><i class="flaticon-graduation"></i>Class </li>
+<li><i class="flaticon-bubble-chat"></i>Mobile No:</li>
 </ul>
 </li>
-<li><a href="#">Free</a></li>
+<li><a href="#">Gender</a></li>
 </ul>
 </div>
 </div>
@@ -88,7 +91,7 @@
 </div>
 </div>
 
-
+?>
 <div class="footer-area pt-100 pb-70">
 <div class="container">
 <div class="row">
