@@ -98,7 +98,7 @@ while($row = mysqli_fetch_array($result))
 
 ?>
 
-
+</div>
 </div>
 </div>
 </div>
