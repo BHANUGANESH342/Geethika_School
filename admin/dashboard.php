@@ -60,9 +60,9 @@
 <div class="icon">
 <i class="flaticon-pc"></i>
 </div>
-<a href="academics-details.html"><h3>New Admissions</h3></a>
+<a href="admissions.php"><h3>New Admissions</h3></a>
 <p>New Admissions:</p>
-<a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+<a href="admissions.php" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
 </div>
 </div>
 <div class="col-lg-4 col-sm-6">
