@@ -61,7 +61,7 @@
 <i class="flaticon-pc"></i>
 </div>
 <a href="academics-details.html"><h3>New Admissions</h3></a>
-<p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
+<p>New Admissions:</p>
 <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
 </div>
 </div>
@@ -71,7 +71,7 @@
 <i class="flaticon-art"></i>
 </div>
 <a href="academics-details.html"><h3>Messages</h3></a>
-<p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
+<p>New Messages :</p>
 <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
 </div>
 </div>
@@ -80,8 +80,8 @@
 <div class="icon">
 <i class="flaticon-auction"></i>
 </div>
-<a href="academics-details.html"><h3>Law Department</h3></a>
-<p>Lorem ipsum dolor sit amet ctetur adipiscing elit</p>
+<a href="academics-details.html"><h3>Querrys</h3></a>
+<p>new Querrys</p>
 <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
 </div>
 </div>
