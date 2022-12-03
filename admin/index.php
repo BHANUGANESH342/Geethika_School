@@ -77,12 +77,12 @@ if(isset($_POST['login']))
 <div class="form-group">
 <input type="password" id="password" class="form-control" placeholder="Password*">
 </div>
-<div class="form-check">
+<!-- <div class="form-check">
 <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
 <label class="form-check-label" for="flexCheckDefault">
 Remember Me
 </label>
-</div>
+</div> -->
 <button type="submit" name="login" class="default-btn btn active">Login</button>
 <!-- <a href="recover-password.html">Lost your password?</a> -->
 </form>
