@@ -63,23 +63,37 @@
 </div>
 
 <?php
-<div class="courses-content">
-<div class="admin-profile">
-<img src="../assets/images/courses/admin-1.jpg" alt="Image">
-<p>by <a href="courses-details.html">Parent</a></p>
-</div>
-<a href="courses-details.html"><h3>Student Name</h3></a>
-<div class="bottom-content">
-<ul class="d-flex justify-content-between">
-<li>
-<ul>
-<li><i class="flaticon-graduation"></i>Class </li>
-<li><i class="flaticon-bubble-chat"></i>Mobile No:</li>
-</ul>
-</li>
-<li><a href="#">Gender</a></li>
-</ul>
-</div>
+$querry="select s_no,stdNam,admClas,fname,mmob,gender from registrations";
+$result=mysqli_query($con,$querry);
+while($row = mysqli_fetch_array($result))
+{
+    $father_name=$row['fname'];
+    $student_name=$row['stdNam'];
+    $class=$row['admClas'];
+    $mobile=$row['mmob'];
+    $gender=$row['gender'];
+    echo'<div class="courses-content">
+    <div class="admin-profile">
+    <img src="../assets/images/courses/admin-1.jpg" alt="Image">
+    <p>by <a href="courses-details.html">'.$father_name.'</a></p>
+    </div>
+    <a href="courses-details.html"><h3>'.$student_name.'</h3></a>
+    <div class="bottom-content">
+    <ul class="d-flex justify-content-between">
+    <li>
+    <ul>
+    <li><i class="flaticon-graduation"></i>Class : '.$class.'</li>
+    <li><i class="flaticon-bubble-chat"></i>Mobile No: '.$mobile.'</li>
+    </ul>
+    </li>
+    <li><a href="#">Gender : '.$gender.'</a></li>
+    </ul>
+    </div>';
+}
+
+?>
+
+
 </div>
 </div>
 </div>
@@ -91,7 +105,6 @@
 </div>
 </div>
 
-?>
 <div class="footer-area pt-100 pb-70">
 <div class="container">
 <div class="row">
