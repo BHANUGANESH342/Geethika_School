@@ -54,7 +54,8 @@
 <div class="row">
 <div class="col-lg-8">
 <div class="courses-left-content">
-
+<div class="row">
+<div class="col-lg-6 col-md-6">
 
 <!-- <a href="courses-details.html"><img src="../assets/images/courses/courses-1.jpg" alt="Image"></a> -->
 </div>
@@ -71,8 +72,7 @@ while($row = mysqli_fetch_array($result))
     $gender=$row['gender'];
 
     echo'
-    <div class="row">
-<div class="col-lg-6 col-md-6">
+    
 <div class="single-courses-card style4">
 <div class="courses-img">
     <div class="courses-content">
