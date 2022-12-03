@@ -93,7 +93,6 @@ while($row = mysqli_fetch_array($result))
     </ul>
     </div>
     </div>
-</div>
 ';
 }
 
