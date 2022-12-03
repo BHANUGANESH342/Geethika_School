@@ -61,7 +61,7 @@
 
 <!-- <a href="courses-details.html"><img src="../assets/images/courses/courses-1.jpg" alt="Image"></a> -->
 </div>
-
+<div class="courses-content">
 <?php
 include'connect.php';
 $querry="select s_no,stdNam,admClas,fname,mmob,gender from registration";
@@ -73,7 +73,7 @@ while($row = mysqli_fetch_array($result))
     $class=$row['admClas'];
     $mobile=$row['mmob'];
     $gender=$row['gender'];
-    echo'<div class="courses-content">
+    echo'
     <div class="admin-profile">
     <img src="../assets/images/courses/admin-1.jpg" alt="Image">
     <p>by <a href="courses-details.html">'.$father_name.'</a></p>
