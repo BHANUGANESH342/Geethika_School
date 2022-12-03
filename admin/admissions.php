@@ -54,15 +54,11 @@
 <div class="row">
 <div class="col-lg-8">
 <div class="courses-left-content">
-<div class="row">
-<div class="col-lg-6 col-md-6">
-<div class="single-courses-card style4">
-<div class="courses-img">
+
 
 <!-- <a href="courses-details.html"><img src="../assets/images/courses/courses-1.jpg" alt="Image"></a> -->
 </div>
-<div class="courses-content">
-<?php
+<div class="courses-content"><?php
 include'connect.php';
 $querry="select s_no,stdNam,admClas,fname,mmob,gender from registration";
 $result=mysqli_query($con,$querry);
@@ -73,7 +69,13 @@ while($row = mysqli_fetch_array($result))
     $class=$row['admClas'];
     $mobile=$row['mmob'];
     $gender=$row['gender'];
+
     echo'
+    <div class="row">
+<div class="col-lg-6 col-md-6">
+<div class="single-courses-card style4">
+<div class="courses-img">
+    <div class="courses-content">
     <div class="admin-profile">
     <img src="../assets/images/courses/admin-1.jpg" alt="Image">
     <p>by <a href="courses-details.html">'.$father_name.'</a></p>
