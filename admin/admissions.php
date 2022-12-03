@@ -63,6 +63,7 @@
 </div>
 
 <?php
+include'connect.php';
 $querry="select s_no,stdNam,admClas,fname,mmob,gender from registrations";
 $result=mysqli_query($con,$querry);
 while($row = mysqli_fetch_array($result))
