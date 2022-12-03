@@ -83,7 +83,7 @@ if(isset($_POST['login']))
 Remember Me
 </label>
 </div>
-<button type="submit" class="default-btn btn active">Login</button>
+<button type="submit" name="login" class="default-btn btn active">Login</button>
 <!-- <a href="recover-password.html">Lost your password?</a> -->
 </form>
 </div>
