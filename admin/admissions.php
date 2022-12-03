@@ -70,6 +70,7 @@ while($row = mysqli_fetch_array($result))
     $class=$row['admClas'];
     $mobile=$row['mmob'];
     $gender=$row['gender'];
+    $id=$row['s_no'];
 
     echo'
     
@@ -78,9 +79,9 @@ while($row = mysqli_fetch_array($result))
     <div class="courses-content">
     <div class="admin-profile">
     <img src="../assets/images/courses/admin-1.jpg" alt="Image">
-    <p>by <a href="courses-details.html">'.$father_name.'</a></p>
+    <p>by >'.$father_name.'</a></p>
     </div>
-    <a href="courses-details.html"><h3>'.$student_name.'</h3></a>
+    <a href="stdprofile.php?id='.$id.'"><h3>'.$student_name.'</h3></a>
     <div class="bottom-content">
     <ul class="d-flex justify-content-between">
     <li>
