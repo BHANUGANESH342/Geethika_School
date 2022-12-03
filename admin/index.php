@@ -53,17 +53,6 @@ if(isset($_POST['login']))
 
 
 
-<div class="page-banner-area bg-2">
-<div class="container">
-<div class="page-banner-content">
-<h1>Login</h1>
-<ul>
-<li><a href="index.html">Home</a></li>
-<li>Login</li>
-</ul>
-</div>
-</div>
-</div>
 
 
 <div class="login-area pt-100 pb-70">
