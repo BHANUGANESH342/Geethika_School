@@ -89,7 +89,7 @@ About Us
 </li>
 
 <li class="nav-item">
-<a href="adm_guideline.php" class="nav-link dropdown-toggle">
+<a href="admissionGuideline.php" class="nav-link dropdown-toggle">
 Admissions
 </a>
 <ul class="dropdown-menu">
