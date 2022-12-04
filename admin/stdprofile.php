@@ -1,4 +1,22 @@
 
+
+
+<?php
+
+$id=$_GET['id'];
+include 'connect.php';
+$querry="select s_no,stdNam,admClas,fname,fmob,mmob,gender,preschool from registration where  id='$id' and  status='0'";
+$result=mysqli_query($con,$querry);
+$row = mysqli_fetch_array($result);
+$father_name=$row['fname'];
+$student_name=$row['stdNam'];
+$class=$row['admClas'];
+$mobile=$row['mmob'];
+$gender=$row['gender'];
+$preschool=$row['preschool'];
+$fmob=$row['fmob'];
+
+?>
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
@@ -30,7 +48,7 @@
 
 <link rel="stylesheet" href="../assets/css/responsive.css">
 <link rel="icon" type="image/png" href="../assets/images/favicon.png">
-<title>Sanu - College University HTML Template</title>
+<title>Student Profile</title>
 </head>
 <body>
 
@@ -44,7 +62,7 @@
 </div>
 </div>
 
-
+<?php include'header.php'; ?>
 
 <div class="courses-details-area pt-100 pb-70">
 <div class="container">
@@ -61,7 +79,7 @@
 <li>
 <div class="teacher">
 <img src="../assets/images/courses/admin-1.jpg" alt="Image">
-<p>posted by : <a href="#">Father name</a></p>
+<p>posted by : <a href="#">Father name :<?php echo $father_name ;?></a></p>
 </div>
 </li>
 <li><i class="flaticon-clock"></i><span>posted on :</span>September 29, 2021</li>
@@ -81,19 +99,21 @@
 <div class="col-lg-7">
 <div class="instructor-content">
 <div class="name">
-<h3>Samantha Nicola</h3>
-<p>Instructor Of Economy</p>
+<h3><?php echo $student_name ;?></h3>
+<p><?php echo $class ;?></p>
 </div>
-<p class="mb-30">deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
+<p class="mb-30"><?php echo $preschool ;?></p>
 <div class="quick-contact">
-<h4>Quick Contact</h4>
+<h4><?php echo $gender ;?></h4>
 <ul>
-<li><i class="ri-phone-line"></i><span>Phone Number:</span><a href="tel:8002162020">(800) 216 2020
+<li><i class="ri-phone-line"></i><span>Phone Number:</span><a href="tel:<?php echo $mobile ;?>"><?php echo $mobile ;?>
 </a></li>
-<li><i class="ri-mail-line"></i><span>Email:</span><a href="tel:8002162020"><span class="__cf_email__" data-cfemail="feb7909891be9b869f938e929bd09d9193">[email&#160;protected]</span></a></li>
+<li><i class="ri-phone-line"></i><span>Phone Number:</span><a href="tel:<?php echo $fmon ;?>"><?php echo $fmob;?>
+</a></li>
+<!-- <li><i class="ri-mail-line"></i><span>Email:</span><a href="tel:8002162020"><span class="__cf_email__" data-cfemail="feb7909891be9b869f938e929bd09d9193">[email&#160;protected]</span></a></li> -->
 </ul>
 </div>
-<div class="social">
+<!-- <div class="social">
 <ul>
 <li>
 <a href="https://instagram.com/?lang=en" target="_blank"><i class="ri-instagram-line"></i></a>
@@ -108,7 +128,7 @@
 <a href="https://www.twitter.com" target="_blank"><i class="ri-twitter-fill"></i></a>
 </li>
 </ul>
-</div>
+</div> -->
 </div>
 </div>
 </div>
