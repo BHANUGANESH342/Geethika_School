@@ -34,16 +34,6 @@
 </head>
 <body>
 
-<div class="preloader-area">
-<div class="spinner">
-<div class="inner">
-<div class="disc"></div>
-<div class="disc"></div>
-<div class="disc"></div>
-</div>
-</div>
-</div>
-
 
 <?php include'header.php';?>
 
@@ -134,6 +124,6 @@ while($row = mysqli_fetch_array($result))
 
 <script src="../assets/js/ajaxchimp.min.js"></script>
 
-<script src="../assets/js/custom.js"></script>
+<!-- <script src="../assets/js/custom.js"></script> -->
 </body>
 </html>
