@@ -43,7 +43,7 @@ if(isset($_POST['submit']))
     $subject=$_POST['msg_subject'];
     $message=$_POST['message'];
     $gridCheck=$_POST['gridCheck'];
-    $pass="insert into `contact`  values ('','$name','$email','$mobile','$subject','$message','$gridCheck');";
+    $pass="insert into `contact`  values ('$name','$email','$mobile','$subject','$message','$gridCheck');";
     $run=mysqli_query($con,$pass);
     if($run)
     {
@@ -53,7 +53,7 @@ if(isset($_POST['submit']))
     else
     {
         echo "<script>alert('Message Posting failled')</script>";
-        echo "<script>window.location.href='    .php'</script>";
+        echo "<script>window.location.href='index.php'</script>";
     }
 }
 ?>
