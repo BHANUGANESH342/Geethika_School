@@ -76,7 +76,7 @@ $fmob=$row['fmob'];
 <ul>
 <li>
 <div class="teacher">
-<img src="../assets/images/courses/admin-1.jpg" alt="Image">
+<!-- <img src="../assets/images/courses/admin-1.jpg" alt="Image"> -->
 <p>posted by : <a href="#">Father name :<?php echo $father_name ?></a></p>
 </div>
 </li>
@@ -140,7 +140,7 @@ $fmob=$row['fmob'];
 <div class="related-download">
 <h3>Documents</h3>
  <ul>
-<li><a href="#"><i class="flaticon-pdf-file"></i>Brochure Department</a></li>
+<li><a href="#"><i class="flaticon-pdf-file"></i>Aadhar No : </a></li>
 <li><a href="#"><i class="flaticon-pdf-file"></i>Department Details</a></li>
 <li><a href="#"><i class="flaticon-pdf-file"></i>Journals Departments</a></li>
 </ul>
@@ -151,7 +151,7 @@ $fmob=$row['fmob'];
 </div>
 
 
-
+<button type="submit" name="review" class="default-btn btn active">Reviewd</button>
 <div class="go-top">
 <i class="ri-arrow-up-s-line"></i>
 <i class="ri-arrow-up-s-line"></i>
@@ -182,6 +182,6 @@ $fmob=$row['fmob'];
 
 <script src="../assets/js/ajaxchimp.min.js"></script>
 
-<script src="../assets/js/custom.js"></script>
+<!-- <script src="../assets/js/custom.js"></script> -->
 </body>
 </html>
