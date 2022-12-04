@@ -119,25 +119,6 @@
 <div class="container p-0">
 </nav>
 
-<div class="enroll-courses">
-<div class="enroll-img">
-<img src="../assets/images/courses/courses-4.jpg" alt="Image">
-<div class="icon">
-<a class="popup-youtube play-btn" href="https://www.youtube.com/watch?v=6WQCJx_vEX4"><i class="ri-play-fill"></i></a>
-</div>
-</div>
-<div class="list">
-<ul>
-<li><span>Instructor :</span>Lewis</li>
-<li><span>Lectures :</span>12</li>
-<li><span>Duration :</span>20h 41m 32s</li>
-<li><span>Enrolled :</span>2 students</li>
-<li><span>Course level :</span>Intermediate</li>
-<li><span>Language :</span>English</li>
-</ul>
-</div>
-<a href="courses.html" class="default-btn btn">Enroll Courses</a>
-</div>
 <div class="related-download">
 <h3>Related Downloads</h3>
  <ul>
