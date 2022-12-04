@@ -43,7 +43,7 @@ if(isset($_POST['submit']))
 {
     $cname=$_POST['cname'];
     $admClass=$_POST['adm_class'];
-    $gender=$_POST['gender'];
+    $gender=$_POST['gender'];   
     $s_aadhar=$_POST['s_aadhar'];
     $fname=$_POST['fname'];
     $fjob=$_POST['fjob'];
@@ -81,7 +81,7 @@ if(isset($_POST['submit']))
 <tr>
 <td align="left"><label>Enter Child's Name:</label></td>
 <td>
-<div class="form-group"><input type="text" id="cname" class="form-control" name="cname">
+<div class="form-group"><input type="text" id="cname" class="form-control" name="cname" required>
 </div>
 </td>
 </tr>
@@ -89,7 +89,7 @@ if(isset($_POST['submit']))
 <tr>
 <td align="left"><label>Admission To Class:</label></td>
 <td>
-<div class="form-group"><select name="adm_class" id="adm_Class" class="form-control">
+<div class="form-group"><select name="adm_class" id="adm_Class" class="form-control" required>
             <option></option>
             <option value="pp1">PP1</option>
             <option value="pp2">PP2</option>
@@ -109,36 +109,35 @@ if(isset($_POST['submit']))
 <td align="left"><label>Gender :</label></td>
 <td>
 <div class="form-group">
-    <input type="radio" name="gender" id="male" value="male"><label for="male">&#160;&#160;MALE</label>&#160;&#160;&#160;&#160;&#160;&#160;
+    <input type="radio" name="gender" id="male" value="male" required><label for="male">&#160;&#160;MALE</label>&#160;&#160;&#160;&#160;&#160;&#160;
     <input type="radio" name="gender" id="female" Value="female"><label for="female">&#160;&#160;FEMALE</label>
-
 </div>
 </td>
 </tr>
 <tr>
 <td align="left"><label>Student Aadhar Number : </label></td>
 <td>
-<div class="form-group"><input type="text" id="s_aadhar" name="s_aadhar" class="form-control">
+<div class="form-group"><input type="text" id="s_aadhar" name="s_aadhar" class="form-control" required>
 </div>
 </td>
 </tr>
 <tr>
 <td align="left"><label>Father's Name : </label></td>
 <td>
-<div class="form-group"><input type="text" id="fname"  name="fname" class="form-control">
+<div class="form-group"><input type="text" id="fname"  name="fname" class="form-control" required>
 </div>
 </td>
 </tr>
 <tr>
 <td align="left"><label>Father's Occupation : </label></td>
 <td>
-<div class="form-group"><input type="text" id="fjob" name="fjob" class="form-control">
+<div class="form-group"><input type="text" id="fjob" name="fjob" class="form-control" required>
 </div>
 </td>
 </tr><tr>
 <td align="left"><label>Father's Aadhar Number : </label></td>
 <td>
-<div class="form-group"><input type="text" id="f_aadhar" name="f_aadhar" class="form-control">
+<div class="form-group"><input type="text" id="f_aadhar" name="f_aadhar" class="form-control" required>
 </div>
 </td>
 </tr>
@@ -146,7 +145,7 @@ if(isset($_POST['submit']))
 <tr>
 <td align="left"><label>Father's Mobile Number : </label></td>
 <td>
-<div class="form-group"><input type="text" id="fmobile" name="fmobile" class="form-control">
+<div class="form-group"><input type="text" id="fmobile" name="fmobile" class="form-control" required>
 </div>
 </td>
 </tr>
@@ -155,7 +154,7 @@ if(isset($_POST['submit']))
 <tr>
 <td align="left"><label>Mothe's Name : </label></td>
 <td>
-<div class="form-group"><input type="text" id="mname" name="mname" class="form-control">
+<div class="form-group"><input type="text" id="mname" name="mname" class="form-control" required>
 </div>
 </td>
 </tr>
@@ -163,7 +162,7 @@ if(isset($_POST['submit']))
 <tr>
 <td align="left"><label>Mother's Occupation : </label></td>
 <td>
-<div class="form-group"><input type="text" id="mjob" name="mjob"  class="form-control">
+<div class="form-group"><input type="text" id="mjob" name="mjob"  class="form-control" required>
 </div>
 </td>
 </tr>
@@ -172,7 +171,7 @@ if(isset($_POST['submit']))
 <tr>
 <td align="left"><label>Mother's Aadhar Number : </label></td>
 <td>
-<div class="form-group"><input type="text" id="m_aadhar" name="m_aadhar" class="form-control">
+<div class="form-group"><input type="text" id="m_aadhar" name="m_aadhar" class="form-control" required>
 </div>
 </td>
 </tr>
@@ -181,7 +180,7 @@ if(isset($_POST['submit']))
 <tr>
 <td align="left"><label>Mother's Mobile Number : </label></td>
 <td>
-<div class="form-group"><input type="text" id="mphone" name="mphone" class="form-control">
+<div class="form-group"><input type="text" id="mphone" name="mphone" class="form-control" required>
 </div>
 </td>
 </tr>
@@ -190,7 +189,7 @@ if(isset($_POST['submit']))
 <tr>
 <td align="left"><label>Email Id : </label></td>
 <td>
-<div class="form-group"><input type="email" name="email" class="form-control">
+<div class="form-group"><input type="email" name="email" class="form-control" required>
 </div>
 </td>
 </tr>
@@ -198,7 +197,7 @@ if(isset($_POST['submit']))
 <tr>
 <td align="left"><label>Previous School : </label></td>
 <td>
-<div class="form-group"><input type="text" id="prev_school" class="form-control" name="prev_school">
+<div class="form-group"><input type="text" id="prev_school" class="form-control" name="prev_school" required>
 </div>
 </td>
 </tr>
