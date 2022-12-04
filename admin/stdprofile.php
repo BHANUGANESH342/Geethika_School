@@ -69,7 +69,7 @@
 </div>
 </div>
 
-<div class="tab-pane fade" id="nav-instructor" role="tabpanel" aria-labelledby="nav-instructor-tab">
+
 <div class="row">
 <div class="instructor">
 <div class="row align-items-center">
