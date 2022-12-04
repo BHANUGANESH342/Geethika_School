@@ -3,8 +3,6 @@
 include 'connect.php';
 $id=$_GET['id'];
 
-if(isset($_POST['review']))
-{
     $q="update contact set status='1' where s_no=$id";
     $result=mysqli_query($con,$q);
     if($result)
@@ -18,7 +16,6 @@ if(isset($_POST['review']))
         echo "<script>window.location.href='messages.php'</script>";
 
     }
-}
 
 
 ?>
