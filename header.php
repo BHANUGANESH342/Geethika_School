@@ -97,7 +97,7 @@ Admissions
 <a href="adm_guideline.php" class="nav-link">Guidelines</a>
 </li>
 <li class="nav-item">
-<a href="adm_form.php" class="nav-link">Admission Form</a>
+<a href="admissionForm.php" class="nav-link">Admission Form</a>
 </li>
 </ul>
 </li>

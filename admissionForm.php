@@ -35,10 +35,10 @@
 </head>
 <body>
 <?php
-include("header.php");
+include'header.php';
 ?>
 <?php
-if (isset($_POST["submit"]))
+if (isset($_POST['submit']))
 {
     $cname=$_POST["cname"];
     $admClass=$_POST["adm_class"];
@@ -54,10 +54,17 @@ if (isset($_POST["submit"]))
     $mphone=$_POST["mphone"];
     $prev_school=$_POST["prev_school"];
     $email=$_POST["email"];
-    $query="insert into `registration` (S_NO,stdNam,admClas,gender,stdAdhr,fname,foccup,fadhr,fmob,mname,moccup,madhr,mmob,email,preschool) values ('','$cname','$admClass','$gender','$s_aadhar','$fname','$fjob','$f_aadhar','$fmobile','$mname','$mjob','$m_aadhar','$mphone','$prev_school','$email');";
+    date_default_timezone_set("Asia/Calcutta");  
+    $time=date('d-m-Y h:i:s A');
+    $query="insert into `registration` (S_NO,stdNam,admClas,gender,stdAdhr,fname,foccup,fadhr,fmob,mname,moccup,madhr,mmob,email,preschool,status,time) values ('','$cname','$admClass','$gender','$s_aadhar','$fname','$fjob','$f_aadhar','$fmobile','$mname','$mjob','$m_aadhar','$mphone','$email','$prev_school','0','$time');";
     $pass=mysqli_query($con,$query);
     if($pass){
-        echo "<script>window.location = 'register_success.php';</script>";
+        echo "<script>window.location.href='register_success.php'</script>";
+    }
+    else
+    {
+        echo "<script>alert('Applying Failled Try again')</script>";
+       
     }
 }
 ?>
