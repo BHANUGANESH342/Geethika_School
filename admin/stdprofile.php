@@ -100,7 +100,7 @@ $time=$row['time'];
 <div class="row align-items-center">
 <div class="col-lg-5">
 <div class="instructor-image">
-<img src="../assets/4s.png" alt="Image">
+<img src="../assets/4si.png" alt="Image">
 </div>
 </div>
 <div class="col-lg-7">

@@ -60,7 +60,7 @@ while($row = mysqli_fetch_array($result))
 
 
 <div class="single-comments-box">
-<img src="../assets/4si.png" alt="Images">
+<img src="../assets/4s.png" alt="Images">
 <h4>'.$name.'</h4>
 <div class="date">
 <p>'.$email.'</p>
