@@ -34,7 +34,7 @@
 </head>
 <body>
 
-
+<?php include'header.php';?>
 <div class="news-details-area pt-100 pb-70">
 <div class="container">
 <div class="row">
