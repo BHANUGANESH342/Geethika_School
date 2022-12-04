@@ -1,10 +1,12 @@
-<?php
+<?php session_start();
 
 if(isset($_POST['login']))
 {
     if($_POST['username'] == 'admin' && $_POST['password'] == 'admin')
     {
+        $_SESSION['user'] = 'admin';
         header('location:dashboard.php');
+
     }
     else
     {
@@ -69,7 +71,7 @@ if(isset($_POST['login']))
  <h3>Login</h3>
 <form method="POST">
 <div class="form-group">
-<input type="email" id="email" class="form-control" placeholder="Username">
+<input type="text" id="email" class="form-control" placeholder="Username">
 </div>
 <div class="form-group">
 <input type="password" id="password" class="form-control" placeholder="Password*">

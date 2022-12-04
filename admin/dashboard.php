@@ -1,4 +1,7 @@
+<?php
+include 'checkssn.php';
 
+?>
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
@@ -54,10 +57,10 @@ $result=mysqli_query($con,$querry);
 $row=mysqli_fetch_array($result);
 $count=$row['count'];
 
-// $querry="select count(*) as count from registration where status='0'";
-// $result=mysqli_query($con,$querry);
-// $row=mysqli_fetch_array($result);
-// $count=$row['count'];
+$querry1="select count(*) as count from contact where status='0'";
+$result1=mysqli_query($con,$querry1);
+$row1=mysqli_fetch_array($result1);
+$count1=$row1['count'];
 
 // $querry="select count(*) as count from registration where status='0'";
 // $result=mysqli_query($con,$querry);
@@ -87,12 +90,12 @@ $count=$row['count'];
 <div class="icon">
 <i class="flaticon-art"></i>
 </div>
-<a href="academics-details.html"><h3>Messages</h3></a>
-<p>New Messages :</p>
-<a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
+<a href="messages.php"><h3>Messages</h3></a>
+<p>New Messages :<?php echo $count1 ?></p>
+<a href="messages.php" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
 </div>
 </div>
-<div class="col-lg-4 col-sm-6">
+<!-- <div class="col-lg-4 col-sm-6">
 <div class="single-academics-card3">
 <div class="icon">
 <i class="flaticon-auction"></i>
@@ -101,7 +104,7 @@ $count=$row['count'];
 <p>new Querrys</p>
 <a href="academics-details.html" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
 </div>
-</div>
+</div> -->
 
 
 </div>
