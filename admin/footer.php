@@ -4,7 +4,7 @@
 <div class="row">
 <div class="col-lg-4 col-sm-6">
 <div class="footer-logo-area">
-<a href="index.html"><img src="../school images/main white.png" alt="Image"></a>
+<a href="index.html"><img src="school images/main white.png" alt="Image"></a>
 <p>Geethika School aims to be recognized as an accomplished, comprehensive academic foundation that helps budding geniuses conform to the demands of a vigorous world.</p>
 <div class="contact-list">
 <ul>
