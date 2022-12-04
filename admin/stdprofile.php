@@ -1,6 +1,4 @@
 
-
-
 <?php
 
 $id=$_GET['id'];
@@ -79,7 +77,7 @@ $fmob=$row['fmob'];
 <li>
 <div class="teacher">
 <img src="../assets/images/courses/admin-1.jpg" alt="Image">
-<p>posted by : <a href="#">Father name :<?php echo $father_name ;?></a></p>
+<p>posted by : <a href="#">Father name :<?php echo $father_name ?></a></p>
 </div>
 </li>
 <li><i class="flaticon-clock"></i><span>posted on :</span>September 29, 2021</li>
@@ -99,16 +97,16 @@ $fmob=$row['fmob'];
 <div class="col-lg-7">
 <div class="instructor-content">
 <div class="name">
-<h3><?php echo $student_name ;?></h3>
-<p><?php echo $class ;?></p>
+<h3><?php echo $student_name ?></h3>
+<p><?php echo $class ?></p>
 </div>
-<p class="mb-30"><?php echo $preschool ;?></p>
+<p class="mb-30"><?php echo $preschool?></p>
 <div class="quick-contact">
-<h4><?php echo $gender ;?></h4>
+<h4><?php echo $gender ?></h4>
 <ul>
-<li><i class="ri-phone-line"></i><span>Phone Number:</span><a href="tel:<?php echo $mobile ;?>"><?php echo $mobile ;?>
+<li><i class="ri-phone-line"></i><span>Phone Number:</span><a href="tel:<?php echo $mobile?>"><?php echo $mobile ;?>
 </a></li>
-<li><i class="ri-phone-line"></i><span>Phone Number:</span><a href="tel:<?php echo $fmon ;?>"><?php echo $fmob;?>
+<li><i class="ri-phone-line"></i><span>Phone Number:</span><a href="tel:<?php echo $fmon ?>"><?php echo $fmob;?>
 </a></li>
 <!-- <li><i class="ri-mail-line"></i><span>Email:</span><a href="tel:8002162020"><span class="__cf_email__" data-cfemail="feb7909891be9b869f938e929bd09d9193">[email&#160;protected]</span></a></li> -->
 </ul>
