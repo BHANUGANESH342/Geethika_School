@@ -1,7 +1,7 @@
 
 <?php
 
-if(isset($_POST['login']))
+if(isset($_POST['review']))
 {
     $q="update registration set status='1' where s_no=$id";
     $result=mysqli_query($con,$q);
