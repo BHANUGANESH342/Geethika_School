@@ -1,9 +1,25 @@
 
 <?php
 
+if(isset($_POST['login']))
+{
+    $q="update registration set status='1' where s_no=$id";
+    $result=mysqli_query($con,$q);
+    if($result)
+    {
+        echo "<script>alert('Student Admitted Successfully')</script>";
+        echo "<script>window.location.href='admissions.php'</script>";
+    }
+    else
+    {
+        echo "<script>alert('Student Admitted Failed')</script>";
+        echo "<script>window.location.href='admissions.php'</script>";
+    }
+}
+
 $id=$_GET['id'];
 include 'connect.php';
-$querry="select s_no,stdNam,admClas,fname,fmob,mmob,gender,preschool from registration where  s_no=$id ";
+$querry="select s_no,stdNam,admClas,fname,fmob,mmob,gender,preschool,time from registration where  s_no=$id ";
 $result=mysqli_query($con,$querry);
 $row = mysqli_fetch_array($result);
 $father_name=$row['fname'];
@@ -13,7 +29,7 @@ $mobile=$row['mmob'];
 $gender=$row['gender'];
 $preschool=$row['preschool'];
 $fmob=$row['fmob'];
-
+$time=$row['time'];
 ?>
 <!DOCTYPE html>
 <html lang="zxx">
@@ -72,7 +88,7 @@ $fmob=$row['fmob'];
 <p>posted by : <a href="#">Father name :<?php echo $father_name ?></a></p>
 </div>
 </li>
-<li><i class="flaticon-clock"></i><span>posted on :</span>September 29, 2021</li>
+<li><i class="flaticon-clock"></i><span>posted on :</span><?php echo $time ?></li>
 </ul>
 </div>
 </div>
@@ -133,8 +149,8 @@ $fmob=$row['fmob'];
 <h3>Documents</h3>
  <ul>
 <li><a href="#"><i class="flaticon-pdf-file"></i>Aadhar No : </a></li>
-<li><a href="#"><i class="flaticon-pdf-file"></i>Department Details</a></li>
-<li><a href="#"><i class="flaticon-pdf-file"></i>Journals Departments</a></li>
+<li><a href="#"><i class="flaticon-pdf-file"></i>Mother Aadhar No :</a></li>
+<li><a href="#"><i class="flaticon-pdf-file"></i>Father Aadhar No :</a></li>
 </ul>
 </div>
 </div>
