@@ -39,7 +39,7 @@
 include("header.php");
 ?>
 <h1 align="center">You Have Registered Succuessfully!</h1>
-<a herf="index.php"><button type="submit" name="login" class="default-btn btn active">Go Back</button></a>
+<a herf="index.php"><button  name="login" class="default-btn btn active">Go Back</button></a>
 
 
 
