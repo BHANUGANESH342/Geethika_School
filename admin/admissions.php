@@ -30,7 +30,7 @@
 
 <link rel="stylesheet" href="../assets/css/responsive.css">
 <link rel="icon" type="image/png" href="../assets/images/favicon.png">
-<title>Sanu - College University HTML Template</title>
+<title>Admissions</title>
 </head>
 <body>
 
@@ -78,7 +78,7 @@ while($row = mysqli_fetch_array($result))
 <div class="courses-img">
     <div class="courses-content">
     <div class="admin-profile">
-    <img src="../assets/images/courses/admin-1.jpg" alt="Image">
+    <img src="../assets/4s.png" alt="Image">
     <p>by '.$father_name.'</p>
     </div>
     <a href="stdprofile.php?id='.$id.'"><h3>'.$student_name.'</h3></a>
