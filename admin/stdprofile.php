@@ -68,6 +68,53 @@
 </ul>
 </div>
 </div>
+
+<div class="tab-pane fade" id="nav-instructor" role="tabpanel" aria-labelledby="nav-instructor-tab">
+<div class="row">
+<div class="instructor">
+<div class="row align-items-center">
+<div class="col-lg-5">
+<div class="instructor-image">
+<img src="../assets/images/courses/instructor.jpg" alt="Image">
+</div>
+</div>
+<div class="col-lg-7">
+<div class="instructor-content">
+<div class="name">
+<h3>Samantha Nicola</h3>
+<p>Instructor Of Economy</p>
+</div>
+<p class="mb-30">deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
+<div class="quick-contact">
+<h4>Quick Contact</h4>
+<ul>
+<li><i class="ri-phone-line"></i><span>Phone Number:</span><a href="tel:8002162020">(800) 216 2020
+</a></li>
+<li><i class="ri-mail-line"></i><span>Email:</span><a href="tel:8002162020"><span class="__cf_email__" data-cfemail="feb7909891be9b869f938e929bd09d9193">[email&#160;protected]</span></a></li>
+</ul>
+</div>
+<div class="social">
+<ul>
+<li>
+<a href="https://instagram.com/?lang=en" target="_blank"><i class="ri-instagram-line"></i></a>
+</li>
+<li>
+<a href="https://linkedin.com/?lang=en" target="_blank"><i class="ri-linkedin-fill"></i></a>
+</li>
+<li>
+<a href="https://www.facebook.com" target="_blank"><i class="ri-facebook-fill"></i></a>
+</li>
+<li>
+<a href="https://www.twitter.com" target="_blank"><i class="ri-twitter-fill"></i></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 <div class="description">
 <div class="container p-0">
 <nav>
@@ -117,52 +164,7 @@
 </div>
 </div>
 </div>
-<div class="tab-pane fade" id="nav-instructor" role="tabpanel" aria-labelledby="nav-instructor-tab">
-<div class="row">
-<div class="instructor">
-<div class="row align-items-center">
-<div class="col-lg-5">
-<div class="instructor-image">
-<img src="../assets/images/courses/instructor.jpg" alt="Image">
-</div>
-</div>
-<div class="col-lg-7">
-<div class="instructor-content">
-<div class="name">
-<h3>Samantha Nicola</h3>
-<p>Instructor Of Economy</p>
-</div>
-<p class="mb-30">deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
-<div class="quick-contact">
-<h4>Quick Contact</h4>
-<ul>
-<li><i class="ri-phone-line"></i><span>Phone Number:</span><a href="tel:8002162020">(800) 216 2020
-</a></li>
-<li><i class="ri-mail-line"></i><span>Email:</span><a href="tel:8002162020"><span class="__cf_email__" data-cfemail="feb7909891be9b869f938e929bd09d9193">[email&#160;protected]</span></a></li>
-</ul>
-</div>
-<div class="social">
-<ul>
-<li>
-<a href="https://instagram.com/?lang=en" target="_blank"><i class="ri-instagram-line"></i></a>
-</li>
-<li>
-<a href="https://linkedin.com/?lang=en" target="_blank"><i class="ri-linkedin-fill"></i></a>
-</li>
-<li>
-<a href="https://www.facebook.com" target="_blank"><i class="ri-facebook-fill"></i></a>
-</li>
-<li>
-<a href="https://www.twitter.com" target="_blank"><i class="ri-twitter-fill"></i></a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 <div class="tab-pane fade" id="nav-reviews" role="tabpanel" aria-labelledby="nav-reviews-tab">
 <div class="reviews">
 <div class="single-reviews-card">
