@@ -46,7 +46,24 @@
 
 <?php include'header.php'; ?>
 
+<?php 
 
+include'connect.php';
+$querry="select count(*) as count from registration where status='0'";
+$result=mysqli_query($con,$querry);
+$row=mysqli_fetch_array($result);
+$count=$row['count'];
+
+// $querry="select count(*) as count from registration where status='0'";
+// $result=mysqli_query($con,$querry);
+// $row=mysqli_fetch_array($result);
+// $count=$row['count'];
+
+// $querry="select count(*) as count from registration where status='0'";
+// $result=mysqli_query($con,$querry);
+// $row=mysqli_fetch_array($result);
+// $count=$row['count'];
+?>
 
 
 <div class="academics-area pt-100 pb-70">
@@ -61,7 +78,7 @@
 <i class="flaticon-pc"></i>
 </div>
 <a href="admissions.php"><h3>New Admissions</h3></a>
-<p>New Admissions:</p>
+<p>New Admissions:<?php echo $count ?></p>
 <a href="admissions.php" class="read-more-btn">Read More<i class="flaticon-next"></i></a>
 </div>
 </div>
