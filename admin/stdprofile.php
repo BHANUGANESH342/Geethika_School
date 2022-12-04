@@ -98,9 +98,9 @@ $time=$row['time'];
 <div class="instructor">
 <div class="row align-items-center">
 <div class="col-lg-5">
-<!-- <div class="instructor-image">
-<!-- <img src="../assets/images/courses/instructor.jpg" alt="Image"> -->
-</div> -->
+<div class="instructor-image">
+<img src="../assets/images/courses/instructor.jpg" alt="Image">
+</div>
 </div>
 <div class="col-lg-7">
 <div class="instructor-content">
