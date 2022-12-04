@@ -61,7 +61,7 @@
 </div>
 <div class="courses-content"><?php
 include'connect.php';
-$querry="select s_no,stdNam,admClas,fname,mmob,gender from registration";
+$querry="select s_no,stdNam,admClas,fname,mmob,gender from registration where status='0'";
 $result=mysqli_query($con,$querry);
 while($row = mysqli_fetch_array($result))
 {
