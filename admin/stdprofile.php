@@ -158,8 +158,9 @@ $time=$row['time'];
 </div>
 </div>
 
-
+<form method="POST">
 <button type="submit" name="review" class="default-btn btn active">Reviewd</button>
+</form>
 <div class="go-top">
 <i class="ri-arrow-up-s-line"></i>
 <i class="ri-arrow-up-s-line"></i>
