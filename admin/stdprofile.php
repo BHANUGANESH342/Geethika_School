@@ -3,7 +3,7 @@
 
 $id=$_GET['id'];
 include 'connect.php';
-$querry="select s_no,stdNam,admClas,fname,fmob,mmob,gender,preschool from registration where  id=$id ";
+$querry="select s_no,stdNam,admClas,fname,fmob,mmob,gender,preschool from registration where  s_no=$id ";
 $result=mysqli_query($con,$querry);
 $row = mysqli_fetch_array($result);
 $father_name=$row['fname'];
