@@ -39,23 +39,23 @@ include'header.php';
 ?>
 <?php
 include'connect.php';
-if (isset($_POST['submit']))
+if(isset($_POST['submit']))
 {
-    $cname=$_POST["cname"];
-    $admClass=$_POST["adm_class"];
-    $gender=$_POST["gender"];
-    $s_aadhar=$_POST["s_aadhar"];
-    $fname=$_POST["fname"];
-    $fjob=$_POST["fjob"];
-    $f_aadhar=$_POST["f_aadhar"];
-    $fmobile=$_POST["fmobile"];
-    $mname=$_POST["mname"];
-    $mjob=$_POST["mjob"];
-    $m_aadhar=$_POST["m_aadhar"];
-    $mphone=$_POST["mphone"];
-    $prev_school=$_POST["prev_school"];
-    $email=$_POST["email"];
-    date_default_timezone_set("Asia/Calcutta");  
+    $cname=$_POST['cname'];
+    $admClass=$_POST['adm_class'];
+    $gender=$_POST['gender'];
+    $s_aadhar=$_POST['s_aadhar'];
+    $fname=$_POST['fname'];
+    $fjob=$_POST['fjob'];
+    $f_aadhar=$_POST['f_aadhar'];
+    $fmobile=$_POST['fmobile'];
+    $mname=$_POST['mname'];
+    $mjob=$_POST['mjob'];
+    $m_aadhar=$_POST['m_aadhar'];
+    $mphone=$_POST['mphone'];
+    $prev_school=$_POST['prev_school'];
+    $email=$_POST['email'];
+    date_default_timezone_set('Asia/Calcutta');  
     $time=date('d-m-Y h:i:s');
     $query="insert into `registration` (S_NO,stdNam,admClas,gender,stdAdhr,fname,foccup,fadhr,fmob,mname,moccup,madhr,mmob,email,preschool,status,time) values ('','$cname','$admClass','$gender','$s_aadhar','$fname','$fjob','$f_aadhar','$fmobile','$mname','$mjob','$m_aadhar','$mphone','$email','$prev_school','0','$time');";
     $pass=mysqli_query($con,$query);
