@@ -101,49 +101,41 @@ $count1=$row1['count'];
 </div>
 </div>
 </div>
+<?php include'header.php'; ?>
+
+<?php 
+
+include'connect.php';
+$querry="select count(*) as count from registration ";
+$result=mysqli_query($con,$querry);
+$row=mysqli_fetch_array($result);
+$count=$row['count'];
+
+$querry1="select count(*) as count from contact ";
+$result1=mysqli_query($con,$querry1);
+$row1=mysqli_fetch_array($result1);
+$count1=$row1['count'];
+
+// $querry="select count(*) as count from registration where status='0'";
+// $result=mysqli_query($con,$querry);
+// $row=mysqli_fetch_array($result);
+// $count=$row['count'];
+?>
+
 <div class="col-lg-3">
 <div class="acdemics-right-content">
-<div class="serch-content">
+<a herf="total-admissions.php"><div class="serch-content">
 <h3>Total Admissions </h3>
 <div class="form-group">
 <p><?php echo $count ?></p>
-<i class="flaticon-search"></i>
 </button>
+</div></a>
 </div>
-</div>
-<div class="category-content">
+<a herf="total-messages.php"><div class="category-content">
 <h3>Total Messages</h3>
 <p><?php echo $count1 ?></p>
-</div>
-<div class="location-type">
-<h3>Location Type</h3>
-<div class="form-check">
-<input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
-<label class="form-check-label" for="flexCheckDefault">
-On Campus
-</label>
-</div>
-<div class="form-check">
-<input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked="">
-<label class="form-check-label" for="flexCheckChecked">
-Online
-</label>
-</div>
-</div>
-<div class="program-level">
-<h3>Program Level</h3>
-<div class="form-check">
-<input class="form-check-input" type="checkbox" value="" id="flexCheckDefault2">
-<label class="form-check-label" for="flexCheckDefault2">
-Graduate
-</label>
-</div>
-<div class="form-check">
-<input class="form-check-input" type="checkbox" value="" id="flexCheckChecked1" checked="">
-<label class="form-check-label" for="flexCheckChecked1">
-Undergraduate
-</label>
-</div>
+</div></a>
+
 </div>
 </div>
 </div>
