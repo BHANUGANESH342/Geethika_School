@@ -71,10 +71,10 @@ if(isset($_POST['login']))
  <h3>Login</h3>
 <form method="POST">
 <div class="form-group">
-<input type="text" id="email" class="form-control" placeholder="Username">
+<input type="text" id="email" name="username" class="form-control" placeholder="Username">
 </div>
 <div class="form-group">
-<input type="password" id="password" class="form-control" placeholder="Password*">
+<input type="password" id="password" name="password" class="form-control" placeholder="Password*">
 </div>
 <!-- <div class="form-check">
 <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
