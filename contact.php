@@ -48,7 +48,7 @@ if(isset($_POST['submit']))
     if($run)
     {
         echo "<script>alert('Message Posted  Successfully')</script>";
-       
+        echo "<script>window.location.href='index.php'</script>";
     }
     else
     {
