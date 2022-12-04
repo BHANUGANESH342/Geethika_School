@@ -33,7 +33,8 @@
 </head>
 <body>
 <?php
-include("header.php");
+include'header.php';
+include'connect.php';
 if (isset($_POST["submit"]))
 {
     $name=$_POST["name"];
@@ -44,7 +45,16 @@ if (isset($_POST["submit"]))
     $gridCheck=$_POST["gridCheck"];
     $pass="insert into `contact`  values ('','$name','$email','$mobile','$subject','$message','$gridCheck');";
     $run=mysqli_query($con,$pass);
-    if($run) echo "Data entered Sucess fully";
+    if($result)
+    {
+        echo "<script>alert('Message Posted  Successfully')</script>";
+       
+    }
+    else
+    {
+        echo "<script>alert('Message Posting failled')</script>";
+        echo "<script>window.location.href='admissions.php'</script>";
+    }
 }
 ?>
 
