@@ -45,7 +45,7 @@ if (isset($_POST["submit"]))
     $gridCheck=$_POST["gridCheck"];
     $pass="insert into `contact`  values ('','$name','$email','$mobile','$subject','$message','$gridCheck');";
     $run=mysqli_query($con,$pass);
-    if($result)
+    if($run)
     {
         echo "<script>alert('Message Posted  Successfully')</script>";
        
