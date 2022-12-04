@@ -2,7 +2,15 @@
 
 if(isset($_POST['login']))
 {
-    header('location:dashboard.php');
+    if($_POST['username'] == 'admin' && $_POST['password'] == 'admin')
+    {
+        header('location:dashboard.php');
+    }
+    else
+    {
+        echo "<script>alert('Invalid Username or Password')</script>";
+    }
+  
 }
 
 ?>
