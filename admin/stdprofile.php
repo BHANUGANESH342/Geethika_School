@@ -42,7 +42,7 @@ $fmob=$row['fmob'];
 
 <link rel="stylesheet" href="../assets/css/style.css">
 
-<link rel="stylesheet" href="../assets/css/dark.css">
+<!-- <link rel="stylesheet" href="../assets/css/dark.css">   -->
 
 <link rel="stylesheet" href="../assets/css/responsive.css">
 <link rel="icon" type="image/png" href="../assets/images/favicon.png">
@@ -50,15 +50,7 @@ $fmob=$row['fmob'];
 </head>
 <body>
 
-<div class="preloader-area">
-<div class="spinner">
-<div class="inner">
-<div class="disc"></div>
-<div class="disc"></div>
-<div class="disc"></div>
-</div>
-</div>
-</div>
+
 
 <?php include'header.php'; ?>
 
