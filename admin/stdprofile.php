@@ -1,6 +1,6 @@
 
 <?php
-
+include 'connect.php';
 if(isset($_POST['review']))
 {
     $q="update registration set status='1' where s_no=$id";
@@ -18,7 +18,7 @@ if(isset($_POST['review']))
 }
 
 $id=$_GET['id'];
-include 'connect.php';
+
 $querry="select s_no,stdNam,admClas,fname,fmob,mmob,gender,preschool,time from registration where  s_no=$id ";
 $result=mysqli_query($con,$querry);
 $row = mysqli_fetch_array($result);
