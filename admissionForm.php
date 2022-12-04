@@ -57,7 +57,7 @@ if(isset($_POST['submit']))
     $email=$_POST['email'];
     date_default_timezone_set('Asia/Calcutta');  
     $time=date('d-m-Y h:i:s');
-    $query="insert into `registration` (S_NO,stdNam,admClas,gender,stdAdhr,fname,foccup,fadhr,fmob,mname,moccup,madhr,mmob,email,preschool,status,time) values ('','$cname','$admClass','$gender','$s_aadhar','$fname','$fjob','$f_aadhar','$fmobile','$mname','$mjob','$m_aadhar','$mphone','$email','$prev_school','0','$time');";
+    $query="insert into `registration` (stdNam,admClas,gender,stdAdhr,fname,foccup,fadhr,fmob,mname,moccup,madhr,mmob,email,preschool,status,time) values ('$cname','$admClass','$gender','$s_aadhar','$fname','$fjob','$f_aadhar','$fmobile','$mname','$mjob','$m_aadhar','$mphone','$email','$prev_school','0','$time');";
     $pass=mysqli_query($con,$query);
     if($pass){
         echo "<script>window.location.href='registrationsuccess.php'</script>";
