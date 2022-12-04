@@ -52,19 +52,19 @@
 <div class="col-lg-8">
 <div class="courses-details">
 <div class="courses-card">
-<h2>Python Programming For Data Science</h2>
+<!-- <h2>Python Programming For Data Science</h2>
 <div class="img">
 <img src="../assets/images/courses/courses-4.jpg" alt="Image">
-</div>
+</div> -->
 <div class="list">
 <ul>
 <li>
 <div class="teacher">
 <img src="../assets/images/courses/admin-1.jpg" alt="Image">
-<p>Teacher: <a href="#">Jessica Hamson</a></p>
+<p>posted by : <a href="#">Father name</a></p>
 </div>
 </li>
-<li><i class="flaticon-clock"></i><span>Last Update:</span>September 29, 2021</li>
+<li><i class="flaticon-clock"></i><span>posted on :</span>September 29, 2021</li>
 </ul>
 </div>
 </div>
