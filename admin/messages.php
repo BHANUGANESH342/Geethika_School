@@ -53,30 +53,41 @@
 <div class="col-lg-8">
 
 <div class="comments">
-<h3>2 comments</h3>
+<h3>2 Messages</h3>
+<?php
+include'connect.php';
+$querry="SELECT `S_NO`, `Name`, `email`, `mobile`, `subject`, `message`, `accept` FROM `contact`  where status='0'";
+$result=mysqli_query($con,$querry);
+while($row = mysqli_fetch_array($result))
+{
+    $name=$row['Name'];
+    $email=$row['email'];
+    $mobile=$row['mobile'];
+    $subject=$row['subject'];
+    $message=$row['message'];
+    $accept=$row['accept'];
+    $sno=$row['S_NO'];
+
+    echo'
+
+
 <div class="single-comments-box">
 <img src="../assets/images/courses/review-1.png" alt="Images">
-<h4>James Benjamin</h4>
+<h4>'.$name.'</h4>
 <div class="date">
-<p>jan 17, 2022 at 10:43 am</p>
+<p>'.$email.'</p>
 </div>
 <div class="reply">
-<a href="#">Reply</a>
+<a href="checked.php?id='.$sno.'">Reply</a>
 </div>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incid idunt ut dolore magna aliqua. Ut enim ad minim ven iam quis nostrud </p>
-</div>
-<div class="single-comments-box">
-<img src="../assets/images/courses/review-2.png" alt="Images">
-<h4>Elizabeth Sofia</h4>
-<div class="date">
-<p>jan 17, 2022 at 10:43 am</p>
-</div>
-<div class="reply">
-<a href="#">Reply</a>
-</div>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tem incid idunt ut dolore magna aliqua. Ut enim ad minim ven iam quis nostrud </p>
-</div>
-</div>
+<p>Subject : '.$subject.' </p>
+
+<p>'.$message.'</p>
+</div>';
+
+} 
+?>
+
 
 </div>
 </div>
