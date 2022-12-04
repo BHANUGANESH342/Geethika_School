@@ -35,14 +35,14 @@
 <?php
 include'header.php';
 include'connect.php';
-if (isset($_POST["submit"]))
+if(isset($_POST['submit']))
 {
-    $name=$_POST["name"];
-    $email=$_POST["email"];
-    $mobile=$_POST["phone_number"];
-    $subject=$_POST["msg_subject"];
-    $message=$_POST["message"];
-    $gridCheck=$_POST["gridCheck"];
+    $name=$_POST['name'];
+    $email=$_POST['email'];
+    $mobile=$_POST['phone_number'];
+    $subject=$_POST['msg_subject'];
+    $message=$_POST['message'];
+    $gridCheck=$_POST['gridCheck'];
     $pass="insert into `contact`  values ('','$name','$email','$mobile','$subject','$message','$gridCheck');";
     $run=mysqli_query($con,$pass);
     if($run)
@@ -53,7 +53,7 @@ if (isset($_POST["submit"]))
     else
     {
         echo "<script>alert('Message Posting failled')</script>";
-        echo "<script>window.location.href='admissions.php'</script>";
+        echo "<script>window.location.href='    .php'</script>";
     }
 }
 ?>
@@ -163,7 +163,7 @@ I agree to the <a href="terms-conditions.html">terms</a> and <a href="privacy-po
 </div>
 </div>
 <?php
-include("footer.php");
+include'footer.php';
 ?>
 
 <div class="go-top">
