@@ -37,15 +37,6 @@ include 'checkssn.php';
 </head>
 <body>
 
-<div class="preloader-area">
-<div class="spinner">
-<div class="inner">
-<div class="disc"></div>
-<div class="disc"></div>
-<div class="disc"></div>
-</div>
-</div>
-</div>
 
 <?php include'header.php'; ?>
 
@@ -113,24 +104,16 @@ $count1=$row1['count'];
 <div class="col-lg-3">
 <div class="acdemics-right-content">
 <div class="serch-content">
-<h3>Search</h3>
+<h3>Total Admissions </h3>
 <div class="form-group">
-<input type="text" class="form-control" placeholder="Find Your Course">
-<button type="submit" class="src-btn">
+<p><?php echo $count ?></p>
 <i class="flaticon-search"></i>
 </button>
 </div>
 </div>
 <div class="category-content">
-<h3>Select a Category</h3>
-<select class="form-select form-control" aria-label="Default select example">
-<option selected="">Select a Category</option>
-<option value="1">Business</option>
-<option value="2">Fashion</option>
- <option value="3">writing</option>
-<option value="3">Development</option>
-<option value="3">Marketing</option>
-</select>
+<h3>Total Messages</h3>
+<p><?php echo $count1 ?></p>
 </div>
 <div class="location-type">
 <h3>Location Type</h3>
@@ -302,6 +285,6 @@ Undergraduate
 
 <script src="../assets/js/ajaxchimp.min.js"></script>
 
-<script src="../assets/js/custom.js"></script>
+<!-- <script src="../assets/js/custom.js"></script> -->
 </body>
 </html>
