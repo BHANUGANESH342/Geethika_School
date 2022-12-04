@@ -56,7 +56,7 @@ if (isset($_POST['submit']))
     $prev_school=$_POST["prev_school"];
     $email=$_POST["email"];
     date_default_timezone_set("Asia/Calcutta");  
-    $time=date('d-m-Y h:i:s A');
+    $time=date('d-m-Y h:i:s');
     $query="insert into `registration` (S_NO,stdNam,admClas,gender,stdAdhr,fname,foccup,fadhr,fmob,mname,moccup,madhr,mmob,email,preschool,status,time) values ('','$cname','$admClass','$gender','$s_aadhar','$fname','$fjob','$f_aadhar','$fmobile','$mname','$mjob','$m_aadhar','$mphone','$email','$prev_school','0','$time');";
     $pass=mysqli_query($con,$query);
     if($pass){
@@ -219,7 +219,7 @@ if (isset($_POST['submit']))
 </div>
 
     <?php
-    include("footer.php");
+    include'footer.php';
         ?>
         
         <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
