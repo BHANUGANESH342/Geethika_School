@@ -38,8 +38,8 @@
 <li><a href="academics.php">Acedemics</a></li>
 <li><a href="activities.php">Cirricular Activities</a></li>
 <li><a href="gallery.php">Gallery</a></li>
-<li><a href="adm_guideline.php">Guidelines</a></li>
-<li><a href="adm_form.php">Admission Form</a></li>
+<li><a href="admissionGuidlines.php">Guidelines</a></li>
+<li><a href="admissionForm.php">Admission Form</a></li>
 <!-- <li><a href="campus-life.html">Human Resources</a></li> -->
 </ul>
 </div>
