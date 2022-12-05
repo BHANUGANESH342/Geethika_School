@@ -245,8 +245,7 @@ include("header.php");
 <div class="student-life-area pt-100 pb-70">
 <div class="container">
 <div class="section-title">
-<h2>Student Life</h2>
-<p>Lorem ipsum dolor sit amet consectetur adipiscing elit ut elit tellus luctus nec ullamcorper mattis </p>
+
 </div>
 <div class="row">
 <div class="col-lg-6">
