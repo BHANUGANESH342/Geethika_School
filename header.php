@@ -170,7 +170,7 @@ Gallery
 <h3>About Us</h3>
 <p>To be recognized as an accomplished, comprehensive academic foundation that helps budding geniuses conform to the demands of a vigorous world.</p>
 <div class="sidebar-btn">
-<a href="contact.html" class="default-btn">Let’s Talk</a>
+<a href="contact.php" class="default-btn">Let’s Talk</a>
 </div>
 </div>
 <div class="sidebar-contact-info">
