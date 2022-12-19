@@ -76,7 +76,7 @@
 <div class="col-lg-6 col-md-8">
 <div class="copy">
 
-<p>Designed By <a href="https://www.devbydevs.co/" target="new" style="color: white;">DevByDevs</a>  ©  <a href="#" target="_blank">Geethika School 2022</a></p>
+<p>Powerd  By <a href="https://www.devbydevs.co/" target="new" style="color: white;">devbydevs.co</a>  Â©  <a href="#" target="_blank">Geethika School 2022</a></p>
 </div>
 </div>
 </div>
