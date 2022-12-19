@@ -68,7 +68,7 @@
 </div>
 
 
-<div class="copyright-area">
+<div class="copyright-area" align="center">
 <div class="container">
 <div class="copyright">
 <div class="row">
