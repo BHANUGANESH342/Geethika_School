@@ -35,7 +35,7 @@
 <h3>Our Campus</h3>
 <div class="list">
 <ul>
-<li><a href="academics.php">Acedemics</a></li>
+<li><a href="academics.php">Academics</a></li>
 <li><a href="activities.php">Cirricular Activities</a></li>
 <li><a href="gallery.php">Gallery</a></li>
 <li><a href="admissionGuidlines.php">Guidelines</a></li>
